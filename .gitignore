@@ -1,0 +1,6 @@
+.direnv/
+result
+tmp
+.vscode
+data/cache/ides-latest.json
+*.pyc

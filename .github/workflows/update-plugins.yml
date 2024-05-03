@@ -1,0 +1,80 @@
+# name
+name: Update Plugins
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '10 1 * * 0-5'
+
+# permissions, see https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#permissions and https://docs.github.com/en/rest/overview/permissions-required-for-github-apps
+permissions:
+  actions: read # detection of GitHub Actions environment
+  checks: none
+  contents: read
+  deployments: none
+  id-token: none
+  issues: none
+  packages: none
+  pages: none
+  pull-requests: none
+  repository-projects: none
+  security-events: none
+  statuses: none
+
+# cancel in progress when a new run starts
+concurrency:
+  group: '${{ github.workflow }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'
+  cancel-in-progress: true
+
+# jobs
+jobs:
+  UpdatePlugins:
+    runs-on: ubuntu-22.04 # https://github.com/actions/runner-images
+    timeout-minutes: 60 # the full plugin update process runs about 20 minutes
+    permissions:
+      contents: write
+    steps:
+      - name: Harden Runner
+        uses: step-security/harden-runner@a4aa98b93cab29d9b1101a6143fb8bce00e2eac4 # v2.7.1
+        with:
+          disable-telemetry: true
+          disable-sudo: true
+          egress-policy: block
+          allowed-endpoints: >-
+            github.com:443
+            api.github.com:443
+            codeload.github.com:443
+            raw.githubusercontent.com:443
+            plugins.jetbrains.com:443
+            cache.nixos.org:443
+            auth.docker.io:443
+            registry-1.docker.io:443
+            production.cloudflare.docker.com:443
+      - name: Checkout
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+        with:
+          fetch-depth: 0
+      - name: setup git
+        run: |
+          git config --global user.name "Nix JetBrains Plugin Update Bot"
+          git config --global user.email "bot.nix-jetbrains-plugins@philippheuer.me"
+      - name: update plugins
+        run: |
+          set +e
+          # make scripts executable
+          chmod +x scripts/*.sh scripts/*.py
+  
+          # update flake.lock
+          ./scripts/in-nix-container.sh ./scripts/update-flake.sh
+
+          # update plugins
+          ./scripts/in-nix-container.sh ./scripts/update-plugins.py
+
+          # check if data/cache/plugins-latest.json has changed
+          if ! git diff --exit-code --quiet data/cache/plugins-latest.json; then
+            git add .
+            git commit -m "feat: update plugins - $(date +'%Y-%m-%dT%H:%M:%S')"
+            git push
+          else
+            echo "No changes in data/cache/plugins-latest.json. Exiting without committing."
+          fi
