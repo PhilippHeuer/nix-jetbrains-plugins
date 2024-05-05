@@ -37,7 +37,6 @@ jobs:
       - name: Harden Runner
         uses: step-security/harden-runner@a4aa98b93cab29d9b1101a6143fb8bce00e2eac4 # v2.7.1
         with:
-          disable-telemetry: true
           disable-sudo: true
           egress-policy: block
           allowed-endpoints: >-
@@ -46,6 +45,7 @@ jobs:
             codeload.github.com:443
             raw.githubusercontent.com:443
             plugins.jetbrains.com:443
+            downloads.marketplace.jetbrains.com:443
             cache.nixos.org:443
             auth.docker.io:443
             registry-1.docker.io:443
