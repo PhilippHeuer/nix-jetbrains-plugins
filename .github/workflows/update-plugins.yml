@@ -4,7 +4,7 @@ name: Update Plugins
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '10 1 * * 0-5'
+    - cron:  '10 3 * * *'
 
 # permissions, see https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#permissions and https://docs.github.com/en/rest/overview/permissions-required-for-github-apps
 permissions:
@@ -60,7 +60,8 @@ jobs:
           git config --global user.email "bot.nix-jetbrains-plugins@philippheuer.me"
       - name: update plugins
         run: |
-          set +e
+          set -e
+
           # make scripts executable
           chmod +x scripts/*.sh scripts/*.py
   
@@ -69,6 +70,9 @@ jobs:
 
           # update plugins
           ./scripts/in-nix-container.sh ./scripts/update-plugins.py
+      - name: commit and push changes
+        run: |
+          set -e
 
           # check if data/cache/plugins-latest.json has changed
           if ! git diff --exit-code --quiet data/cache/plugins-latest.json; then

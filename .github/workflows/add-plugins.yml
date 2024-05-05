@@ -60,24 +60,25 @@ jobs:
           git config --global user.email "bot.nix-jetbrains-plugins@philippheuer.me"
       - name: update plugins
         run: |
-          set +e
+          set -e
+
           # make scripts executable
           chmod +x scripts/*.sh scripts/*.py
 
           # update flake.lock
           ./scripts/update-flake.sh
 
-          # update plugins
+          # add plugins
           ./scripts/in-nix-container.sh ./scripts/add-plugins.py
+      - name: commit and push changes
+        run: |
+          set -e
 
-          # update plugins
-          ./scripts/in-nix-container.sh ./scripts/update-plugins.py
-
-          # check if data/cache/plugins-latest.json has changed
-          if ! git diff --exit-code --quiet data/cache/plugins-latest.json; then
+          # check if data/plugins.json has changed
+          if ! git diff --exit-code --quiet data/plugins.json; then
             git add .
             git commit -m "feat: add plugins - $(date +'%Y-%m-%dT%H:%M:%S')"
             git push
           else
-            echo "No changes in data/cache/plugins-latest.json. Exiting without committing."
+            echo "No changes in data/plugins.json. Exiting without committing."
           fi

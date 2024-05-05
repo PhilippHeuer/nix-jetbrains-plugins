@@ -1,6 +1,6 @@
 # Nix plugins for JetBrains IDEs
 
-Nixpkgs only contains a few of the more than 5,000 extensions in the [Jetbrains Marketplace](https://plugins.jetbrains.com/).
+Nixpkgs only contains a few of the more than 10,000 extensions in the [Jetbrains Marketplace](https://plugins.jetbrains.com/).
 This project provides Nix expressions for all of the available extensions from the [Jetbrains Marketplace](https://plugins.jetbrains.com/).
 
 ## Differences to nixpkgs
