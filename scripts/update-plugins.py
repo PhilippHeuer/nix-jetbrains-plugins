@@ -81,6 +81,11 @@ def process_plugin(plugin, plugin_infos, ide_versions, extra_builds):
             "name": plugin["name"],
             "slug": plugin["slug"],
         }
+
+        if pid not in plugin_infos:
+            logging.warning(f"Could not find plugin info for plugin {pid} [{plugin['key']}]")
+            return pid, None
+
         relevant_builds = [builds for ide, builds in ide_versions.items() if ide in plugin_versions["compatible"]] + [extra_builds]
         relevant_builds = sorted(list(set(flatten(relevant_builds))))  # Flatten, remove duplicates and sort
         for build in relevant_builds:
@@ -165,9 +170,14 @@ def get_file_names(plugins: dict[str, dict]) -> list[str]:
 def get_plugin_info(plugin):
     plugin_id = plugin["id"]  
     plugin_channel = plugin.get("channel", "")
-    resp = get_plugin_updates(plugin_id, plugin_channel)
 
-    return plugin_id, resp
+    try:
+        resp = get_plugin_updates(plugin_id, plugin_channel)
+        return plugin_id, resp
+    except Exception as e:
+        logging.error(f"Failed to get plugin info for plugin {plugin_id}: {e}")
+        return plugin_id, None
+
 
 def get_plugin_infos(plugins: dict) -> dict:
     result = {}
@@ -175,7 +185,8 @@ def get_plugin_infos(plugins: dict) -> dict:
         futures = {executor.submit(get_plugin_info, plugin): plugin for plugin in plugins}
         for future in as_completed(futures):
             plugin_id, updates = future.result()
-            result[plugin_id] = updates
+            if updates is not None:
+                result[plugin_id] = updates
     return result
 
 

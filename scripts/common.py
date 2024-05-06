@@ -42,8 +42,7 @@ def get_plugin_updates(pid: str, channel: str) -> dict:
     decoded = resp.json()
 
     if resp.status_code != 200:
-        print(f"Server gave non-200 code {resp.status_code} with message " + decoded["message"])
-        exit(1)
+        raise Exception(f"Server gave non-200 code {resp.status_code} with message " + decoded["message"])
 
     return decoded
 
