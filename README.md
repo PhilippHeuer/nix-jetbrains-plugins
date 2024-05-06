@@ -32,12 +32,6 @@ Then you can use the `addPlugins` function to add plugins to your IDE:
 
 let
   pluginList = [
-    # ai
-    "17718" # github copilot
-
-    # sast
-    "7973" # sonarlint
-
     # hotkeys
     "164" # ideavim
     "9792" # key-promoter-x
