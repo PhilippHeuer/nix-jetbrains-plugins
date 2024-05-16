@@ -29,6 +29,7 @@ TOKENS = {
 }
 SNAPSHOT_VALUE = 99999
 
+
 def get_hash(url):
     print(f"Downloading {url}")
     args = ["nix-prefetch-url", url, "--print-path"]
@@ -36,12 +37,18 @@ def get_hash(url):
         args.append("--unpack")
     else:
         args.append("--executable")
-    path_process = run(args, capture_output=True)
-    path = path_process.stdout.decode().split("\n")[1]
-    result = run(["nix", "--extra-experimental-features", "nix-command", "hash", "path", path], capture_output=True)
-    result_contents = result.stdout.decode()[:-1]
+    path_process = run(args, capture_output=True, check=True)
+    output_lines = path_process.stdout.decode().split("\n")
+    if len(output_lines) < 2:
+        raise ValueError("Unexpected output format from nix-prefetch-url")
+    path = output_lines[1].strip()
+    if not path:
+        raise ValueError("No path found in the output of nix-prefetch-url")
+
+    hash_process = run(["nix", "--extra-experimental-features", "nix-command", "hash", "path", path], capture_output=True, check=True)
+    result_contents = hash_process.stdout.decode()[:-1]
     if not result_contents:
-        raise RuntimeError(result.stderr.decode())
+        raise RuntimeError(f"Failed to compute hash: {hash_process.stderr.decode()}")
     return result_contents
 
 

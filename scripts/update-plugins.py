@@ -134,7 +134,11 @@ def get_file_hashes(file_list: list[str], old_hashes: dict[str, str], refetch_al
         if file in old:
             file_hashes[file] = old[file]
         else:
-            file_hashes[file] = get_hash(file)
+            try:
+                file_hashes[file] = get_hash(file)
+            except Exception as e:
+                logging.error(f"Failed to hash file {file}: {e}")
+
     return file_hashes
 
 
