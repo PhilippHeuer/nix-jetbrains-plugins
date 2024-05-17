@@ -37,28 +37,36 @@ jobs:
       - name: Harden Runner
         uses: step-security/harden-runner@a4aa98b93cab29d9b1101a6143fb8bce00e2eac4 # v2.7.1
         with:
-          disable-sudo: true
+          disable-sudo: false
           egress-policy: block
           allowed-endpoints: >-
             github.com:443
             api.github.com:443
             codeload.github.com:443
             raw.githubusercontent.com:443
+            objects.githubusercontent.com:443
             plugins.jetbrains.com:443
             downloads.marketplace.jetbrains.com:443
             cache.nixos.org:443
             auth.docker.io:443
             registry-1.docker.io:443
             production.cloudflare.docker.com:443
+            channels.nixos.org:443
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@8cdf194da984e4f12b2f8c36d1fa107c1dd67f5c # v11
+        with:
+          kvm: false
+          diagnostic-endpoint: "" # opt-out of telemetry
+          source-url: "https://github.com/DeterminateSystems/nix-installer/releases/download/v0.19.0/nix-installer-x86_64-linux"
       - name: Checkout
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
         with:
           fetch-depth: 0
-      - name: setup git
+      - name: Setup Git Config
         run: |
           git config --global user.name "Nix JetBrains Plugin Update Bot"
           git config --global user.email "bot.nix-jetbrains-plugins@philippheuer.me"
-      - name: update plugins
+      - name: Update Plugins
         run: |
           set +e
 
@@ -66,11 +74,11 @@ jobs:
           chmod +x scripts/*.sh scripts/*.py
   
           # update flake.lock
-          # ./scripts/in-nix-container.sh ./scripts/update-flake.sh
+          # ./scripts/update-flake.sh
 
           # update plugins
-          ./scripts/in-nix-container.sh ./scripts/update-plugins.py
-      - name: commit and push changes
+          ./scripts/update-plugins.py
+      - name: Commit and Push
         run: |
           set -e
 
