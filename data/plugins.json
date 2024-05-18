@@ -73450,6 +73450,594 @@
       "name": "Color Names",
       "slug": "color-names",
       "downloads": 0
+    },
+    {
+      "id": 24339,
+      "key": "file.new_file_from_selection",
+      "name": "New File from Selection",
+      "slug": "new-file-from-selection",
+      "downloads": 0
+    },
+    {
+      "id": 24340,
+      "key": "com.sercheo.file-analyzer",
+      "name": "File Analyzer",
+      "slug": "file-analyzer",
+      "downloads": 86
+    },
+    {
+      "id": 24341,
+      "key": "DarculaMinimalDark",
+      "name": "Darcula Minimal Dark",
+      "slug": "darcula-minimal-dark",
+      "downloads": 125
+    },
+    {
+      "id": 24342,
+      "key": "rgrunin.dart.filenamesync.dart_file_name_sync_intelij_plugin",
+      "name": "Dart File Name Sync",
+      "slug": "dart-file-name-sync",
+      "downloads": 74
+    },
+    {
+      "id": 24343,
+      "key": "com.zetrith.remodder",
+      "name": "Remodder",
+      "slug": "remodder",
+      "downloads": 16
+    },
+    {
+      "id": 24344,
+      "key": "com.linden.asteria-theme",
+      "name": "Asteria Theme",
+      "slug": "asteria-theme",
+      "downloads": 43
+    },
+    {
+      "id": 24345,
+      "key": "com.github.mwguerra.copyfilecontent",
+      "name": "Copy File Content",
+      "slug": "copy-file-content",
+      "downloads": 161
+    },
+    {
+      "id": 24347,
+      "key": "com.vanjor.FragmentInComposeHelper",
+      "name": "FragmentInComposeHelper",
+      "slug": "fragmentincomposehelper",
+      "downloads": 38
+    },
+    {
+      "id": 24350,
+      "key": "com.mitohato14.shiftmodifier",
+      "name": "ShiftModifier",
+      "slug": "shiftmodifier",
+      "downloads": 27
+    },
+    {
+      "id": 24353,
+      "key": "com.github.oomeow.jenv",
+      "name": "jEnv Helper",
+      "slug": "jenv-helper",
+      "downloads": 52
+    },
+    {
+      "id": 24356,
+      "key": "com.oscngl.java-progress-bar",
+      "name": "Java Progress Bar",
+      "slug": "java-progress-bar",
+      "downloads": 20
+    },
+    {
+      "id": 24357,
+      "key": "dev.fromnowon.fenix-buddy",
+      "name": "Fenix Buddy",
+      "slug": "fenix-buddy",
+      "downloads": 29
+    },
+    {
+      "id": 24358,
+      "key": "inga.intellij-inga",
+      "name": "Inga",
+      "slug": "inga",
+      "downloads": 0
+    },
+    {
+      "id": 24359,
+      "key": "com.intellij.bigdatatools.databricks",
+      "name": "Databricks",
+      "slug": "databricks",
+      "downloads": 10
+    },
+    {
+      "id": 24360,
+      "key": "com.androidbolts.fluttergenerator.FCCG",
+      "name": "Flutter Clean Code Generator",
+      "slug": "flutter-clean-code-generator",
+      "downloads": 114
+    },
+    {
+      "id": 24361,
+      "key": "com.kaciras.esbench",
+      "name": "ESBench",
+      "slug": "esbench",
+      "downloads": 15
+    },
+    {
+      "id": 24362,
+      "key": "com.intellisolve.intellisolve-plugin",
+      "name": "IntelliSolve",
+      "slug": "intellisolve",
+      "downloads": 0
+    },
+    {
+      "id": 24363,
+      "key": "org.support.jetbrains.ShowKeymapSettings",
+      "name": "Show Keymap Settings",
+      "slug": "show-keymap-settings",
+      "downloads": 83
+    },
+    {
+      "id": 24364,
+      "key": "fleet.lightweightIndexer",
+      "name": "LightweightIndexer",
+      "slug": "lightweightindexer",
+      "downloads": 0
+    },
+    {
+      "id": 24365,
+      "key": "me.panxin.plugin.idea.PTool",
+      "name": "PTool",
+      "slug": "ptool",
+      "downloads": 33
+    },
+    {
+      "id": 24366,
+      "key": "com.github.huangkl1024.defaultjvmargs",
+      "name": "Default Jvm Args",
+      "slug": "default-jvm-args",
+      "downloads": 13
+    },
+    {
+      "id": 24367,
+      "key": "com.intellij.exposed",
+      "name": "Exposed",
+      "slug": "exposed",
+      "downloads": 36
+    },
+    {
+      "id": 24369,
+      "key": "cx.by.backgroundpro",
+      "name": "Background Image Pro",
+      "slug": "background-image-pro",
+      "downloads": 387
+    },
+    {
+      "id": 24370,
+      "key": "com.fzero17.GitUser",
+      "name": "GitUser",
+      "slug": "gituser",
+      "downloads": 27
+    },
+    {
+      "id": 24372,
+      "key": "com.codegpt.CodeGPT",
+      "name": "CodeGPT: Chat & AI Agents",
+      "slug": "codegpt:-chat-&-ai-agents",
+      "downloads": 0
+    },
+    {
+      "id": 24375,
+      "key": "com.atalgaba.jbwebosstudio",
+      "name": "webOS Studio",
+      "slug": "webos-studio",
+      "downloads": 501
+    },
+    {
+      "id": 24376,
+      "key": "com.dubreuia.save.tool",
+      "name": "Save Actions Tool",
+      "slug": "save-actions-tool",
+      "downloads": 0
+    },
+    {
+      "id": 24377,
+      "key": "com.mongodb.jbplugin",
+      "name": "MongoDB Integration",
+      "slug": "mongodb-integration",
+      "downloads": 0
+    },
+    {
+      "id": 24378,
+      "key": "xyz.shblock.justenoughinspections",
+      "name": "JustEnoughInspections",
+      "slug": "justenoughinspections",
+      "downloads": 47
+    },
+    {
+      "id": 24379,
+      "key": "com.tencent.cloud.codingcopilot",
+      "name": "Tencent Cloud AI Code Assistant",
+      "slug": "tencent-cloud-ai-code-assistant",
+      "downloads": 121
+    },
+    {
+      "id": 24380,
+      "key": "com.github.iseri.aicolleague",
+      "name": "AIColleague",
+      "slug": "aicolleague",
+      "downloads": 0
+    },
+    {
+      "id": 24381,
+      "key": "cn.zhiyou.ZhiYouToolkit",
+      "name": "ZhiYouToolkit",
+      "slug": "zhiyoutoolkit",
+      "downloads": 47
+    },
+    {
+      "id": 24383,
+      "key": "com.asus.ocis.AfsCoderIntellij",
+      "name": "AFS Coder - JBCoder",
+      "slug": "afs-coder---jbcoder",
+      "downloads": 0
+    },
+    {
+      "id": 24385,
+      "key": "com.flutter_code_generator.flutter_code_generator",
+      "name": "Flutter Code Generator",
+      "slug": "flutter-code-generator",
+      "downloads": 0
+    },
+    {
+      "id": 24386,
+      "key": "com.dahuangf",
+      "name": "Dahuangf Merge Assistant",
+      "slug": "dahuangf-merge-assistant",
+      "downloads": 2
+    },
+    {
+      "id": 24388,
+      "key": "com.qiuhuanhen.plugin.swagger.excel.doc",
+      "name": "Swagger Excel Doc",
+      "slug": "swagger-excel-doc",
+      "downloads": 6
+    },
+    {
+      "id": 24389,
+      "key": "com.alipay.sofa.koupleless.kouplelessIDE",
+      "name": "KouplelessIDE",
+      "slug": "kouplelesside",
+      "downloads": 12
+    },
+    {
+      "id": 24390,
+      "key": "com.github.continuedev.dhcoder",
+      "name": "Continue",
+      "slug": "continue",
+      "downloads": 0
+    },
+    {
+      "id": 24391,
+      "key": "com.zhutmost.systemverilog",
+      "name": "SystemVerilog Plus by Zhutmost",
+      "slug": "systemverilog-plus-by-zhutmost",
+      "downloads": 0
+    },
+    {
+      "id": 24392,
+      "key": "cn.bigfire.protosttuff.generate",
+      "name": "ProtoStuff Generate",
+      "slug": "protostuff-generate",
+      "downloads": 150
+    },
+    {
+      "id": 24393,
+      "key": "com.gustavo.swagger.generate",
+      "name": "Java Swagger 3 Generator",
+      "slug": "java-swagger-3-generator",
+      "downloads": 420
+    },
+    {
+      "id": 24394,
+      "key": "dev.openfga.intellijplugin",
+      "name": "OpenFGA",
+      "slug": "openfga",
+      "downloads": 57
+    },
+    {
+      "id": 24395,
+      "key": "com.github.continuedev.dhcoderx",
+      "name": "dhcoder",
+      "slug": "dhcoder",
+      "downloads": 0
+    },
+    {
+      "id": 24396,
+      "key": "LJYXP.EditorAssistForCS",
+      "name": "Editor Assist For C#",
+      "slug": "editor-assist-for-c#",
+      "downloads": 16
+    },
+    {
+      "id": 24397,
+      "key": "com.liubs.jaredit",
+      "name": "JarEditor",
+      "slug": "jareditor",
+      "downloads": 51
+    },
+    {
+      "id": 24398,
+      "key": "com.github.MorningZengJ.Toolset",
+      "name": "Toolset",
+      "slug": "toolset",
+      "downloads": 20
+    },
+    {
+      "id": 24399,
+      "key": "com.chenyuan.cy-db-log-plugin",
+      "name": "CY DB Log",
+      "slug": "cy-db-log",
+      "downloads": 0
+    },
+    {
+      "id": 24400,
+      "key": "lime.plugins.fusiongrip",
+      "name": "Fusion-grip",
+      "slug": "fusion-grip",
+      "downloads": 0
+    },
+    {
+      "id": 24404,
+      "key": "com.github.bty834.tineyutheme",
+      "name": "Tineyu-Theme",
+      "slug": "tineyu-theme",
+      "downloads": 0
+    },
+    {
+      "id": 24405,
+      "key": "com.github.shalaga44.missing-annotations-therapist",
+      "name": "missing-annotations-therapist",
+      "slug": "missing-annotations-therapist",
+      "downloads": 0
+    },
+    {
+      "id": 24406,
+      "key": "com.github.maximedezette.tddhelperforrider",
+      "name": "TDD-Helper",
+      "slug": "tdd-helper",
+      "downloads": 4
+    },
+    {
+      "id": 24407,
+      "key": "com.sumanmsoft.quickdev",
+      "name": "QuickDev",
+      "slug": "quickdev",
+      "downloads": 92
+    },
+    {
+      "id": 24408,
+      "key": "com.github.kcdragon.stimuluslspintellij",
+      "name": "Stimulus LSP",
+      "slug": "stimulus-lsp",
+      "downloads": 0
+    },
+    {
+      "id": 24409,
+      "key": "com.liuzhihang.code.inspections",
+      "name": "CodeInspections",
+      "slug": "codeinspections",
+      "downloads": 0
+    },
+    {
+      "id": 24411,
+      "key": "com.github.shiraji.namesticker",
+      "name": "Name Sticker",
+      "slug": "name-sticker",
+      "downloads": 0
+    },
+    {
+      "id": 24412,
+      "key": "com.fatnotebook.FastNoteBook",
+      "name": "FastNoteBook",
+      "slug": "fastnotebook",
+      "downloads": 0
+    },
+    {
+      "id": 24413,
+      "key": "com.github.vitallium.rubylsp",
+      "name": "Ruby LSP",
+      "slug": "ruby-lsp",
+      "downloads": 4
+    },
+    {
+      "id": 24414,
+      "key": "com.github.feddericokz.gptassistant",
+      "name": "GPT-Assistant",
+      "slug": "gpt-assistant",
+      "downloads": 0
+    },
+    {
+      "id": 24417,
+      "key": "com.github.koooooo7.robin",
+      "name": "Robin",
+      "slug": "robin",
+      "downloads": 15
+    },
+    {
+      "id": 24418,
+      "key": "groovyPlug",
+      "name": "GroovyPlug",
+      "slug": "groovyplug",
+      "downloads": 6
+    },
+    {
+      "id": 24421,
+      "key": "io.kusionstack.kcl-lsp",
+      "name": "KCL-LSP",
+      "slug": "kcl-lsp",
+      "downloads": 11
+    },
+    {
+      "id": 24422,
+      "key": "com.peter.dependencyPlugin",
+      "name": "DependencyGenerator",
+      "slug": "dependencygenerator",
+      "downloads": 2
+    },
+    {
+      "id": 24424,
+      "key": "app.onefit.android.inspection",
+      "name": "1Fit Android Code Inspection",
+      "slug": "1fit-android-code-inspection",
+      "downloads": 0
+    },
+    {
+      "id": 24425,
+      "key": "cn.mindcode.MindCode",
+      "name": "MindCode",
+      "slug": "mindcode",
+      "downloads": 21
+    },
+    {
+      "id": 24427,
+      "key": "com.github.testparty.pregamePhp",
+      "name": "pregame-php",
+      "slug": "pregame-php",
+      "downloads": 0
+    },
+    {
+      "id": 24428,
+      "key": "sandipchitale.kubemmander",
+      "name": "Kubemmander",
+      "slug": "kubemmander",
+      "downloads": 3
+    },
+    {
+      "id": 24429,
+      "key": "com.github.xiaohundun.statusbarstocks",
+      "name": "statusbar-stocks",
+      "slug": "statusbar-stocks",
+      "downloads": 29
+    },
+    {
+      "id": 24430,
+      "key": "com.aboat365.monitor",
+      "name": "Monitor",
+      "slug": "monitor",
+      "downloads": 8
+    },
+    {
+      "id": 24431,
+      "key": "RedGateSCA",
+      "name": "Redgate SQL Change Automation",
+      "slug": "redgate-sql-change-automation",
+      "downloads": 0
+    },
+    {
+      "id": 24436,
+      "key": "fleet.aiCompletion.java",
+      "name": "AiCompletion Java",
+      "slug": "aicompletion-java",
+      "downloads": 0
+    },
+    {
+      "id": 24437,
+      "key": "fleet.aiCompletion.python",
+      "name": "AiCompletion Python",
+      "slug": "aicompletion-python",
+      "downloads": 0
+    },
+    {
+      "id": 24438,
+      "key": "com.intellij.cron",
+      "name": "Cron Expressions",
+      "slug": "cron-expressions",
+      "downloads": 2
+    },
+    {
+      "id": 24439,
+      "key": "com.github.aisetudelft.iallms",
+      "name": "IALLMs",
+      "slug": "iallms",
+      "downloads": 0
+    },
+    {
+      "id": 24440,
+      "key": "com.intellij.jpa.jpb.model",
+      "name": "Jakarta EE: JPA Model",
+      "slug": "jakarta-ee:-jpa-model",
+      "downloads": 2
+    },
+    {
+      "id": 24441,
+      "key": "org.bookmark.pro.id",
+      "name": "MarkBook-Pro",
+      "slug": "markbook-pro",
+      "downloads": 0
+    },
+    {
+      "id": 24442,
+      "key": "ai.maru.connector",
+      "name": "Maru AI Connector",
+      "slug": "maru-ai-connector",
+      "downloads": 0
+    },
+    {
+      "id": 24443,
+      "key": "com.ssafy.ododocintellij",
+      "name": "Ododoc",
+      "slug": "ododoc",
+      "downloads": 0
+    },
+    {
+      "id": 24444,
+      "key": "com.aboat365.salary",
+      "name": "Salary",
+      "slug": "salary",
+      "downloads": 0
+    },
+    {
+      "id": 24445,
+      "key": "com.github.kings1990.fastconfig",
+      "name": "Fast Config",
+      "slug": "fast-config",
+      "downloads": 0
+    },
+    {
+      "id": 24446,
+      "key": "io.gitlab.jfronny.s-dom",
+      "name": "S-dom for DOMjudge",
+      "slug": "s-dom-for-domjudge",
+      "downloads": 0
+    },
+    {
+      "id": 24447,
+      "key": "net.modulo3.robot",
+      "name": "M3 Robot Support",
+      "slug": "m3-robot-support",
+      "downloads": 0
+    },
+    {
+      "id": 24448,
+      "key": "gpt_android",
+      "name": "JoyCoder_Android",
+      "slug": "joycoder_android",
+      "downloads": 0
+    },
+    {
+      "id": 24449,
+      "key": "com.hfm.saghi",
+      "name": "Saghi Progressbar",
+      "slug": "saghi-progressbar",
+      "downloads": 0
+    },
+    {
+      "id": 24450,
+      "key": "io.github.Heracles-Support",
+      "name": "Heracles-Support",
+      "slug": "heracles-support",
+      "downloads": 0
     }
   ]
 }
