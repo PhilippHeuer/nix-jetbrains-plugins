@@ -74038,6 +74038,293 @@
       "name": "Heracles-Support",
       "slug": "heracles-support",
       "downloads": 0
+    },
+    {
+      "id": 24451,
+      "key": "com.higherorderco.bend",
+      "name": "Bend",
+      "slug": "bend",
+      "downloads": 0
+    },
+    {
+      "id": 24452,
+      "key": "com.CommitScheduler.CommitScheduler6",
+      "name": "CommitScheduler6",
+      "slug": "commitscheduler6",
+      "downloads": 0
+    },
+    {
+      "id": 24453,
+      "key": "com.masarat.gen",
+      "name": "Masarat Generator",
+      "slug": "masarat-generator",
+      "downloads": 0
+    },
+    {
+      "id": 24455,
+      "key": "com.junkfactory.tokyodark",
+      "name": "Tokyo Dark Theme",
+      "slug": "tokyo-dark-theme",
+      "downloads": 236
+    },
+    {
+      "id": 24456,
+      "key": "AoikFind-IntelliJ",
+      "name": "AoikFind",
+      "slug": "aoikfind",
+      "downloads": 41
+    },
+    {
+      "id": 24458,
+      "key": "dev.plugincraft.jam",
+      "name": "Jam Build Integration",
+      "slug": "jam-build-integration",
+      "downloads": 1
+    },
+    {
+      "id": 24459,
+      "key": "io.cjlee.gitnote",
+      "name": "gitnote",
+      "slug": "gitnote",
+      "downloads": 0
+    },
+    {
+      "id": 24460,
+      "key": "com.robotqa.devicefarmplugin",
+      "name": "RobotQA Real Device Debugging on Cloud",
+      "slug": "robotqa-real-device-debugging-on-cloud",
+      "downloads": 40
+    },
+    {
+      "id": 24461,
+      "key": "me.pandras.riverpod_wrapper",
+      "name": "Riverpod Wrapper",
+      "slug": "riverpod-wrapper",
+      "downloads": 21
+    },
+    {
+      "id": 24463,
+      "key": "io.github.future0923.DebugPower",
+      "name": "DebugPower",
+      "slug": "debugpower",
+      "downloads": 0
+    },
+    {
+      "id": 24465,
+      "key": "com.fmz.plugin",
+      "name": "FMZ Code Assistant",
+      "slug": "fmz-code-assistant",
+      "downloads": 2
+    },
+    {
+      "id": 24466,
+      "key": "org.sovbox.plugins.sso",
+      "name": "Sovbox",
+      "slug": "sovbox",
+      "downloads": 0
+    },
+    {
+      "id": 24467,
+      "key": "jarvis.ee.carlrobert.chatgpt",
+      "name": "Jarvis",
+      "slug": "jarvis",
+      "downloads": 0
+    },
+    {
+      "id": 24468,
+      "key": "com.intellij.classic.ui",
+      "name": "Classic UI",
+      "slug": "classic-ui",
+      "downloads": 35
+    },
+    {
+      "id": 24469,
+      "key": "Private Test FW Python Course 21052024_Maria Ogneva_Python",
+      "name": "Private Test FW-1 Python Course 21052024",
+      "slug": "private-test-fw-1-python-course-21052024",
+      "downloads": 20
+    },
+    {
+      "id": 24470,
+      "key": "Private Test 2FW Python 21052024_Maria Ogneva_Python",
+      "name": "Private Test 2FW Python 21052024",
+      "slug": "private-test-2fw-python-21052024",
+      "downloads": 4
+    },
+    {
+      "id": 24472,
+      "key": "Private Test Python Course 2 sc 22052024_Maria Ogneva_Python",
+      "name": "Private Test Python Course 2 sc 22052024",
+      "slug": "private-test-python-course-2-sc-22052024",
+      "downloads": 8
+    },
+    {
+      "id": 24473,
+      "key": "Private Test fw Python Course 22052024_Maria Ogneva_Python",
+      "name": "Private Test fw Python Course 22052024",
+      "slug": "private-test-fw-python-course-22052024",
+      "downloads": 8
+    },
+    {
+      "id": 24476,
+      "key": "org.bookmark.pro.id",
+      "name": "MarkBook-Pro",
+      "slug": "markbook-pro",
+      "downloads": 0
+    },
+    {
+      "id": 24479,
+      "key": "com.github.tooandy.blankspace",
+      "name": "BlankSpace",
+      "slug": "blankspace",
+      "downloads": 0
+    },
+    {
+      "id": 24480,
+      "key": "com.github.federicolencina.jetbrainsroterlagotheme",
+      "name": "Roterlago Theme",
+      "slug": "roterlago-theme",
+      "downloads": 0
+    },
+    {
+      "id": 24481,
+      "key": "com.github.dhcoderdev.dhcoder",
+      "name": "dhcoder",
+      "slug": "dhcoder",
+      "downloads": 0
+    },
+    {
+      "id": 24482,
+      "key": "Private Test Python Sf+f Course 23052024_Maria Ogneva_Python",
+      "name": "Private Test Python Sf+f Course 23052024",
+      "slug": "private-test-python-sf+f-course-23052024",
+      "downloads": 12
+    },
+    {
+      "id": 24483,
+      "key": "Private Test Python 0f Course 23052024_Maria Ogneva_Python",
+      "name": "Private Test Python 0f Course 23052024",
+      "slug": "private-test-python-0f-course-23052024",
+      "downloads": 4
+    },
+    {
+      "id": 24484,
+      "key": "io.github.mschieder.openjpa-idea-plugin",
+      "name": "OpenJpa Enhancer",
+      "slug": "openjpa-enhancer",
+      "downloads": 0
+    },
+    {
+      "id": 24485,
+      "key": "com.codeminds.hovernumberconverter.HoverNumberConverter",
+      "name": "HoverNumberConverter",
+      "slug": "hovernumberconverter",
+      "downloads": 0
+    },
+    {
+      "id": 24486,
+      "key": "com.fortify.ide.idea.scan",
+      "name": "Fortify Analysis",
+      "slug": "fortify-analysis",
+      "downloads": 0
+    },
+    {
+      "id": 24487,
+      "key": "dev.japo.japo-intellij",
+      "name": "Java Annotations Repo (JAPO)",
+      "slug": "java-annotations-repo-(japo)",
+      "downloads": 0
+    },
+    {
+      "id": 24488,
+      "key": "com.huan.wang.save.action.tool",
+      "name": "Save Action Tool",
+      "slug": "save-action-tool",
+      "downloads": 0
+    },
+    {
+      "id": 24489,
+      "key": "com.liereal.PbGenerator",
+      "name": "PbGenerator",
+      "slug": "pbgenerator",
+      "downloads": 0
+    },
+    {
+      "id": 24491,
+      "key": "com.aic.codevista",
+      "name": "CodeVista: AI Coding Assistant",
+      "slug": "codevista:-ai-coding-assistant",
+      "downloads": 0
+    },
+    {
+      "id": 24492,
+      "key": "de.jonihoffi.plugins.enhavo",
+      "name": "Enhavo Helper",
+      "slug": "enhavo-helper",
+      "downloads": 0
+    },
+    {
+      "id": 24493,
+      "key": "com.baidu.comate.gitee",
+      "name": "Baidu Comate (Gitee\u7248)",
+      "slug": "baidu-comate-(gitee\u7248)",
+      "downloads": 0
+    },
+    {
+      "id": 24494,
+      "key": "com.ai.dev.tools.languagePack.it",
+      "name": "Italian Language Pack / Pacchetto Lingua Italiano",
+      "slug": "italian-language-pack-/-pacchetto-lingua-italiano",
+      "downloads": 0
+    },
+    {
+      "id": 24495,
+      "key": "com.github.virtualgraviton.cppfastcoding",
+      "name": "CppFastCoding",
+      "slug": "cppfastcoding",
+      "downloads": 0
+    },
+    {
+      "id": 24496,
+      "key": "com.cmss.acepilot",
+      "name": "\u6e5b\u5362",
+      "slug": "\u6e5b\u5362",
+      "downloads": 0
+    },
+    {
+      "id": 24497,
+      "key": "Private Test Kotlin Course 24052024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 24052024",
+      "slug": "private-test-kotlin-course-24052024",
+      "downloads": 0
+    },
+    {
+      "id": 24498,
+      "key": "com.tsybulka.autoRefactoringPlugin",
+      "name": "AutoRefactor",
+      "slug": "autorefactor",
+      "downloads": 0
+    },
+    {
+      "id": 24499,
+      "key": "com.jetbrains.interactiveRebase",
+      "name": "Interactive Rebase",
+      "slug": "interactive-rebase",
+      "downloads": 0
+    },
+    {
+      "id": 24500,
+      "key": "ReSharperPlugin.CustomInspectionPlugin",
+      "name": "CustomInspectionPlugin",
+      "slug": "custominspectionplugin",
+      "downloads": 0
+    },
+    {
+      "id": 24501,
+      "key": "com.github.raulaguila.jetbrainsprodarktheme",
+      "name": "Pro Dark Theme",
+      "slug": "pro-dark-theme",
+      "downloads": 0
     }
   ]
 }
