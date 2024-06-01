@@ -74325,6 +74325,307 @@
       "name": "Pro Dark Theme",
       "slug": "pro-dark-theme",
       "downloads": 0
+    },
+    {
+      "id": 24502,
+      "key": "com.xxxlin.jsgf",
+      "name": "Jsgf",
+      "slug": "jsgf",
+      "downloads": 19
+    },
+    {
+      "id": 24503,
+      "key": "io.github.bty834.SummonSetters",
+      "name": "Summon Setters",
+      "slug": "summon-setters",
+      "downloads": 17
+    },
+    {
+      "id": 24504,
+      "key": "com.github.janmoeller.clioncmakesourcelistsorter",
+      "name": "Cmake Source List Sorter",
+      "slug": "cmake-source-list-sorter",
+      "downloads": 6
+    },
+    {
+      "id": 24505,
+      "key": "dev.jeka.ide",
+      "name": "JeKa",
+      "slug": "jeka",
+      "downloads": 0
+    },
+    {
+      "id": 24507,
+      "key": "com.github.federicolencina.jetbrainsroterlagotheme",
+      "name": "Roterlago Theme",
+      "slug": "roterlago-theme",
+      "downloads": 17
+    },
+    {
+      "id": 24508,
+      "key": "fi.aalto.cs.inspections",
+      "name": "Additional Scala Inspections",
+      "slug": "additional-scala-inspections",
+      "downloads": 6
+    },
+    {
+      "id": 24510,
+      "key": "com.gitlab.coderider",
+      "name": "CodeRide\u0433",
+      "slug": "coderide\u0433",
+      "downloads": 0
+    },
+    {
+      "id": 24511,
+      "key": "Private Test C++ (Catch 2.0) Course 27052024_Maria Ogneva_ObjectiveC",
+      "name": "Private Test C++ (Catch 2.0) Course 27052024",
+      "slug": "private-test-c++-(catch-2.0)-course-27052024",
+      "downloads": 12
+    },
+    {
+      "id": 24512,
+      "key": "com.hy.daily_tasks",
+      "name": "Daily Tasks",
+      "slug": "daily-tasks",
+      "downloads": 21
+    },
+    {
+      "id": 24513,
+      "key": "com.jetbrains.plugins.bower",
+      "name": "Bower",
+      "slug": "bower",
+      "downloads": 10
+    },
+    {
+      "id": 24515,
+      "key": "com.github.tasksamurai.jetbrainsplatformplugin",
+      "name": "TaskSamurai",
+      "slug": "tasksamurai",
+      "downloads": 21
+    },
+    {
+      "id": 24516,
+      "key": "Private Test Go Course 27052024_Maria Ogneva_go",
+      "name": "Private Test Go Course 27052024",
+      "slug": "private-test-go-course-27052024",
+      "downloads": 6
+    },
+    {
+      "id": 24517,
+      "key": "Private Test PHP Course 27052024_Maria Ogneva_PHP",
+      "name": "Private Test PHP Course 27052024",
+      "slug": "private-test-php-course-27052024",
+      "downloads": 4
+    },
+    {
+      "id": 24518,
+      "key": "com.github.nizienko.weather-widget",
+      "name": "Weather Widget",
+      "slug": "weather-widget",
+      "downloads": 22
+    },
+    {
+      "id": 24519,
+      "key": "com.ray.ideaplugin.mybatis-navigator",
+      "name": "mybatis-navigator",
+      "slug": "mybatis-navigator",
+      "downloads": 25
+    },
+    {
+      "id": 24520,
+      "key": "com.github.ultramangaia.gaiasec",
+      "name": "GaiaSec",
+      "slug": "gaiasec",
+      "downloads": 23
+    },
+    {
+      "id": 24522,
+      "key": "com.nttdata.copilot",
+      "name": "Copilot Metrics",
+      "slug": "copilot-metrics",
+      "downloads": 12
+    },
+    {
+      "id": 24523,
+      "key": "com.yc.zhFish",
+      "name": "zhFish",
+      "slug": "zhfish",
+      "downloads": 0
+    },
+    {
+      "id": 24525,
+      "key": "JavaScript Course25_Daria Isachenkova_JavaScript",
+      "name": "JavaScript Course25",
+      "slug": "javascript-course25",
+      "downloads": 0
+    },
+    {
+      "id": 24527,
+      "key": "one.bitby.retroblock",
+      "name": "Retro Block Theme",
+      "slug": "retro-block-theme",
+      "downloads": 12
+    },
+    {
+      "id": 24528,
+      "key": "vlascik.plugins.tabdir-redux",
+      "name": "Tabdir Redux",
+      "slug": "tabdir-redux",
+      "downloads": 19
+    },
+    {
+      "id": 24529,
+      "key": "work.zfh521.Intellij-Idea-plugin-Native2ascii",
+      "name": "Native2ascii",
+      "slug": "native2ascii",
+      "downloads": 0
+    },
+    {
+      "id": 24530,
+      "key": "dark-plus-theme",
+      "name": "Dark+",
+      "slug": "dark+",
+      "downloads": 0
+    },
+    {
+      "id": 24531,
+      "key": "io.github.wangzhengsi.method.invoker",
+      "name": "method invoker",
+      "slug": "method-invoker",
+      "downloads": 0
+    },
+    {
+      "id": 24532,
+      "key": "irony.ide.plugin.qsseditor",
+      "name": "QSSEditor",
+      "slug": "qsseditor",
+      "downloads": 10
+    },
+    {
+      "id": 24533,
+      "key": "io.github.hhy.bookmark",
+      "name": "Bookmark",
+      "slug": "bookmark",
+      "downloads": 0
+    },
+    {
+      "id": 24534,
+      "key": "Private Test Java 29052024 Course_Maria Ogneva_JAVA",
+      "name": "Private Test Java 29052024 Course",
+      "slug": "private-test-java-29052024-course",
+      "downloads": 2
+    },
+    {
+      "id": 24536,
+      "key": "com.github.scyslz.idea-debugger-enhancer",
+      "name": "Debugger Enhancer",
+      "slug": "debugger-enhancer",
+      "downloads": 0
+    },
+    {
+      "id": 24537,
+      "key": "com.aiwan.flutter-kit",
+      "name": "Flutter-kit",
+      "slug": "flutter-kit",
+      "downloads": 0
+    },
+    {
+      "id": 24538,
+      "key": "org.qihoo.codeyoda",
+      "name": "geelib.copliot.code",
+      "slug": "geelib.copliot.code",
+      "downloads": 0
+    },
+    {
+      "id": 24539,
+      "key": "com.ai.dev.tools.languagePack.fr",
+      "name": "French Language Pack / Pack De Langue Fran\u00e7ais",
+      "slug": "french-language-pack-/-pack-de-langue-fran\u00e7ais",
+      "downloads": 0
+    },
+    {
+      "id": 24540,
+      "key": "com.cmss.acepilot",
+      "name": "Zhanlu",
+      "slug": "zhanlu",
+      "downloads": 0
+    },
+    {
+      "id": 24541,
+      "key": "com.ai.dev.tools.languagePack.es",
+      "name": "Spanish Language Pack / Paquete De Idioma Espa\u00f1ol",
+      "slug": "spanish-language-pack-/-paquete-de-idioma-espa\u00f1ol",
+      "downloads": 0
+    },
+    {
+      "id": 24542,
+      "key": "com.ai.dev.tools.languagePack.pt",
+      "name": "Portuguese Language Pack / Pacote De Idioma Portugu\u00eas",
+      "slug": "portuguese-language-pack-/-pacote-de-idioma-portugu\u00eas",
+      "downloads": 0
+    },
+    {
+      "id": 24543,
+      "key": "com.ai.dev.tools.languagePack.de",
+      "name": "Deutsch (German) Language Pack / Deutsches Sprachpaket",
+      "slug": "deutsch-(german)-language-pack-/-deutsches-sprachpaket",
+      "downloads": 0
+    },
+    {
+      "id": 24544,
+      "key": "com.ai.dev.tools.languagePack.ru",
+      "name": "Russian Language Pack / \u041b\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f IDE \u041d\u0430 \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u042f\u0437\u044b\u043a",
+      "slug": "russian-language-pack-/-\u043b\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f-ide-\u043d\u0430-\u0440\u0443\u0441\u0441\u043a\u0438\u0439-\u044f\u0437\u044b\u043a",
+      "downloads": 0
+    },
+    {
+      "id": 24545,
+      "key": "com.aic.codevista",
+      "name": "CodeVista: AI Coding Assistant",
+      "slug": "codevista:-ai-coding-assistant",
+      "downloads": 0
+    },
+    {
+      "id": 24546,
+      "key": "io.github.jeffset.yatagan.yatagan-conditions",
+      "name": "Yatagan Conditions",
+      "slug": "yatagan-conditions",
+      "downloads": 0
+    },
+    {
+      "id": 24547,
+      "key": "gnome-theme",
+      "name": "Gnome Theme",
+      "slug": "gnome-theme",
+      "downloads": 0
+    },
+    {
+      "id": 24548,
+      "key": "in.specmatic.specmatic-intellij-plugin",
+      "name": "Specmatic",
+      "slug": "specmatic",
+      "downloads": 0
+    },
+    {
+      "id": 24549,
+      "key": "com.phodal.shire",
+      "name": "Shire - AI Agent Language",
+      "slug": "shire---ai-agent-language",
+      "downloads": 0
+    },
+    {
+      "id": 24550,
+      "key": "io.arrow-kt.arrow-intellij",
+      "name": "Arrow",
+      "slug": "arrow",
+      "downloads": 0
+    },
+    {
+      "id": 24551,
+      "key": "Kaffu093.KaffuJetBrainsTheme",
+      "name": "Kaffu's Theme",
+      "slug": "kaffu's-theme",
+      "downloads": 0
     }
   ]
 }
