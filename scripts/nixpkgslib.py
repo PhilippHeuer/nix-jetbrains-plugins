@@ -13,6 +13,7 @@ from requests import get
 
 NIXPKGS_IDES_FILE = Path(__file__).parent.parent.joinpath("./data/cache/nixpkgs-ides-latest.json").resolve()
 NIXOS_IDES_FILE = Path(__file__).parent.parent.joinpath("./data/cache/nixos-ides-latest.json").resolve()
+MASTER_IDES_FILE = Path(__file__).parent.parent.joinpath("./data/cache/master-ides-latest.json").resolve()
 FLAKE_LOCK_FILE = Path(__file__).parent.parent.joinpath("./flake.lock").resolve()
 
 # Token priorities for version checking
@@ -71,27 +72,28 @@ def get_nixpkgs_ides_versions():
     with open(NIXOS_IDES_FILE, "w") as file:
         file.write(resp.text)
 
+    rev = load(open(FLAKE_LOCK_FILE))["nodes"]["nixos-master"]["locked"]["rev"]
+    url = f"https://raw.githubusercontent.com/NixOS/nixpkgs/{rev}/pkgs/applications/editors/jetbrains/bin/versions.json"
+    resp = get(url)
+    if resp.status_code != 200:
+        print(f"Server gave non-200 code {resp.status_code} with message " + resp.text)
+        exit(1)
+    with open(MASTER_IDES_FILE, "w") as file:
+        file.write(resp.text)
+
 
 def get_ide_versions() -> dict:
     result = {}
 
-    ide_data = load(open(NIXPKGS_IDES_FILE))
-    for platform in ide_data:
-        for product in ide_data[platform]:
-            version = ide_data[platform][product]["build_number"]
-            if product not in result:
-                result[product] = [version]
-            elif version not in result[product]:
-                result[product].append(version)
-
-    ide_data = load(open(NIXOS_IDES_FILE))
-    for platform in ide_data:
-        for product in ide_data[platform]:
-            version = ide_data[platform][product]["build_number"]
-            if product not in result:
-                result[product] = [version]
-            elif version not in result[product]:
-                result[product].append(version)
+    for file_path in [NIXPKGS_IDES_FILE, NIXOS_IDES_FILE, MASTER_IDES_FILE]:
+        ide_data = load(open(file_path))
+        for platform in ide_data:
+            for product in ide_data[platform]:
+                version = ide_data[platform][product]["build_number"]
+                if product not in result:
+                    result[product] = [version]
+                elif version not in result[product]:
+                    result[product].append(version)
 
     # Gateway isn't a normal IDE, so it doesn't use the same plugins system
     del result["gateway"]
