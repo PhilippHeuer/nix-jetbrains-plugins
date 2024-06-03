@@ -56,5 +56,5 @@ def serialize_to_file(data, filename):
 def deserialize_from_file(filename):
     if os.path.exists(filename):
         with open(filename, 'r') as file:
-            return json5.load(file)
+            return json.load(file)
     return None

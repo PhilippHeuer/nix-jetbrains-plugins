@@ -22,7 +22,7 @@ in rec {
     if !builtins.elem ide pluginsJson.plugins."${id}".compatible then
       throw "Plugin with id ${id} does not support IDE ${ide}"
     else if !pluginsJson.plugins."${id}".builds ? "${build}" then
-      throw "Jetbrains IDEs with build ${build} are not in nixpkgs. (PluginId: ${id})"
+      throw "Plugin with id ${id} does not support build ${build}"
     else if pluginsJson.plugins."${id}".builds."${build}" == null then
       throw "Plugin with id ${id} does not support build ${build}"
     else

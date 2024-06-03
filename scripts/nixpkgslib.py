@@ -54,7 +54,7 @@ def get_hash(url):
 
 
 def get_nixpkgs_ides_versions():
-    rev = load(open(FLAKE_LOCK_FILE))["nodes"]["nixpkgs-unstable"]["locked"]["rev"]
+    rev = load(open(FLAKE_LOCK_FILE))["nodes"]["nixpkgs"]["locked"]["rev"]
     url = f"https://raw.githubusercontent.com/NixOS/nixpkgs/{rev}/pkgs/applications/editors/jetbrains/bin/versions.json"
     resp = get(url)
     if resp.status_code != 200:

@@ -1758,13 +1758,6 @@
       "downloads": 18728
     },
     {
-      "id": 7098,
-      "key": "Plugin name here",
-      "name": "Plugin name here",
-      "slug": "plugin-name-here",
-      "downloads": 1906
-    },
-    {
       "id": 7099,
       "key": "Pastebin-IDEA",
       "name": "Pastebin",
@@ -42832,13 +42825,6 @@
       "name": "cocollect",
       "slug": "cocollect",
       "downloads": 2
-    },
-    {
-      "id": 16988,
-      "key": "io.github.kings1990.FastRequest",
-      "name": "Fast Request - API Buddy",
-      "slug": "fast-request---api-buddy",
-      "downloads": 224935
     },
     {
       "id": 16989,

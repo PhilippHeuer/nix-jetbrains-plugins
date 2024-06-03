@@ -72,8 +72,8 @@ def sort_dict(to_sort: dict) -> dict:
 
 
 def process_plugin(plugin, plugin_infos, ide_versions, extra_builds):
+    pid = plugin["id"]
     try:
-        pid = plugin["id"]
         plugin_versions = {
             "compatible": get_compatible_ides(pid),
             "builds": {},
@@ -81,20 +81,22 @@ def process_plugin(plugin, plugin_infos, ide_versions, extra_builds):
             "name": plugin["name"],
             "slug": plugin["slug"],
         }
-
         if pid not in plugin_infos:
             logging.warning(f"Could not find plugin info for plugin {pid} [{plugin['key']}]")
+            return pid, None
+        plugin_info = plugin_infos[pid]
+        if not plugin_info:
+            logging.warning(f"Plugin info for plugin {pid} is empty [{plugin['key']}]")
             return pid, None
 
         relevant_builds = [builds for ide, builds in ide_versions.items() if ide in plugin_versions["compatible"]] + [extra_builds]
         relevant_builds = sorted(list(set(flatten(relevant_builds))))  # Flatten, remove duplicates and sort
         for build in relevant_builds:
-            plugin_versions["builds"][build] = get_newest_compatible(pid, build, plugin_infos[pid])
+            newest_compatible = get_newest_compatible(pid, build, plugin_infos[pid])
+            if newest_compatible is not None:
+                plugin_versions["builds"][build] = newest_compatible
 
         if not plugin_versions["builds"]:
-            logging.warning(f"Could not find any compatible builds for plugin {pid} [{plugin['key']}]")
-            return pid, None
-        if not any(build is not None for build in plugin_versions["builds"].values()):
             logging.warning(f"Could not find any compatible builds for plugin {pid} [{plugin['key']}]")
             return pid, None
     except Exception as e:
@@ -107,7 +109,11 @@ def process_plugin(plugin, plugin_infos, ide_versions, extra_builds):
 def make_plugin_files(plugins: list, plugin_infos: dict, ide_versions, extra_builds, old_plugins):
     plugins = [plugin for plugin in plugins if plugin["id"] in plugin_infos]
 
+    # prepare result
     result = {}
+    for plugin_id, data in old_plugins.items():
+        result[plugin_id] = data
+
     with ThreadPoolExecutor(max_workers=CONCURRENCY) as executor:
         futures = {executor.submit(process_plugin, plugin, plugin_infos, ide_versions, extra_builds): plugin for plugin in plugins}
         for future in as_completed(futures):
@@ -116,11 +122,6 @@ def make_plugin_files(plugins: list, plugin_infos: dict, ide_versions, extra_bui
                 plugin_id, plugin_versions = res
                 if plugin_versions is not None:
                     result[plugin_id] = plugin_versions
-
-    # keep old plugins
-    for plugin_id, data in old_plugins.items():
-        if plugin_id not in result and data is not None:
-            result[plugin_id] = data
 
     return result
 
