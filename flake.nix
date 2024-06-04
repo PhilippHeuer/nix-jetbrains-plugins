@@ -12,6 +12,6 @@
 
   outputs = {self, ... }:
     {
-      import = pkgs: (import ./plugins.nix { inherit pkgs; });
+      plugins = import ./plugins.nix { pkgs = inputs.nixos-master; });
     };
 }
