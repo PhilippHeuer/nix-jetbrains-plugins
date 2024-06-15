@@ -74836,6 +74836,272 @@
       "name": "BlackBoxFunctions",
       "slug": "blackboxfunctions",
       "downloads": 0
+    },
+    {
+      "id": 24589,
+      "key": "com.github.naoyukik.copyprettygitlog",
+      "name": "Copy Pretty Git Log",
+      "slug": "copy-pretty-git-log",
+      "downloads": 6
+    },
+    {
+      "id": 24591,
+      "key": "com.github.jlcool.flutterbuildpublish",
+      "name": "flutter_build_publish",
+      "slug": "flutter_build_publish",
+      "downloads": 9
+    },
+    {
+      "id": 24592,
+      "key": "com.github.olavlinddam.everforest-dark",
+      "name": "Everforest-dark",
+      "slug": "everforest-dark",
+      "downloads": 31
+    },
+    {
+      "id": 24593,
+      "key": "com.delicacy.DaoGenerator",
+      "name": "DaoGenerator",
+      "slug": "daogenerator",
+      "downloads": 6
+    },
+    {
+      "id": 24594,
+      "key": "f.schnabel.idea.linkfilter",
+      "name": "Clickable Output Links",
+      "slug": "clickable-output-links",
+      "downloads": 2
+    },
+    {
+      "id": 24597,
+      "key": "org.getx_arch_template",
+      "name": "GetX Arch",
+      "slug": "getx-arch",
+      "downloads": 0
+    },
+    {
+      "id": 24598,
+      "key": "org.jdz.jtranslate",
+      "name": "JTranslate",
+      "slug": "jtranslate",
+      "downloads": 5
+    },
+    {
+      "id": 24599,
+      "key": "com.joonsung.kson",
+      "name": "Kson",
+      "slug": "kson",
+      "downloads": 4
+    },
+    {
+      "id": 24600,
+      "key": "com.github.bty834.highlightstream",
+      "name": "highlight-stream",
+      "slug": "highlight-stream",
+      "downloads": 7
+    },
+    {
+      "id": 24601,
+      "key": "com.github.minhnguyendeveloper.myfirstplugin",
+      "name": "Code Generate",
+      "slug": "code-generate",
+      "downloads": 0
+    },
+    {
+      "id": 24602,
+      "key": "com.guodaxia.mybatis-plus-generator",
+      "name": "Mybatis-plus-generator",
+      "slug": "mybatis-plus-generator",
+      "downloads": 0
+    },
+    {
+      "id": 24603,
+      "key": "com.xiejj.idea.plugin.db-doc",
+      "name": "Database-Doc-Gen",
+      "slug": "database-doc-gen",
+      "downloads": 0
+    },
+    {
+      "id": 24604,
+      "key": "com.github.sam0delkin.intellijpsa",
+      "name": "Project Specific Autocomplete",
+      "slug": "project-specific-autocomplete",
+      "downloads": 7
+    },
+    {
+      "id": 24605,
+      "key": "com.github.rcunal.testplugintemplate",
+      "name": "TestTemplate",
+      "slug": "testtemplate",
+      "downloads": 0
+    },
+    {
+      "id": 24606,
+      "key": "de.gebit.plugins.autoconfig",
+      "name": "Autoconfig",
+      "slug": "autoconfig",
+      "downloads": 7
+    },
+    {
+      "id": 24609,
+      "key": "com.gitlab.code-rider",
+      "name": "JiHu-GitLab YuMa",
+      "slug": "jihu-gitlab-yuma",
+      "downloads": 11
+    },
+    {
+      "id": 24610,
+      "key": "com.charlesbases.athena-theme",
+      "name": "Athena Theme",
+      "slug": "athena-theme",
+      "downloads": 36
+    },
+    {
+      "id": 24611,
+      "key": "com.zhen.fastBean",
+      "name": "FastBean",
+      "slug": "fastbean",
+      "downloads": 0
+    },
+    {
+      "id": 24612,
+      "key": "com.drossan.project-list",
+      "name": "Project-list",
+      "slug": "project-list",
+      "downloads": 19
+    },
+    {
+      "id": 24613,
+      "key": "com.github.strangelookingnerd.pedro-progress-bar",
+      "name": "Pedro Progress Bar",
+      "slug": "pedro-progress-bar",
+      "downloads": 20
+    },
+    {
+      "id": 24614,
+      "key": "fkh.plugin",
+      "name": "Jira actions",
+      "slug": "jira-actions",
+      "downloads": 0
+    },
+    {
+      "id": 24615,
+      "key": "color.scheme.CobaltM",
+      "name": "CobaltM Color Scheme",
+      "slug": "cobaltm-color-scheme",
+      "downloads": 9
+    },
+    {
+      "id": 24617,
+      "key": "com.nickzhang.jetbrains.file_description_plugin",
+      "name": "File Description",
+      "slug": "file-description",
+      "downloads": 1
+    },
+    {
+      "id": 24618,
+      "key": "com.biyusheng.maven.plus",
+      "name": "MavenPlus",
+      "slug": "mavenplus",
+      "downloads": 0
+    },
+    {
+      "id": 24619,
+      "key": "com.hgrouter",
+      "name": "HgRouter",
+      "slug": "hgrouter",
+      "downloads": 0
+    },
+    {
+      "id": 24620,
+      "key": "example.theme.plugin",
+      "name": "Example themes",
+      "slug": "example-themes",
+      "downloads": 0
+    },
+    {
+      "id": 24621,
+      "key": "com.github.vikthorvergara.vesperoso",
+      "name": "vesperoso",
+      "slug": "vesperoso",
+      "downloads": 0
+    },
+    {
+      "id": 24623,
+      "key": "org.robmux.quickopen",
+      "name": "Quickopen",
+      "slug": "quickopen",
+      "downloads": 0
+    },
+    {
+      "id": 24624,
+      "key": "com.mallowigi.permify",
+      "name": "Permify",
+      "slug": "permify",
+      "downloads": 0
+    },
+    {
+      "id": 24625,
+      "key": "linindoo.ssh",
+      "name": "SSHMatrix",
+      "slug": "sshmatrix",
+      "downloads": 0
+    },
+    {
+      "id": 24626,
+      "key": "com.github.jlcool.shorebird",
+      "name": "shorebird",
+      "slug": "shorebird",
+      "downloads": 0
+    },
+    {
+      "id": 24627,
+      "key": "com.intellij.federatedLearning",
+      "name": "Federated Learning",
+      "slug": "federated-learning",
+      "downloads": 4
+    },
+    {
+      "id": 24628,
+      "key": "com.alfayedoficial.astagfirullah",
+      "name": "\u0627\u0633\u062a\u063a\u0641\u0631 \u0627\u0644\u0644\u0647 - Astagfirullah",
+      "slug": "\u0627\u0633\u062a\u063a\u0641\u0631-\u0627\u0644\u0644\u0647---astagfirullah",
+      "downloads": 0
+    },
+    {
+      "id": 24629,
+      "key": "com.fyc.dev_tools",
+      "name": "Dev_tools",
+      "slug": "dev_tools",
+      "downloads": 0
+    },
+    {
+      "id": 24630,
+      "key": "com.gitlab.coder-rider",
+      "name": "JiHu-GitLab CR",
+      "slug": "jihu-gitlab-cr",
+      "downloads": 0
+    },
+    {
+      "id": 24632,
+      "key": "ee.carlrobert.MVSCoder",
+      "name": "MVSCoder",
+      "slug": "mvscoder",
+      "downloads": 0
+    },
+    {
+      "id": 24634,
+      "key": "com.github.bty834.intellijikunsound",
+      "name": "ikun-sound",
+      "slug": "ikun-sound",
+      "downloads": 0
+    },
+    {
+      "id": 24635,
+      "key": "Kotlin Course6_Maria Ogneva_kotlin",
+      "name": "Kotlin Course6",
+      "slug": "kotlin-course6",
+      "downloads": 0
     }
   ]
 }
