@@ -75102,6 +75102,349 @@
       "name": "Kotlin Course6",
       "slug": "kotlin-course6",
       "downloads": 0
+    },
+    {
+      "id": 24636,
+      "key": "com.parsuomash.koin-navigator",
+      "name": "Koin Dependency Navigator",
+      "slug": "koin-dependency-navigator",
+      "downloads": 16
+    },
+    {
+      "id": 24637,
+      "key": "de.sirywell.handlehints",
+      "name": "HandleHints",
+      "slug": "handlehints",
+      "downloads": 0
+    },
+    {
+      "id": 24638,
+      "key": "com.github.raulaguila.prodarktheme",
+      "name": "Pro Dark Theme",
+      "slug": "pro-dark-theme",
+      "downloads": 27
+    },
+    {
+      "id": 24640,
+      "key": "cn.zjamss.plugin.CodeMemo",
+      "name": "CodeMemo",
+      "slug": "codememo",
+      "downloads": 0
+    },
+    {
+      "id": 24641,
+      "key": "cz.lukynka.twitch-channel-points",
+      "name": "Twitch Channel Point Rewards Integrations",
+      "slug": "twitch-channel-point-rewards-integrations",
+      "downloads": 0
+    },
+    {
+      "id": 24642,
+      "key": "cc.allape.caddyfile",
+      "name": "Caddyfile",
+      "slug": "caddyfile",
+      "downloads": 35
+    },
+    {
+      "id": 24643,
+      "key": "com.roytf.plugin.AutoTool",
+      "name": "AutoTool",
+      "slug": "autotool",
+      "downloads": 1
+    },
+    {
+      "id": 24644,
+      "key": "com.my.company.unique.plugin.id",
+      "name": "huazhao",
+      "slug": "huazhao",
+      "downloads": 0
+    },
+    {
+      "id": 24645,
+      "key": "com.xxxlin.json.ext",
+      "name": "JSON Extend",
+      "slug": "json-extend",
+      "downloads": 2
+    },
+    {
+      "id": 24646,
+      "key": "io.github.estivensh4.kotlin-multiplatform-wizard",
+      "name": "Kotlin-multiplatform-wizard",
+      "slug": "kotlin-multiplatform-wizard",
+      "downloads": 0
+    },
+    {
+      "id": 24647,
+      "key": "com.maple.selected-camel-words",
+      "name": "Selected-Camel-Words",
+      "slug": "selected-camel-words",
+      "downloads": 0
+    },
+    {
+      "id": 24648,
+      "key": "com.adapgpt.xcodemap-idea",
+      "name": "XCodeMap",
+      "slug": "xcodemap",
+      "downloads": 0
+    },
+    {
+      "id": 24649,
+      "key": "com.hxb.restart",
+      "name": "spring boot project starter",
+      "slug": "spring-boot-project-starter",
+      "downloads": 0
+    },
+    {
+      "id": 24650,
+      "key": "com.ts.rubik.studio",
+      "name": "RubikStudio",
+      "slug": "rubikstudio",
+      "downloads": 0
+    },
+    {
+      "id": 24651,
+      "key": "Plain text Course73_JetBrains_TEXT",
+      "name": "Plain text Course73",
+      "slug": "plain-text-course73",
+      "downloads": 1
+    },
+    {
+      "id": 24653,
+      "key": "unoplatform",
+      "name": "Uno Platform",
+      "slug": "uno-platform",
+      "downloads": 0
+    },
+    {
+      "id": 24654,
+      "key": "dev.jezzy.cutiepro",
+      "name": "cutiepro",
+      "slug": "cutiepro",
+      "downloads": 63
+    },
+    {
+      "id": 24655,
+      "key": "pers.wjx.plugin.carol-theme",
+      "name": "Carol Theme",
+      "slug": "carol-theme",
+      "downloads": 0
+    },
+    {
+      "id": 24656,
+      "key": "com.byron.ByronPlugin",
+      "name": "Byron",
+      "slug": "byron",
+      "downloads": 0
+    },
+    {
+      "id": 24657,
+      "key": "com.dodecahedron.plugin",
+      "name": "CodeChrono",
+      "slug": "codechrono",
+      "downloads": 0
+    },
+    {
+      "id": 24658,
+      "key": "Private Test Kotlin Course fw1 18062024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course fw1 18062024",
+      "slug": "private-test-kotlin-course-fw1-18062024",
+      "downloads": 1
+    },
+    {
+      "id": 24659,
+      "key": "Private Test Java Course 18062024_Maria Ogneva_kotlin",
+      "name": "Private Test Java Course 18062024",
+      "slug": "private-test-java-course-18062024",
+      "downloads": 4
+    },
+    {
+      "id": 24660,
+      "key": "cn.tongdao.ideaplugintest",
+      "name": "TONGDAO TEST",
+      "slug": "tongdao-test",
+      "downloads": 0
+    },
+    {
+      "id": 24661,
+      "key": "com.meteoro.MonorepoManager",
+      "name": "MonorepoManager",
+      "slug": "monorepomanager",
+      "downloads": 0
+    },
+    {
+      "id": 24662,
+      "key": "FN",
+      "name": "MIYA",
+      "slug": "miya",
+      "downloads": 0
+    },
+    {
+      "id": 24663,
+      "key": "Private Test JavaScript Course 18062024_Maria Ogneva_JavaScript",
+      "name": "Private Test JavaScript Course 18062024",
+      "slug": "private-test-javascript-course-18062024",
+      "downloads": 4
+    },
+    {
+      "id": 24664,
+      "key": "okfe-code-helper",
+      "name": "OKFE Code Helper",
+      "slug": "okfe-code-helper",
+      "downloads": 0
+    },
+    {
+      "id": 24665,
+      "key": "com.uniscale.develop",
+      "name": "Uniscale Develop",
+      "slug": "uniscale-develop",
+      "downloads": 0
+    },
+    {
+      "id": 24666,
+      "key": "com.github.ramonvermeulen.dbtToolkit",
+      "name": "dbtToolkit",
+      "slug": "dbttoolkit",
+      "downloads": 0
+    },
+    {
+      "id": 24667,
+      "key": "org.fromcountry.XHierarchy.HierarchyExtender",
+      "name": "HierarchyExtender",
+      "slug": "hierarchyextender",
+      "downloads": 0
+    },
+    {
+      "id": 24669,
+      "key": "io.github.tandemdude.hikari-lightbulb-support",
+      "name": "Hikari Lightbulb Support",
+      "slug": "hikari-lightbulb-support",
+      "downloads": 0
+    },
+    {
+      "id": 24670,
+      "key": "com.github.zjh7890.gpttools",
+      "name": "gpt-tools",
+      "slug": "gpt-tools",
+      "downloads": 0
+    },
+    {
+      "id": 24671,
+      "key": "net.tsingyun.plugin.metadata",
+      "name": "TsingYun",
+      "slug": "tsingyun",
+      "downloads": 0
+    },
+    {
+      "id": 24672,
+      "key": "pdf-viewer-mustache-enhanced",
+      "name": "PDF Viewer Mustache Enhanced",
+      "slug": "pdf-viewer-mustache-enhanced",
+      "downloads": 0
+    },
+    {
+      "id": 24673,
+      "key": "Private Test Go Course 20062024_Maria Ogneva_go",
+      "name": "Private Test Go Course 20062024",
+      "slug": "private-test-go-course-20062024",
+      "downloads": 0
+    },
+    {
+      "id": 24674,
+      "key": "Private  Test Python Course 20062024_Maria Ogneva_Python",
+      "name": "Private  Test Python Course 20062024",
+      "slug": "private--test-python-course-20062024",
+      "downloads": 3
+    },
+    {
+      "id": 24675,
+      "key": "com.github.mkartashev.hserr",
+      "name": "HotSpot Crash Examiner",
+      "slug": "hotspot-crash-examiner",
+      "downloads": 0
+    },
+    {
+      "id": 24677,
+      "key": "com.github.x0berkay.EzanVakti",
+      "name": "Prayer Times",
+      "slug": "prayer-times",
+      "downloads": 0
+    },
+    {
+      "id": 24679,
+      "key": "com.jtracker.jtracker4intellij",
+      "name": "JTracker: MyBatis Log",
+      "slug": "jtracker:-mybatis-log",
+      "downloads": 0
+    },
+    {
+      "id": 24680,
+      "key": "com.github.continuedev.continueintellijextension.worklink.copilot",
+      "name": "Worklink Copilot",
+      "slug": "worklink-copilot",
+      "downloads": 0
+    },
+    {
+      "id": 24681,
+      "key": "Private Test Kotlin Course 21072024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 21072024",
+      "slug": "private-test-kotlin-course-21072024",
+      "downloads": 0
+    },
+    {
+      "id": 24682,
+      "key": "ru.ozon.ideplugin.kelp",
+      "name": "Kelp",
+      "slug": "kelp",
+      "downloads": 0
+    },
+    {
+      "id": 24683,
+      "key": "de.sparkteams.kasama",
+      "name": "Kasama",
+      "slug": "kasama",
+      "downloads": 0
+    },
+    {
+      "id": 24684,
+      "key": "Private Test JavaScript Course 21062024_Maria Ogneva_JavaScript",
+      "name": "Private Test JavaScript Course 21062024",
+      "slug": "private-test-javascript-course-21062024",
+      "downloads": 0
+    },
+    {
+      "id": 24686,
+      "key": "com.anyilanxin.easycode.easycode",
+      "name": "AyEasyCode",
+      "slug": "ayeasycode",
+      "downloads": 0
+    },
+    {
+      "id": 24687,
+      "key": "com.intellij.wechat.miniprogram",
+      "name": "WeChat Mini Program",
+      "slug": "wechat-mini-program",
+      "downloads": 0
+    },
+    {
+      "id": 24688,
+      "key": "com.robmux.quickopen",
+      "name": "Quick Open",
+      "slug": "quick-open",
+      "downloads": 0
+    },
+    {
+      "id": 24689,
+      "key": "switchcaseinspection",
+      "name": "Switch Case Inspection",
+      "slug": "switch-case-inspection",
+      "downloads": 0
+    },
+    {
+      "id": 24690,
+      "key": "com.shinriyo.freezed_bingsoo",
+      "name": "Freezed Bingsoo",
+      "slug": "freezed-bingsoo",
+      "downloads": 0
     }
   ]
 }
