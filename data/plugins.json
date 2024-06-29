@@ -75445,6 +75445,398 @@
       "name": "Freezed Bingsoo",
       "slug": "freezed-bingsoo",
       "downloads": 0
+    },
+    {
+      "id": 24691,
+      "key": "io.github.estivensh4.kotlin-multiplatform-wizard",
+      "name": "Kotlin-multiplatform-wizard",
+      "slug": "kotlin-multiplatform-wizard",
+      "downloads": 203
+    },
+    {
+      "id": 24692,
+      "key": "com.anyilanxin.plugin.easycode.easycode",
+      "name": "AyEasyCode",
+      "slug": "ayeasycode",
+      "downloads": 6
+    },
+    {
+      "id": 24693,
+      "key": "io.github.orangain.prettyjsonlog",
+      "name": "Pretty JSON Log",
+      "slug": "pretty-json-log",
+      "downloads": 142
+    },
+    {
+      "id": 24694,
+      "key": "com.jtracker.jtracker4intellij",
+      "name": "JTracker: MyBatis Log",
+      "slug": "jtracker:-mybatis-log",
+      "downloads": 5
+    },
+    {
+      "id": 24695,
+      "key": "com.github.iml885203.intellijgitopen",
+      "name": "Git Open",
+      "slug": "git-open",
+      "downloads": 32
+    },
+    {
+      "id": 24697,
+      "key": "drak_greek_theme",
+      "name": "Drak Greek Theme",
+      "slug": "drak-greek-theme",
+      "downloads": 32
+    },
+    {
+      "id": 24698,
+      "key": "io.lambdachecker.LC-Intellij-Extension",
+      "name": "LambdaChecker",
+      "slug": "lambdachecker",
+      "downloads": 0
+    },
+    {
+      "id": 24699,
+      "key": "com.aicodemetrics.AICodeMetrics",
+      "name": "AICodeMetrics",
+      "slug": "aicodemetrics",
+      "downloads": 19
+    },
+    {
+      "id": 24700,
+      "key": "com.stoprefactoring.Christmas",
+      "name": "Christmas",
+      "slug": "christmas",
+      "downloads": 0
+    },
+    {
+      "id": 24701,
+      "key": "icu.xwj.OjHelper",
+      "name": "OjHelper",
+      "slug": "ojhelper",
+      "downloads": 0
+    },
+    {
+      "id": 24702,
+      "key": "ir.mahdi-tavakoli.ShelveMe",
+      "name": "ShelveMe",
+      "slug": "shelveme",
+      "downloads": 0
+    },
+    {
+      "id": 24703,
+      "key": "se.clau.gleam",
+      "name": "Gleam Language Support",
+      "slug": "gleam-language-support",
+      "downloads": 112
+    },
+    {
+      "id": 24704,
+      "key": "com.github.guilhermearpassos.extractStructFromParams",
+      "name": "ExtractStructFromParams",
+      "slug": "extractstructfromparams",
+      "downloads": 3
+    },
+    {
+      "id": 24705,
+      "key": "com.github.jdha.codedivider",
+      "name": "Code Divider",
+      "slug": "code-divider",
+      "downloads": 162
+    },
+    {
+      "id": 24706,
+      "key": "nl.fwest98.jetbrains.approvaltests",
+      "name": "ApprovalTests Support",
+      "slug": "approvaltests-support",
+      "downloads": 22
+    },
+    {
+      "id": 24712,
+      "key": "com.one.mobile.ButterByeBye",
+      "name": "ButterByeBye",
+      "slug": "butterbyebye",
+      "downloads": 0
+    },
+    {
+      "id": 24713,
+      "key": "cc.danteware.assets",
+      "name": "Android Flutter Asset Completion",
+      "slug": "android-flutter-asset-completion",
+      "downloads": 6
+    },
+    {
+      "id": 24714,
+      "key": "org.vyperlang.plugin.vyper-plugin",
+      "name": "Vyper",
+      "slug": "vyper",
+      "downloads": 41
+    },
+    {
+      "id": 24716,
+      "key": "Privaet Test C++ (Google test) Course 24062024_Maria Ogneva_ObjectiveC",
+      "name": "Private Test C++ (Google test) Course 24062024",
+      "slug": "private-test-c++-(google-test)-course-24062024",
+      "downloads": 5
+    },
+    {
+      "id": 24717,
+      "key": "com.drossan.cxserver",
+      "name": "CX-Server",
+      "slug": "cx-server",
+      "downloads": 0
+    },
+    {
+      "id": 24718,
+      "key": "com.xtb.lokalise.plugin",
+      "name": "Extract Lokalise Resource",
+      "slug": "extract-lokalise-resource",
+      "downloads": 0
+    },
+    {
+      "id": 24721,
+      "key": "blue-light-theme",
+      "name": "Blue Light Theme",
+      "slug": "blue-light-theme",
+      "downloads": 122
+    },
+    {
+      "id": 24722,
+      "key": "JetBrains.I18n.ja",
+      "name": "I18n",
+      "slug": "i18n",
+      "downloads": 3
+    },
+    {
+      "id": 24723,
+      "key": "com.emertozd.imagevectorwizard",
+      "name": "ImageVector Wizard",
+      "slug": "imagevector-wizard",
+      "downloads": 0
+    },
+    {
+      "id": 24724,
+      "key": "com.enestoptas.KotlinAutoTest",
+      "name": "KotlinAutoTest",
+      "slug": "kotlinautotest",
+      "downloads": 0
+    },
+    {
+      "id": 24725,
+      "key": "com.kingsrook.qqq-app-developer-intellij-plugin",
+      "name": "QQQ App Developer Tools",
+      "slug": "qqq-app-developer-tools",
+      "downloads": 0
+    },
+    {
+      "id": 24726,
+      "key": "com.jin_xc",
+      "name": "Openresty",
+      "slug": "openresty",
+      "downloads": 0
+    },
+    {
+      "id": 24727,
+      "key": "com.github.rikaaa0928.plugintest",
+      "name": "vanivani-test",
+      "slug": "vanivani-test",
+      "downloads": 0
+    },
+    {
+      "id": 24728,
+      "key": "com.feisuanyz.soflu-javaai",
+      "name": "SoFlu-JavaAI",
+      "slug": "soflu-javaai",
+      "downloads": 1
+    },
+    {
+      "id": 24729,
+      "key": "com.CodeGraphQLExtended.CodeGraphQLExtended",
+      "name": "CodeGraphQLExtended",
+      "slug": "codegraphqlextended",
+      "downloads": 0
+    },
+    {
+      "id": 24730,
+      "key": "Private Test Simple Kotlin Course 25062024_Maria Ogneva_kotlin",
+      "name": "Private Test Simple Kotlin Course 25062024",
+      "slug": "private-test-simple-kotlin-course-25062024",
+      "downloads": 5
+    },
+    {
+      "id": 24732,
+      "key": "com.zhanglinwei.easydoc",
+      "name": "EasyDoc",
+      "slug": "easydoc",
+      "downloads": 0
+    },
+    {
+      "id": 24733,
+      "key": "Private Test Java fw Course 25062024_Maria Ogneva_JAVA",
+      "name": "Private Test Java fw Course 25062024",
+      "slug": "private-test-java-fw-course-25062024",
+      "downloads": 2
+    },
+    {
+      "id": 24734,
+      "key": "me.itishermann.ollamacommitsummarizer",
+      "name": "Ollama Commit Summarizer",
+      "slug": "ollama-commit-summarizer",
+      "downloads": 121
+    },
+    {
+      "id": 24735,
+      "key": "com.github.jazzytomato.hurl",
+      "name": "Hurl",
+      "slug": "hurl",
+      "downloads": 8
+    },
+    {
+      "id": 24736,
+      "key": "com.rankweis",
+      "name": "uppercut",
+      "slug": "uppercut",
+      "downloads": 4
+    },
+    {
+      "id": 24737,
+      "key": "com.opencsg.codesoulerintellijextension",
+      "name": "CodeSouler",
+      "slug": "codesouler",
+      "downloads": 0
+    },
+    {
+      "id": 24738,
+      "key": "cn.memoryzy.json",
+      "name": "Json Assistant",
+      "slug": "json-assistant",
+      "downloads": 0
+    },
+    {
+      "id": 24739,
+      "key": "blues",
+      "name": "Blues Theme",
+      "slug": "blues-theme",
+      "downloads": 16
+    },
+    {
+      "id": 24741,
+      "key": "com.birariro.comment.highlight",
+      "name": "Comment Highlight",
+      "slug": "comment-highlight",
+      "downloads": 1
+    },
+    {
+      "id": 24742,
+      "key": "de.omar.clean_architecture_plugin",
+      "name": "Flutter Structure Generator",
+      "slug": "flutter-structure-generator",
+      "downloads": 0
+    },
+    {
+      "id": 24743,
+      "key": "com.yantu.CNDroid",
+      "name": "CNDroid",
+      "slug": "cndroid",
+      "downloads": 0
+    },
+    {
+      "id": 24744,
+      "key": "CallerHierarchy",
+      "name": "CallerHierarchy",
+      "slug": "callerhierarchy",
+      "downloads": 0
+    },
+    {
+      "id": 24745,
+      "key": "Private Test Python Course 26062024-1_Maria Ogneva_Python",
+      "name": "Private Test Python Course 26062024-1",
+      "slug": "private-test-python-course-26062024-1",
+      "downloads": 1
+    },
+    {
+      "id": 24746,
+      "key": "Private Test Python Course 26062024-1935_Maria Ogneva_Python",
+      "name": "Private Test Python Course 26062024-1935",
+      "slug": "private-test-python-course-26062024-1935",
+      "downloads": 4
+    },
+    {
+      "id": 24747,
+      "key": "breakstatementinspection",
+      "name": "BreakStatementInspection",
+      "slug": "breakstatementinspection",
+      "downloads": 7
+    },
+    {
+      "id": 24748,
+      "key": "JavaScript Course19_Maria Ogneva_JavaScript",
+      "name": "Private Test JavaScript Course 26062024",
+      "slug": "private-test-javascript-course-26062024",
+      "downloads": 4
+    },
+    {
+      "id": 24750,
+      "key": "com.titansoftApp.code_gen_template",
+      "name": "CodeGenTemplate",
+      "slug": "codegentemplate",
+      "downloads": 4
+    },
+    {
+      "id": 24751,
+      "key": "com.hugui.swagger3.tool",
+      "name": "Swagger3 Tool",
+      "slug": "swagger3-tool",
+      "downloads": 0
+    },
+    {
+      "id": 24752,
+      "key": "com.github.onewildgamer.macosmeetsintellij",
+      "name": "macos-meets-default",
+      "slug": "macos-meets-default",
+      "downloads": 0
+    },
+    {
+      "id": 24753,
+      "key": "com.george.gale.CombineAndCopyFiles",
+      "name": "Combine and Copy Files",
+      "slug": "combine-and-copy-files",
+      "downloads": 0
+    },
+    {
+      "id": 24754,
+      "key": "cn.effine.smart-cryptor",
+      "name": "Smart Cryptor",
+      "slug": "smart-cryptor",
+      "downloads": 0
+    },
+    {
+      "id": 24755,
+      "key": "com.github.fmueller.jarvis",
+      "name": "Jarvis",
+      "slug": "jarvis",
+      "downloads": 0
+    },
+    {
+      "id": 24756,
+      "key": "com.sludge.beanutilsplugin",
+      "name": "SludgeBeanSetter",
+      "slug": "sludgebeansetter",
+      "downloads": 0
+    },
+    {
+      "id": 24757,
+      "key": "io.moku.rubyfunctionrunner",
+      "name": "Ruby Function Runner",
+      "slug": "ruby-function-runner",
+      "downloads": 0
+    },
+    {
+      "id": 24758,
+      "key": "com.jetbrains.performanceScripts",
+      "name": "Performance Scripts UI",
+      "slug": "performance-scripts-ui",
+      "downloads": 0
     }
   ]
 }
