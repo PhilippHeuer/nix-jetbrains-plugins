@@ -75837,6 +75837,188 @@
       "name": "Performance Scripts UI",
       "slug": "performance-scripts-ui",
       "downloads": 0
+    },
+    {
+      "id": 24759,
+      "key": "com.fyc.dev_tools",
+      "name": "Dev_tools",
+      "slug": "dev_tools",
+      "downloads": 206
+    },
+    {
+      "id": 24760,
+      "key": "color.scheme.Sober",
+      "name": "Sober Color Scheme",
+      "slug": "sober-color-scheme",
+      "downloads": 0
+    },
+    {
+      "id": 24761,
+      "key": "io.infracost.plugins.jetbrains-infracost",
+      "name": "Infracost",
+      "slug": "infracost",
+      "downloads": 33
+    },
+    {
+      "id": 24762,
+      "key": "com.github.l34130.mise",
+      "name": "Mise",
+      "slug": "mise",
+      "downloads": 25
+    },
+    {
+      "id": 24763,
+      "key": "com.github.selfancy.plugins.codespy",
+      "name": "CodeSpy",
+      "slug": "codespy",
+      "downloads": 26
+    },
+    {
+      "id": 24764,
+      "key": "com.github.oldfurybird.archery",
+      "name": "Archery",
+      "slug": "archery",
+      "downloads": 0
+    },
+    {
+      "id": 24765,
+      "key": "org.jetbrains.plugins.workspace",
+      "name": "IntelliJ Workspace",
+      "slug": "intellij-workspace",
+      "downloads": 18
+    },
+    {
+      "id": 24766,
+      "key": "de.omar.clean_architecture_plugin",
+      "name": "Flutter Structure Generator",
+      "slug": "flutter-structure-generator",
+      "downloads": 0
+    },
+    {
+      "id": 24767,
+      "key": "xyz.dowenliu.alibaba-sentinel-annotation-support-freemium",
+      "name": "Alibaba Sentinel Annotation Support Freemium",
+      "slug": "alibaba-sentinel-annotation-support-freemium",
+      "downloads": 16
+    },
+    {
+      "id": 24769,
+      "key": "Private Test Kotlin Course 01072024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 01072024",
+      "slug": "private-test-kotlin-course-01072024",
+      "downloads": 3
+    },
+    {
+      "id": 24770,
+      "key": "neo.plugin.cleanArchitecture.cleanArchitectureHelper",
+      "name": "CleanArchitectureHelper",
+      "slug": "cleanarchitecturehelper",
+      "downloads": 10
+    },
+    {
+      "id": 24775,
+      "key": "com.techx.fastdroid",
+      "name": "X Gen",
+      "slug": "x-gen",
+      "downloads": 6
+    },
+    {
+      "id": 24776,
+      "key": "palantir-gradle-jdks",
+      "name": "palantir-gradle-jdks",
+      "slug": "palantir-gradle-jdks",
+      "downloads": 1
+    },
+    {
+      "id": 24777,
+      "key": "fleet.testspark",
+      "name": "Testspark",
+      "slug": "testspark",
+      "downloads": 0
+    },
+    {
+      "id": 24778,
+      "key": "com.longshare.fm.plugin.ls-autogen-plugin",
+      "name": "Ls-Autogen",
+      "slug": "ls-autogen",
+      "downloads": 0
+    },
+    {
+      "id": 24779,
+      "key": "com.github.salab.iccheck",
+      "name": "ICCheck - Inconsistency Check",
+      "slug": "iccheck---inconsistency-check",
+      "downloads": 0
+    },
+    {
+      "id": 24780,
+      "key": "com.icoding.intellijextension",
+      "name": "iCoding",
+      "slug": "icoding",
+      "downloads": 0
+    },
+    {
+      "id": 24781,
+      "key": "com.runtime.pivot.plugin",
+      "name": "runtime-pivot",
+      "slug": "runtime-pivot",
+      "downloads": 36
+    },
+    {
+      "id": 24782,
+      "key": "ai.zencoder.plugin",
+      "name": "Zencoder: Your Mindful AI Coding Agent",
+      "slug": "zencoder:-your-mindful-ai-coding-agent",
+      "downloads": 0
+    },
+    {
+      "id": 24783,
+      "key": "robmart.ck3tigeridea",
+      "name": "CK3Tiger",
+      "slug": "ck3tiger",
+      "downloads": 0
+    },
+    {
+      "id": 24784,
+      "key": "com.github.hollis.live.templates.plus.hutool",
+      "name": "Live Templates Plus(Hutool)",
+      "slug": "live-templates-plus(hutool)",
+      "downloads": 0
+    },
+    {
+      "id": 24785,
+      "key": "com.github.seaxlab.sea-idea-plugin",
+      "name": "Sea Tool",
+      "slug": "sea-tool",
+      "downloads": 0
+    },
+    {
+      "id": 24786,
+      "key": "io.github.composegears.valkyrie",
+      "name": "Valkyrie",
+      "slug": "valkyrie",
+      "downloads": 0
+    },
+    {
+      "id": 24787,
+      "key": "me.kapilarny.HackClubArcadeManager",
+      "name": "HackClub Arcade Manager",
+      "slug": "hackclub-arcade-manager",
+      "downloads": 0
+    },
+    {
+      "id": 24788,
+      "key": "com.landamessenger.go_mvp.go_mvp_intellij",
+      "name": "go_mvp (Flutter)",
+      "slug": "go_mvp-(flutter)",
+      "downloads": 0
+    },
+    {
+      "id": 24789,
+      "key": "com.github.projectaj14.fluttertestsassistant",
+      "name": "Flutter Tests Assistant",
+      "slug": "flutter-tests-assistant",
+      "downloads": 0
     }
   ]
 }
