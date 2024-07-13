@@ -76019,6 +76019,321 @@
       "name": "Flutter Tests Assistant",
       "slug": "flutter-tests-assistant",
       "downloads": 0
+    },
+    {
+      "id": 24790,
+      "key": "awesome.console.x",
+      "name": "Awesome Console X",
+      "slug": "awesome-console-x",
+      "downloads": 12
+    },
+    {
+      "id": 24793,
+      "key": "com.github.kairaedsch.intellijpyinvoke",
+      "name": "PyInvoke",
+      "slug": "pyinvoke",
+      "downloads": 0
+    },
+    {
+      "id": 24795,
+      "key": "neon-cat",
+      "name": "Neon Cat Theme",
+      "slug": "neon-cat-theme",
+      "downloads": 45
+    },
+    {
+      "id": 24796,
+      "key": "com.hjwei.Mybatis-log-parser",
+      "name": "Mybatis Log Parser",
+      "slug": "mybatis-log-parser",
+      "downloads": 2
+    },
+    {
+      "id": 24797,
+      "key": "com.wl.demo",
+      "name": "BaoSFGitTool",
+      "slug": "baosfgittool",
+      "downloads": 0
+    },
+    {
+      "id": 24798,
+      "key": "com.github.minxie1209.dubboinvoker",
+      "name": "dubbo-invoker",
+      "slug": "dubbo-invoker",
+      "downloads": 0
+    },
+    {
+      "id": 24800,
+      "key": "com.extractToDataclass",
+      "name": "ExtractToDataclass",
+      "slug": "extracttodataclass",
+      "downloads": 31
+    },
+    {
+      "id": 24801,
+      "key": "com.soniyck.taborganizer",
+      "name": "Tab Organizer",
+      "slug": "tab-organizer",
+      "downloads": 0
+    },
+    {
+      "id": 24802,
+      "key": "net.abdulahad.branch_deployer",
+      "name": "Branch Deployer",
+      "slug": "branch-deployer",
+      "downloads": 8
+    },
+    {
+      "id": 24803,
+      "key": "com.github.hollis.live.templates.plus.apache.commons",
+      "name": "Live Templates Plus(Apache-Commons)",
+      "slug": "live-templates-plus(apache-commons)",
+      "downloads": 11
+    },
+    {
+      "id": 24805,
+      "key": "com.intellias.intellicopilot",
+      "name": "Intellias Copilot",
+      "slug": "intellias-copilot",
+      "downloads": 3
+    },
+    {
+      "id": 24807,
+      "key": "com.yourname.odincommit",
+      "name": "Odin Commit",
+      "slug": "odin-commit",
+      "downloads": 0
+    },
+    {
+      "id": 24808,
+      "key": "cn",
+      "name": "MyBatisPlus SQLTool",
+      "slug": "mybatisplus-sqltool",
+      "downloads": 11
+    },
+    {
+      "id": 24809,
+      "key": "cn.yjq.plugin.idea",
+      "name": "YI",
+      "slug": "yi",
+      "downloads": 0
+    },
+    {
+      "id": 24810,
+      "key": "org.jetbrains.idea.gradle.dsl",
+      "name": "Gradle DSL API",
+      "slug": "gradle-dsl-api",
+      "downloads": 0
+    },
+    {
+      "id": 24811,
+      "key": "org.zowe.cobol",
+      "name": "Zowe\u2122 COBOL Language Support",
+      "slug": "zowe\u2122-cobol-language-support",
+      "downloads": 41
+    },
+    {
+      "id": 24812,
+      "key": "com.jetbrains.spaceport.rd-backend-plugin",
+      "name": "CodeCanvas RD Backend Plugin",
+      "slug": "codecanvas-rd-backend-plugin",
+      "downloads": 4
+    },
+    {
+      "id": 24813,
+      "key": "demo",
+      "name": "Commit Message Generator",
+      "slug": "commit-message-generator",
+      "downloads": 0
+    },
+    {
+      "id": 24815,
+      "key": "com.aymendev.aymoai",
+      "name": "AymoAi",
+      "slug": "aymoai",
+      "downloads": 3
+    },
+    {
+      "id": 24816,
+      "key": "com.jtracker.vscodeicons",
+      "name": "VSCode Icons",
+      "slug": "vscode-icons",
+      "downloads": 0
+    },
+    {
+      "id": 24817,
+      "key": "org.pyxy.pyxycharm",
+      "name": "Pyxy Support",
+      "slug": "pyxy-support",
+      "downloads": 0
+    },
+    {
+      "id": 24818,
+      "key": "com.github.donslon1.arcade",
+      "name": "Arcade",
+      "slug": "arcade",
+      "downloads": 0
+    },
+    {
+      "id": 24819,
+      "key": "com.lingyue.digital.plugin.joycode",
+      "name": "JoyCode",
+      "slug": "joycode",
+      "downloads": 0
+    },
+    {
+      "id": 24820,
+      "key": "com.xiaobaicai.plugin",
+      "name": "ShowRuntimeClass",
+      "slug": "showruntimeclass",
+      "downloads": 0
+    },
+    {
+      "id": 24821,
+      "key": "cn.aixcyi.dunderall",
+      "name": "HooTool - Python Dunder All",
+      "slug": "hootool---python-dunder-all",
+      "downloads": 0
+    },
+    {
+      "id": 24822,
+      "key": "com.jbritian.read_book.id",
+      "name": "Read-Book",
+      "slug": "read-book",
+      "downloads": 21
+    },
+    {
+      "id": 24825,
+      "key": "com.github.sydowma.fast.development",
+      "name": "fast-gpt",
+      "slug": "fast-gpt",
+      "downloads": 0
+    },
+    {
+      "id": 24826,
+      "key": "pkg.tool.paster",
+      "name": "Paster",
+      "slug": "paster",
+      "downloads": 0
+    },
+    {
+      "id": 24828,
+      "key": "color.scheme.arc-dark-pastel",
+      "name": "arc-dark-pastel Color Scheme",
+      "slug": "arc-dark-pastel-color-scheme",
+      "downloads": 0
+    },
+    {
+      "id": 24829,
+      "key": "com.yonyou.iuap.yms",
+      "name": "Yms",
+      "slug": "yms",
+      "downloads": 0
+    },
+    {
+      "id": 24830,
+      "key": "com.hmydk.CodeNameSuggest",
+      "name": "AI CodeName Suggest",
+      "slug": "ai-codename-suggest",
+      "downloads": 0
+    },
+    {
+      "id": 24831,
+      "key": "intellij.jupyter.py",
+      "name": "Python Support for Jupyter",
+      "slug": "python-support-for-jupyter",
+      "downloads": 3
+    },
+    {
+      "id": 24832,
+      "key": "com.gocodeo.plugin",
+      "name": "GoCodeo",
+      "slug": "gocodeo",
+      "downloads": 0
+    },
+    {
+      "id": 24833,
+      "key": "com.zhanglinwei.zTools",
+      "name": "zTools",
+      "slug": "ztools",
+      "downloads": 0
+    },
+    {
+      "id": 24834,
+      "key": "de.omar.clean_architecture_plugin",
+      "name": "Flutter Structure Generator",
+      "slug": "flutter-structure-generator",
+      "downloads": 0
+    },
+    {
+      "id": 24835,
+      "key": "JetBrains.I18n.ko",
+      "name": "Korean Language Pack / \ud55c\uad6d\uc5b4 \uc5b8\uc5b4 \ud329",
+      "slug": "korean-language-pack-/-\ud55c\uad6d\uc5b4-\uc5b8\uc5b4-\ud329",
+      "downloads": 0
+    },
+    {
+      "id": 24836,
+      "key": "com.sapient.chatgpt",
+      "name": "SAGE",
+      "slug": "sage",
+      "downloads": 0
+    },
+    {
+      "id": 24839,
+      "key": "com.bf.copy2md",
+      "name": "Copy2md",
+      "slug": "copy2md",
+      "downloads": 0
+    },
+    {
+      "id": 24840,
+      "key": "com.atif.learn-intellij-plugins",
+      "name": "CodeWithme",
+      "slug": "codewithme",
+      "downloads": 0
+    },
+    {
+      "id": 24841,
+      "key": "com.optimumcit.plugin",
+      "name": "Optimum",
+      "slug": "optimum",
+      "downloads": 0
+    },
+    {
+      "id": 24842,
+      "key": "com.github.salimkham.intellijgloodyplugin",
+      "name": "gloody-actions",
+      "slug": "gloody-actions",
+      "downloads": 0
+    },
+    {
+      "id": 24843,
+      "key": "cloud.graal.gdk",
+      "name": "Graal Dev Kit for Micronaut",
+      "slug": "graal-dev-kit-for-micronaut",
+      "downloads": 0
+    },
+    {
+      "id": 24844,
+      "key": "dev.honkanen.htmxpro",
+      "name": "HTMX Pro",
+      "slug": "htmx-pro",
+      "downloads": 0
+    },
+    {
+      "id": 24845,
+      "key": "JetBrains.I18n.zh",
+      "name": "Chinese (Simplified) Language Pack / \u4e2d\u6587\u8bed\u8a00\u5305",
+      "slug": "chinese-(simplified)-language-pack-/-\u4e2d\u6587\u8bed\u8a00\u5305",
+      "downloads": 0
+    },
+    {
+      "id": 24846,
+      "key": "de.achimonline.jinjagenie",
+      "name": "Jinja Genie",
+      "slug": "jinja-genie",
+      "downloads": 0
     }
   ]
 }
