@@ -76334,6 +76334,321 @@
       "name": "Jinja Genie",
       "slug": "jinja-genie",
       "downloads": 0
+    },
+    {
+      "id": 24848,
+      "key": "com.adgainai.ApolloConfigVisualization",
+      "name": "ApolloConfigVisualization",
+      "slug": "apolloconfigvisualization",
+      "downloads": 8
+    },
+    {
+      "id": 24849,
+      "key": "com.wyf.float.tab",
+      "name": "FLOAT TAB",
+      "slug": "float-tab",
+      "downloads": 0
+    },
+    {
+      "id": 24850,
+      "key": "de.achimonline.quickjinja",
+      "name": "Quick Jinja",
+      "slug": "quick-jinja",
+      "downloads": 61
+    },
+    {
+      "id": 24851,
+      "key": "com.hmydk.aigit",
+      "name": "AI Git Commit",
+      "slug": "ai-git-commit",
+      "downloads": 63
+    },
+    {
+      "id": 24852,
+      "key": "ch.kleis.lcaac.plugin",
+      "name": "Life Cycle Analysis as Code",
+      "slug": "life-cycle-analysis-as-code",
+      "downloads": 7
+    },
+    {
+      "id": 24853,
+      "key": "cn.ztion.sakura",
+      "name": "Sakura",
+      "slug": "sakura",
+      "downloads": 0
+    },
+    {
+      "id": 24854,
+      "key": "de.omar.clean_architecture_plugin",
+      "name": "Flutter Structure Generator",
+      "slug": "flutter-structure-generator",
+      "downloads": 14
+    },
+    {
+      "id": 24855,
+      "key": "org.pehrs.freemarker-generator-plugin",
+      "name": "Freemarker Code Generator",
+      "slug": "freemarker-code-generator",
+      "downloads": 0
+    },
+    {
+      "id": 24857,
+      "key": "Private Test Python Course 15072024_Maria Ogneva_Python",
+      "name": "Private Test Python Course 15072024",
+      "slug": "private-test-python-course-15072024",
+      "downloads": 4
+    },
+    {
+      "id": 24858,
+      "key": "Private Test Kotlin Course 15072024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 15072024",
+      "slug": "private-test-kotlin-course-15072024",
+      "downloads": 4
+    },
+    {
+      "id": 24859,
+      "key": "Private Test Kotlin Course 15072024 out_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 15072024 out",
+      "slug": "private-test-kotlin-course-15072024-out",
+      "downloads": 16
+    },
+    {
+      "id": 24860,
+      "key": "Private Test Python Course 15072024 out_Maria Ogneva_Python",
+      "name": "Private Test Python Course 15072024 out",
+      "slug": "private-test-python-course-15072024-out",
+      "downloads": 20
+    },
+    {
+      "id": 24862,
+      "key": "com.github.skleprozzz.intellijfluttercleanfeature",
+      "name": "Flutter Clean Feature",
+      "slug": "flutter-clean-feature",
+      "downloads": 0
+    },
+    {
+      "id": 24863,
+      "key": "com.github.hspragggodaddy.insightfuldependencies",
+      "name": "InsightfulDependencies",
+      "slug": "insightfuldependencies",
+      "downloads": 0
+    },
+    {
+      "id": 24864,
+      "key": "com.jin_xc",
+      "name": "Openresty",
+      "slug": "openresty",
+      "downloads": 9
+    },
+    {
+      "id": 24865,
+      "key": "com.epoint.ztb.ztb-dependencycheck",
+      "name": "Ztb-Dependencycheck",
+      "slug": "ztb-dependencycheck",
+      "downloads": 0
+    },
+    {
+      "id": 24866,
+      "key": "com.hamalawy.CleanArchTemplate",
+      "name": "Clean Arch Template",
+      "slug": "clean-arch-template",
+      "downloads": 19
+    },
+    {
+      "id": 24867,
+      "key": "io.metersphere.idea.plugin",
+      "name": "MeterSphere",
+      "slug": "metersphere",
+      "downloads": 0
+    },
+    {
+      "id": 24868,
+      "key": "com.zhouzhengxi.vefaas-plugin",
+      "name": "veFaaS: Code Deployer",
+      "slug": "vefaas:-code-deployer",
+      "downloads": 0
+    },
+    {
+      "id": 24870,
+      "key": "org.fatpo.JetbrainsShowTimestampPlugin",
+      "name": "ShowtimeUtil",
+      "slug": "showtimeutil",
+      "downloads": 0
+    },
+    {
+      "id": 24871,
+      "key": "Private Test Java Course 17072024_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 17072024",
+      "slug": "private-test-java-course-17072024",
+      "downloads": 2
+    },
+    {
+      "id": 24872,
+      "key": "io.github.kituin.ModMultiVersion",
+      "name": "ModMultiVersion",
+      "slug": "modmultiversion",
+      "downloads": 3
+    },
+    {
+      "id": 24873,
+      "key": "io.github.deblockt.cucumber-datatable-to-bean-mapping-intelij-plugin",
+      "name": "Cucumber DataTable Mapping",
+      "slug": "cucumber-datatable-mapping",
+      "downloads": 3
+    },
+    {
+      "id": 24874,
+      "key": "happy.mjstudio.HWPHelper",
+      "name": "HWPHelper",
+      "slug": "hwphelper",
+      "downloads": 0
+    },
+    {
+      "id": 24875,
+      "key": "org.code.generator.CodeGenerator",
+      "name": "CodeGenerator",
+      "slug": "codegenerator",
+      "downloads": 0
+    },
+    {
+      "id": 24876,
+      "key": "com.snsoft.nbserverplugin",
+      "name": "\u5357\u5317\u5f00\u53d1\u63d2\u4ef6",
+      "slug": "\u5357\u5317\u5f00\u53d1\u63d2\u4ef6",
+      "downloads": 0
+    },
+    {
+      "id": 24877,
+      "key": "Private Test ht Kotlin Course 18072024_Maria Ogneva_kotlin",
+      "name": "Private Test ht Kotlin Course 18072024",
+      "slug": "private-test-ht-kotlin-course-18072024",
+      "downloads": 2
+    },
+    {
+      "id": 24879,
+      "key": "Private Test ht Python Course 18072024_Maria Ogneva_Python",
+      "name": "Private Test ht Python Course 18072024",
+      "slug": "private-test-ht-python-course-18072024",
+      "downloads": 3
+    },
+    {
+      "id": 24880,
+      "key": "com.intellij.notebooks.core",
+      "name": "Notebooks Core Support",
+      "slug": "notebooks-core-support",
+      "downloads": 1
+    },
+    {
+      "id": 24881,
+      "key": "DarkSakuraTheme",
+      "name": "Dark Sakura",
+      "slug": "dark-sakura",
+      "downloads": 0
+    },
+    {
+      "id": 24882,
+      "key": "MultivariablePostfixCompletion",
+      "name": "Multivariable Postfix Completion",
+      "slug": "multivariable-postfix-completion",
+      "downloads": 0
+    },
+    {
+      "id": 24883,
+      "key": "com.LK.ToolsBox",
+      "name": "ToolsBox",
+      "slug": "toolsbox",
+      "downloads": 0
+    },
+    {
+      "id": 24884,
+      "key": "Private Test Python course 18072024 - 2_Maria Ogneva_Python",
+      "name": "Private Test Python course 18072024 - 2",
+      "slug": "private-test-python-course-18072024---2",
+      "downloads": 3
+    },
+    {
+      "id": 24886,
+      "key": "me.theboiboi8.miasma",
+      "name": "Miasma",
+      "slug": "miasma",
+      "downloads": 0
+    },
+    {
+      "id": 24887,
+      "key": "com.github.whitel1st.intellijtestplugin",
+      "name": "whitel1st worka",
+      "slug": "whitel1st-worka",
+      "downloads": 0
+    },
+    {
+      "id": 24888,
+      "key": "si.vegamind.ftccompanion",
+      "name": "FTC Companion",
+      "slug": "ftc-companion",
+      "downloads": 0
+    },
+    {
+      "id": 24889,
+      "key": "com.gbti.snapshotsforai",
+      "name": "Snapshots for AI",
+      "slug": "snapshots-for-ai",
+      "downloads": 0
+    },
+    {
+      "id": 24890,
+      "key": "com.yinhai.TA3AiPlugin",
+      "name": "TA+3AI\u52a9\u624b",
+      "slug": "ta+3ai\u52a9\u624b",
+      "downloads": 0
+    },
+    {
+      "id": 24891,
+      "key": "me.panxin.plugin.idea.FAW.p3c",
+      "name": "FAWReviewMaster",
+      "slug": "fawreviewmaster",
+      "downloads": 0
+    },
+    {
+      "id": 24893,
+      "key": "Private Test C++ Course 19072024_Maria Ogneva_ObjectiveC",
+      "name": "Private Test C++ Course 19072024",
+      "slug": "private-test-c++-course-19072024",
+      "downloads": 0
+    },
+    {
+      "id": 24894,
+      "key": "com.github.mersadesalati.demopluginuserfeedback",
+      "name": "demo_user-feedback",
+      "slug": "demo_user-feedback",
+      "downloads": 0
+    },
+    {
+      "id": 24896,
+      "key": "Private Test Go Course 19072024_Maria Ogneva_go",
+      "name": "Private Test Go Course 19072024",
+      "slug": "private-test-go-course-19072024",
+      "downloads": 0
+    },
+    {
+      "id": 24897,
+      "key": "Private Test PHP Course 19072024_Maria Ogneva_PHP",
+      "name": "Private Test PHP Course 19072024",
+      "slug": "private-test-php-course-19072024",
+      "downloads": 0
+    },
+    {
+      "id": 24898,
+      "key": "com.gocodeo.plugin",
+      "name": "GoCodeo",
+      "slug": "gocodeo",
+      "downloads": 0
+    },
+    {
+      "id": 24899,
+      "key": "com.macoto.projectStructureTree",
+      "name": "ProjectStructureTree",
+      "slug": "projectstructuretree",
+      "downloads": 0
     }
   ]
 }
