@@ -76649,6 +76649,349 @@
       "name": "ProjectStructureTree",
       "slug": "projectstructuretree",
       "downloads": 0
+    },
+    {
+      "id": 24900,
+      "key": "dk.vuetest.testing.jumping",
+      "name": "Vue Test Jump",
+      "slug": "vue-test-jump",
+      "downloads": 0
+    },
+    {
+      "id": 24901,
+      "key": "com.RussianBar.RussianBar",
+      "name": "RussianBar",
+      "slug": "russianbar",
+      "downloads": 3
+    },
+    {
+      "id": 24902,
+      "key": "com.hamalawy.Ayah",
+      "name": "Ayah",
+      "slug": "ayah",
+      "downloads": 16
+    },
+    {
+      "id": 24903,
+      "key": "com.ideaPlugindemo.rcc.id",
+      "name": "timousSayHello",
+      "slug": "timoussayhello",
+      "downloads": 0
+    },
+    {
+      "id": 24904,
+      "key": "com.github.l34130.mise",
+      "name": "Mise",
+      "slug": "mise",
+      "downloads": 99
+    },
+    {
+      "id": 24906,
+      "key": "com.gafner.rlm",
+      "name": "Run Like Me",
+      "slug": "run-like-me",
+      "downloads": 108
+    },
+    {
+      "id": 24907,
+      "key": "cn.aixcyi.shebang",
+      "name": "HooTool - Shebang",
+      "slug": "hootool---shebang",
+      "downloads": 7
+    },
+    {
+      "id": 24908,
+      "key": "com.github.gamefixxer.php-constant-manager",
+      "name": "Php-Constant-Manager",
+      "slug": "php-constant-manager",
+      "downloads": 0
+    },
+    {
+      "id": 24909,
+      "key": "com.github.xgheaven.intellijkeymapnofn",
+      "name": "Emacs without fn",
+      "slug": "emacs-without-fn",
+      "downloads": 0
+    },
+    {
+      "id": 24910,
+      "key": "com.hxios.lang",
+      "name": "DartTransfer",
+      "slug": "darttransfer",
+      "downloads": 0
+    },
+    {
+      "id": 24911,
+      "key": "com.qunar.p3c.marketrule",
+      "name": "MARKER CODE RULE",
+      "slug": "marker-code-rule",
+      "downloads": 0
+    },
+    {
+      "id": 24912,
+      "key": "cn.aixcyi.pnl",
+      "name": "HooTool - Python Numeric Literal",
+      "slug": "hootool---python-numeric-literal",
+      "downloads": 0
+    },
+    {
+      "id": 24916,
+      "key": "snap.dev.jetbrains.plugins.template",
+      "name": "IntelliJ Platform Plugin Template",
+      "slug": "intellij-platform-plugin-template",
+      "downloads": 0
+    },
+    {
+      "id": 24917,
+      "key": "nl.zaxiure.jetbrains.lazygit",
+      "name": "LazyGit in Editor Terminal",
+      "slug": "lazygit-in-editor-terminal",
+      "downloads": 4
+    },
+    {
+      "id": 24918,
+      "key": "com.ukg.trackingids.add-tracking-id",
+      "name": "Add Tracking Ids",
+      "slug": "add-tracking-ids",
+      "downloads": 6
+    },
+    {
+      "id": 24919,
+      "key": "com.escuela.plugin",
+      "name": "JIRAAIAutomation",
+      "slug": "jiraaiautomation",
+      "downloads": 3
+    },
+    {
+      "id": 24920,
+      "key": "com.github.kings1990.iBlog",
+      "name": "iBlog",
+      "slug": "iblog",
+      "downloads": 0
+    },
+    {
+      "id": 24921,
+      "key": "color.scheme.OrbitDarkPro",
+      "name": "Orbit Dark Pro Color Scheme",
+      "slug": "orbit-dark-pro-color-scheme",
+      "downloads": 0
+    },
+    {
+      "id": 24922,
+      "key": "EDC-963 (Trial)_Educational Content_Python",
+      "name": "EDC-963 (Trial)",
+      "slug": "edc-963-(trial)",
+      "downloads": 0
+    },
+    {
+      "id": 24923,
+      "key": "Private Test Python Course 23072024_Maria Ogneva_Python",
+      "name": "Private Test Python Course 23072024",
+      "slug": "private-test-python-course-23072024",
+      "downloads": 4
+    },
+    {
+      "id": 24924,
+      "key": "Private Test Java Course 23072024_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 23072024",
+      "slug": "private-test-java-course-23072024",
+      "downloads": 2
+    },
+    {
+      "id": 24925,
+      "key": "Private Test JavaScript Course 23072024_Maria Ogneva_JavaScript",
+      "name": "Private Test JavaScript Course 23072024",
+      "slug": "private-test-javascript-course-23072024",
+      "downloads": 3
+    },
+    {
+      "id": 24928,
+      "key": "org.apiduck.idea-plugin",
+      "name": "ApiDuck",
+      "slug": "apiduck",
+      "downloads": 0
+    },
+    {
+      "id": 24929,
+      "key": "com.github.snaphat.jumptosourcediff",
+      "name": "Jump to Source/Diff",
+      "slug": "jump-to-source/diff",
+      "downloads": 10
+    },
+    {
+      "id": 24930,
+      "key": "com.yanftch.JsonFormat",
+      "name": "JsonFormat",
+      "slug": "jsonformat",
+      "downloads": 89
+    },
+    {
+      "id": 24931,
+      "key": "Private Test Rust Course 24072024-2_Maria Ogneva_Rust",
+      "name": "Private Test Rust Course 24072024-2",
+      "slug": "private-test-rust-course-24072024-2",
+      "downloads": 3
+    },
+    {
+      "id": 24932,
+      "key": "com.sylwek845.mockito.to.mockk",
+      "name": "Mockito To MockK Migration Tool",
+      "slug": "mockito-to-mockk-migration-tool",
+      "downloads": 22
+    },
+    {
+      "id": 24933,
+      "key": "michel-solarized-theme",
+      "name": "Michel's Solarized Themes",
+      "slug": "michel's-solarized-themes",
+      "downloads": 0
+    },
+    {
+      "id": 24934,
+      "key": "com.closedloop.cloosedloop_plugin",
+      "name": "ClosedLoop",
+      "slug": "closedloop",
+      "downloads": 0
+    },
+    {
+      "id": 24935,
+      "key": "com.liaimei.CodeSuperTool",
+      "name": "CodeSuperTool",
+      "slug": "codesupertool",
+      "downloads": 0
+    },
+    {
+      "id": 24936,
+      "key": "issue-dashboard-widgets",
+      "name": "Issue Dashboard Widgets",
+      "slug": "issue-dashboard-widgets",
+      "downloads": 0
+    },
+    {
+      "id": 24937,
+      "key": "time-tracking-dashboard-widgets",
+      "name": "Time Tracking Dashboard Widgets",
+      "slug": "time-tracking-dashboard-widgets",
+      "downloads": 0
+    },
+    {
+      "id": 24938,
+      "key": "project-team-dashboard-widgets",
+      "name": "Project Team Dashboard Widgets",
+      "slug": "project-team-dashboard-widgets",
+      "downloads": 0
+    },
+    {
+      "id": 24939,
+      "key": "report-dashboard-widgets",
+      "name": "Reports Widget",
+      "slug": "reports-widget",
+      "downloads": 1
+    },
+    {
+      "id": 24940,
+      "key": "quick-notes",
+      "name": "Quick Notes",
+      "slug": "quick-notes",
+      "downloads": 0
+    },
+    {
+      "id": 24941,
+      "key": "agile-dashboard-widgets",
+      "name": "Agile Dashboard Widgets",
+      "slug": "agile-dashboard-widgets",
+      "downloads": 3
+    },
+    {
+      "id": 24942,
+      "key": "countdown-widget",
+      "name": "Countdown Widget",
+      "slug": "countdown-widget",
+      "downloads": 0
+    },
+    {
+      "id": 24943,
+      "key": "crowdin-project-status-widget",
+      "name": "Crowdin Project Status",
+      "slug": "crowdin-project-status",
+      "downloads": 0
+    },
+    {
+      "id": 24944,
+      "key": "stack-overflow-digest",
+      "name": "Stack Overflow Digest",
+      "slug": "stack-overflow-digest",
+      "downloads": 0
+    },
+    {
+      "id": 24945,
+      "key": "github-commits-widget",
+      "name": "GitHub Commits Widget",
+      "slug": "github-commits-widget",
+      "downloads": 0
+    },
+    {
+      "id": 24947,
+      "key": "com.charlyFixing.HexagonalCreator",
+      "name": "HexagonalCreator",
+      "slug": "hexagonalcreator",
+      "downloads": 0
+    },
+    {
+      "id": 24948,
+      "key": "vanstudio.sequence.java",
+      "name": "SequenceDiagram Java",
+      "slug": "sequencediagram-java",
+      "downloads": 0
+    },
+    {
+      "id": 24950,
+      "key": "cc.flawcra.phalconautocomplete.3",
+      "name": "Phalcon 3 Autocomplete",
+      "slug": "phalcon-3-autocomplete",
+      "downloads": 0
+    },
+    {
+      "id": 24951,
+      "key": "cc.flawcra.phalconautocomplete.5",
+      "name": "Phalcon 5 Autocomplete",
+      "slug": "phalcon-5-autocomplete",
+      "downloads": 0
+    },
+    {
+      "id": 24952,
+      "key": "com.yumi.CodeReadTracker",
+      "name": "CodeReadTracker",
+      "slug": "codereadtracker",
+      "downloads": 0
+    },
+    {
+      "id": 24953,
+      "key": "com.techx.fastdroid",
+      "name": "Fast Droid",
+      "slug": "fast-droid",
+      "downloads": 0
+    },
+    {
+      "id": 24955,
+      "key": "fleet.internal.inspections",
+      "name": "Fleet Inspections",
+      "slug": "fleet-inspections",
+      "downloads": 0
+    },
+    {
+      "id": 24956,
+      "key": "com.bpce.fr.GenIndo",
+      "name": "GenIndo",
+      "slug": "genindo",
+      "downloads": 0
+    },
+    {
+      "id": 24957,
+      "key": "com.github.aleksandrsl.intellijluau",
+      "name": "Luau",
+      "slug": "luau",
+      "downloads": 0
     }
   ]
 }
