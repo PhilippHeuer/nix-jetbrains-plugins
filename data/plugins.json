@@ -76992,6 +76992,307 @@
       "name": "Luau",
       "slug": "luau",
       "downloads": 0
+    },
+    {
+      "id": 24958,
+      "key": "co.anbora.labs.codeql",
+      "name": "CodeQL",
+      "slug": "codeql",
+      "downloads": 1
+    },
+    {
+      "id": 24959,
+      "key": "com.shinriyo.bufferconfig",
+      "name": "Buffer Configurator",
+      "slug": "buffer-configurator",
+      "downloads": 36
+    },
+    {
+      "id": 24960,
+      "key": "cn.nicepkg.gptrunner",
+      "name": "GPT-Runner",
+      "slug": "gpt-runner",
+      "downloads": 252
+    },
+    {
+      "id": 24962,
+      "key": "com.kevinmueller.razor-sense-jetbrains",
+      "name": "Razor Sense",
+      "slug": "razor-sense",
+      "downloads": 7
+    },
+    {
+      "id": 24963,
+      "key": "insyncwithfoo.uv",
+      "name": "uv (Unofficial)",
+      "slug": "uv-(unofficial)",
+      "downloads": 1
+    },
+    {
+      "id": 24964,
+      "key": "az.mtech.autoapigen",
+      "name": "Auto API Generator",
+      "slug": "auto-api-generator",
+      "downloads": 26
+    },
+    {
+      "id": 24968,
+      "key": "cn.codegraph.codegraph",
+      "name": "Code Graph",
+      "slug": "code-graph",
+      "downloads": 32
+    },
+    {
+      "id": 24969,
+      "key": "com.github.iml885203.intellijgitmergeinto",
+      "name": "Git Merge Into",
+      "slug": "git-merge-into",
+      "downloads": 70
+    },
+    {
+      "id": 24970,
+      "key": "littleowle.ai.ollama.commit",
+      "name": "Little Owle Ollama AI Commit",
+      "slug": "little-owle-ollama-ai-commit",
+      "downloads": 2
+    },
+    {
+      "id": 24971,
+      "key": "com.github.Glider2355.gauge",
+      "name": "GaugeTS",
+      "slug": "gaugets",
+      "downloads": 19
+    },
+    {
+      "id": 24973,
+      "key": "vanstudio.sequence.js",
+      "name": "SequenceDiagram JS",
+      "slug": "sequencediagram-js",
+      "downloads": 0
+    },
+    {
+      "id": 24974,
+      "key": "com.github.droiddevgeeks.cfsdk",
+      "name": "Cashfree SDK Update",
+      "slug": "cashfree-sdk-update",
+      "downloads": 39
+    },
+    {
+      "id": 24975,
+      "key": "com.github.whwuhan.retrotheme",
+      "name": "Retro Theme",
+      "slug": "retro-theme",
+      "downloads": 17
+    },
+    {
+      "id": 24976,
+      "key": "com.bugever.trash",
+      "name": "Trash",
+      "slug": "trash",
+      "downloads": 8
+    },
+    {
+      "id": 24978,
+      "key": "com.mbpolis.swaggerparametercheck",
+      "name": "jlynet-SwaggerParameterCheck",
+      "slug": "jlynet-swaggerparametercheck",
+      "downloads": 0
+    },
+    {
+      "id": 24979,
+      "key": "com.locale_sphere.plugin",
+      "name": "Locale Sphere",
+      "slug": "locale-sphere",
+      "downloads": 39
+    },
+    {
+      "id": 24980,
+      "key": "rife.bld.idea",
+      "name": "bld",
+      "slug": "bld",
+      "downloads": 63
+    },
+    {
+      "id": 24983,
+      "key": "com.qi.flutter_mvc",
+      "name": "Flutter_Mvc",
+      "slug": "flutter_mvc",
+      "downloads": 19
+    },
+    {
+      "id": 24984,
+      "key": "linqingying.cangjie",
+      "name": "Cangjie",
+      "slug": "cangjie",
+      "downloads": 4
+    },
+    {
+      "id": 24985,
+      "key": "com.dev.memo.CodeMemo",
+      "name": "CodeMemo",
+      "slug": "codememo",
+      "downloads": 0
+    },
+    {
+      "id": 24987,
+      "key": "com.techx.xgen",
+      "name": "X Gen",
+      "slug": "x-gen",
+      "downloads": 12
+    },
+    {
+      "id": 24988,
+      "key": "org.elegance.plugin.code.code-elegance",
+      "name": "Code Elegance",
+      "slug": "code-elegance",
+      "downloads": 0
+    },
+    {
+      "id": 24989,
+      "key": "org.omni4j",
+      "name": "omni4j",
+      "slug": "omni4j",
+      "downloads": 0
+    },
+    {
+      "id": 24990,
+      "key": "org.sast.omni4j",
+      "name": "omni4j",
+      "slug": "omni4j",
+      "downloads": 0
+    },
+    {
+      "id": 24991,
+      "key": "com.github.zz6880817.androidcodetemplate",
+      "name": "android-code-template",
+      "slug": "android-code-template",
+      "downloads": 0
+    },
+    {
+      "id": 24993,
+      "key": "dev.aikido.aikido-intellij-plugin",
+      "name": "Aikido Security",
+      "slug": "aikido-security",
+      "downloads": 0
+    },
+    {
+      "id": 24995,
+      "key": "okli.lollipop",
+      "name": "Lollipop",
+      "slug": "lollipop",
+      "downloads": 1
+    },
+    {
+      "id": 24997,
+      "key": "com.helpers.flyway-helper",
+      "name": "Flyway-Helper",
+      "slug": "flyway-helper",
+      "downloads": 33
+    },
+    {
+      "id": 24999,
+      "key": "com.qi.flutter-dev-tool",
+      "name": "FlutterDevTool",
+      "slug": "flutterdevtool",
+      "downloads": 101
+    },
+    {
+      "id": 25000,
+      "key": "io.intino.itrules.plugin",
+      "name": "Itrules",
+      "slug": "itrules",
+      "downloads": 0
+    },
+    {
+      "id": 25002,
+      "key": "ReSharperPlugin.ILSpy",
+      "name": "ILSpy",
+      "slug": "ilspy",
+      "downloads": 0
+    },
+    {
+      "id": 25003,
+      "key": "com.leve.aiHelper",
+      "name": "CopySrcStructure",
+      "slug": "copysrcstructure",
+      "downloads": 17
+    },
+    {
+      "id": 25004,
+      "key": "ChineseSimplified",
+      "name": "ChineseSimplified",
+      "slug": "chinesesimplified",
+      "downloads": 0
+    },
+    {
+      "id": 25005,
+      "key": "com.github.he1pa.intellijpluginpublishtest",
+      "name": "publish_test",
+      "slug": "publish_test",
+      "downloads": 0
+    },
+    {
+      "id": 25006,
+      "key": "ReSharperPlugin.XnaColors",
+      "name": "XnaColors",
+      "slug": "xnacolors",
+      "downloads": 0
+    },
+    {
+      "id": 25007,
+      "key": "com.tseyler.livetemplates.sharing",
+      "name": "Live Templates Sharing",
+      "slug": "live-templates-sharing",
+      "downloads": 0
+    },
+    {
+      "id": 25010,
+      "key": "com.github.andrei5090.onboardingllms",
+      "name": "Onboarding Buddy",
+      "slug": "onboarding-buddy",
+      "downloads": 1
+    },
+    {
+      "id": 25012,
+      "key": "sql-joining-graph",
+      "name": "SqlJoiningGraph",
+      "slug": "sqljoininggraph",
+      "downloads": 0
+    },
+    {
+      "id": 25013,
+      "key": "com.xiaohai.mybatis-log-converter",
+      "name": "MyBatis Log Converter",
+      "slug": "mybatis-log-converter",
+      "downloads": 0
+    },
+    {
+      "id": 25014,
+      "key": "com.generiscorp.cara-script-plugin",
+      "name": "CARA Developer Toolkit",
+      "slug": "cara-developer-toolkit",
+      "downloads": 0
+    },
+    {
+      "id": 25018,
+      "key": "com.hmydk.aicode",
+      "name": "AICodeToolSet",
+      "slug": "aicodetoolset",
+      "downloads": 0
+    },
+    {
+      "id": 25021,
+      "key": "org.sast.core.omni4j",
+      "name": "omni4j",
+      "slug": "omni4j",
+      "downloads": 0
+    },
+    {
+      "id": 25023,
+      "key": "dev.adamko.problemIgnorer",
+      "name": "Problem Ignorer",
+      "slug": "problem-ignorer",
+      "downloads": 0
     }
   ]
 }
