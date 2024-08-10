@@ -77293,6 +77293,321 @@
       "name": "Problem Ignorer",
       "slug": "problem-ignorer",
       "downloads": 0
+    },
+    {
+      "id": 25030,
+      "key": "ChineseSimplified",
+      "name": "ChineseSimplified",
+      "slug": "chinesesimplified",
+      "downloads": 309
+    },
+    {
+      "id": 25031,
+      "key": "com.dev.memo.CodeMemo",
+      "name": "CodeMemo",
+      "slug": "codememo",
+      "downloads": 0
+    },
+    {
+      "id": 25032,
+      "key": "com.huawei.cangjie",
+      "name": "Cangjie",
+      "slug": "cangjie",
+      "downloads": 0
+    },
+    {
+      "id": 25033,
+      "key": "dev.victoryil.lightsheet",
+      "name": "Light Sheet",
+      "slug": "light-sheet",
+      "downloads": 17
+    },
+    {
+      "id": 25035,
+      "key": "com.mbpolis.swaggerparametercheck",
+      "name": "jlynet-SwaggerParameterCheck",
+      "slug": "jlynet-swaggerparametercheck",
+      "downloads": 0
+    },
+    {
+      "id": 25036,
+      "key": "com.github.artem123456789.postmanplugin",
+      "name": "PostmanAgent",
+      "slug": "postmanagent",
+      "downloads": 54
+    },
+    {
+      "id": 25037,
+      "key": "coco.cheese.ide",
+      "name": "cheese-ide",
+      "slug": "cheese-ide",
+      "downloads": 0
+    },
+    {
+      "id": 25038,
+      "key": "cn.psvmc.VueComp",
+      "name": "VueComp",
+      "slug": "vuecomp",
+      "downloads": 50
+    },
+    {
+      "id": 25039,
+      "key": "com.github.srwi.pixellens",
+      "name": "PixelLens",
+      "slug": "pixellens",
+      "downloads": 16
+    },
+    {
+      "id": 25040,
+      "key": "CursorSmoothCaretTransition",
+      "name": "CursorSmoothCaretTransition",
+      "slug": "cursorsmoothcarettransition",
+      "downloads": 0
+    },
+    {
+      "id": 25041,
+      "key": "com.iflytek-t",
+      "name": "iFlyCode",
+      "slug": "iflycode",
+      "downloads": 0
+    },
+    {
+      "id": 25043,
+      "key": "okli.chocko",
+      "name": "Chocko-boy",
+      "slug": "chocko-boy",
+      "downloads": 0
+    },
+    {
+      "id": 25044,
+      "key": "dev.kikugie.stonecutter",
+      "name": "Stonecutter Dev",
+      "slug": "stonecutter-dev",
+      "downloads": 32
+    },
+    {
+      "id": 25045,
+      "key": "Java Practice_ehodge_JAVA",
+      "name": "Java Practice",
+      "slug": "java-practice",
+      "downloads": 0
+    },
+    {
+      "id": 25046,
+      "key": "mats.bengtsson.askgptmibadd",
+      "name": "Ask GPT MIB Add",
+      "slug": "ask-gpt-mib-add",
+      "downloads": 1
+    },
+    {
+      "id": 25047,
+      "key": "com.neuronbit.businessflow.designer",
+      "name": "BusinessFlowDesigner",
+      "slug": "businessflowdesigner",
+      "downloads": 0
+    },
+    {
+      "id": 25048,
+      "key": "fleet.prettier",
+      "name": "Prettier",
+      "slug": "prettier",
+      "downloads": 0
+    },
+    {
+      "id": 25050,
+      "key": "com.nges.faas-paris",
+      "name": "Faas-paris",
+      "slug": "faas-paris",
+      "downloads": 0
+    },
+    {
+      "id": 25052,
+      "key": "com.htffund.plugin.replace-annotation",
+      "name": "AutoUpdateFrame2Paas3.0",
+      "slug": "autoupdateframe2paas3.0",
+      "downloads": 0
+    },
+    {
+      "id": 25053,
+      "key": "Kotlin Course10_Valentina Kiryushkina_kotlin",
+      "name": "Kotlin Course10",
+      "slug": "kotlin-course10",
+      "downloads": 0
+    },
+    {
+      "id": 25054,
+      "key": "CodeFlow",
+      "name": "CodeFlow",
+      "slug": "codeflow",
+      "downloads": 8
+    },
+    {
+      "id": 25055,
+      "key": "com.intellias.intellicopilot",
+      "name": "Intellias Copilot",
+      "slug": "intellias-copilot",
+      "downloads": 16
+    },
+    {
+      "id": 25056,
+      "key": "me.blep.WebpackIntellijModulePlugin",
+      "name": "Project Module as Webpack Module",
+      "slug": "project-module-as-webpack-module",
+      "downloads": 8
+    },
+    {
+      "id": 25057,
+      "key": "com.github.avayne2.uuidgenerator",
+      "name": "uuid-generator",
+      "slug": "uuid-generator",
+      "downloads": 23
+    },
+    {
+      "id": 25058,
+      "key": "org.me.Notes",
+      "name": "Code Notes",
+      "slug": "code-notes",
+      "downloads": 0
+    },
+    {
+      "id": 25059,
+      "key": "com.github.crtree.ailoganalysis",
+      "name": "Analysis Logs with AI",
+      "slug": "analysis-logs-with-ai",
+      "downloads": 5
+    },
+    {
+      "id": 25060,
+      "key": "C++ concept_Alexandru Guzu_ObjectiveC",
+      "name": "C++ concept",
+      "slug": "c++-concept",
+      "downloads": 1
+    },
+    {
+      "id": 25061,
+      "key": "org.ldemetrios.kvasir",
+      "name": "Kvasir",
+      "slug": "kvasir",
+      "downloads": 18
+    },
+    {
+      "id": 25062,
+      "key": "com.github.kosavpa.pcontroller",
+      "name": "p-controller",
+      "slug": "p-controller",
+      "downloads": 0
+    },
+    {
+      "id": 25063,
+      "key": "az.mtech.autoapigen",
+      "name": "Auto API Generator",
+      "slug": "auto-api-generator",
+      "downloads": 0
+    },
+    {
+      "id": 25066,
+      "key": "nova.tech.sql.cop.jetbrains-plugin",
+      "name": "SQL COP",
+      "slug": "sql-cop",
+      "downloads": 0
+    },
+    {
+      "id": 25067,
+      "key": "tech.ryansu.simpleadmin.SimpleAdmin-Extension",
+      "name": "Simple Admin",
+      "slug": "simple-admin",
+      "downloads": 0
+    },
+    {
+      "id": 25069,
+      "key": "com.github.bancolombia.devsecops-engine-tools",
+      "name": "DevSecOps Engine Tools",
+      "slug": "devsecops-engine-tools",
+      "downloads": 2
+    },
+    {
+      "id": 25070,
+      "key": "Java Course_Robin Bajaj_JAVA",
+      "name": "Java_Coding_problems_basic_1",
+      "slug": "java_coding_problems_basic_1",
+      "downloads": 0
+    },
+    {
+      "id": 25071,
+      "key": "java_basic_problems_part2_robin bajaj_JAVA",
+      "name": "java_basic_problems_part2",
+      "slug": "java_basic_problems_part2",
+      "downloads": 0
+    },
+    {
+      "id": 25072,
+      "key": "com.pharmcube.xjy.pl_SqlToDsl",
+      "name": "SqlToDsl",
+      "slug": "sqltodsl",
+      "downloads": 0
+    },
+    {
+      "id": 25073,
+      "key": "fleet.settingsImport",
+      "name": "SettingsImport",
+      "slug": "settingsimport",
+      "downloads": 0
+    },
+    {
+      "id": 25074,
+      "key": "com.github.yhzion.jetbrains.plugin.deltareview",
+      "name": "On-Device AI Code Review",
+      "slug": "on-device-ai-code-review",
+      "downloads": 0
+    },
+    {
+      "id": 25075,
+      "key": "com.kk.pluginLearn",
+      "name": "Nova",
+      "slug": "nova",
+      "downloads": 0
+    },
+    {
+      "id": 25076,
+      "key": "com.cppcxy.Intellij-EmmyLua",
+      "name": "EmmyLua2",
+      "slug": "emmylua2",
+      "downloads": 0
+    },
+    {
+      "id": 25077,
+      "key": "JavaScript Course_\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0427\u0435\u0431\u043e\u0442\u0430\u0440\u044c_JavaScript",
+      "name": "JavaScript Course Chebotar test",
+      "slug": "javascript-course-chebotar-test",
+      "downloads": 0
+    },
+    {
+      "id": 25078,
+      "key": "org.dropProject.intellij-student-plugin",
+      "name": "Drop Project",
+      "slug": "drop-project",
+      "downloads": 0
+    },
+    {
+      "id": 25079,
+      "key": "com.github.dekola.intellijplugin",
+      "name": "CurlToRetrofit",
+      "slug": "curltoretrofit",
+      "downloads": 0
+    },
+    {
+      "id": 25080,
+      "key": "sql-joining-graph",
+      "name": "SqlJoiningGraph",
+      "slug": "sqljoininggraph",
+      "downloads": 0
+    },
+    {
+      "id": 25081,
+      "key": "com.github.catppuccin.fleet",
+      "name": "Catppuccin Fleet Theme",
+      "slug": "catppuccin-fleet-theme",
+      "downloads": 0
     }
   ]
 }
