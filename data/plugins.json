@@ -77608,6 +77608,230 @@
       "name": "Catppuccin Fleet Theme",
       "slug": "catppuccin-fleet-theme",
       "downloads": 0
+    },
+    {
+      "id": 25082,
+      "key": "com.claudemind",
+      "name": "ClaudeMind",
+      "slug": "claudemind",
+      "downloads": 167
+    },
+    {
+      "id": 25083,
+      "key": "com.nando.plugin.parameter-object-plugin",
+      "name": "Kotlin Parameter Object",
+      "slug": "kotlin-parameter-object",
+      "downloads": 0
+    },
+    {
+      "id": 25084,
+      "key": "com.github.minxie1209.dubboinvoker",
+      "name": "dubbo-invoker",
+      "slug": "dubbo-invoker",
+      "downloads": 0
+    },
+    {
+      "id": 25085,
+      "key": "com.github.nymann.commitrefactoring",
+      "name": "commit-refactoring",
+      "slug": "commit-refactoring",
+      "downloads": 56
+    },
+    {
+      "id": 25086,
+      "key": "me.sciberras.christian.php-version-switcher",
+      "name": "PHP Version Switcher",
+      "slug": "php-version-switcher",
+      "downloads": 30
+    },
+    {
+      "id": 25087,
+      "key": "cx.eri.gutter-coverage-display",
+      "name": "Gutter Coverage Display",
+      "slug": "gutter-coverage-display",
+      "downloads": 24
+    },
+    {
+      "id": 25089,
+      "key": "com.nges.faas-paris",
+      "name": "Faas-paris",
+      "slug": "faas-paris",
+      "downloads": 0
+    },
+    {
+      "id": 25090,
+      "key": "com.echoapi.EchoAPI-Helper",
+      "name": "EchoAPI-Helper",
+      "slug": "echoapi-helper",
+      "downloads": 29
+    },
+    {
+      "id": 25092,
+      "key": "fa09224710174f4f897968bcbc2c7c98",
+      "name": "ChineseToPY",
+      "slug": "chinesetopy",
+      "downloads": 75
+    },
+    {
+      "id": 25094,
+      "key": "cn.com.moxi.plugins.api.search",
+      "name": "Api Search",
+      "slug": "api-search",
+      "downloads": 57
+    },
+    {
+      "id": 25096,
+      "key": "com.biyusheng.mybatis.pro",
+      "name": "MybatisPro",
+      "slug": "mybatispro",
+      "downloads": 0
+    },
+    {
+      "id": 25097,
+      "key": "Building a multicomponent Flask app_Igor Gerasimov_Python",
+      "name": "Building a multicomponent Flask app",
+      "slug": "building-a-multicomponent-flask-app",
+      "downloads": 10
+    },
+    {
+      "id": 25098,
+      "key": "com.wild.Maven-Dependency-download",
+      "name": "Maven Dependency download",
+      "slug": "maven-dependency-download",
+      "downloads": 0
+    },
+    {
+      "id": 25099,
+      "key": "com.cpiassistant.CPIAssistant",
+      "name": "CPI Assistant",
+      "slug": "cpi-assistant",
+      "downloads": 2
+    },
+    {
+      "id": 25100,
+      "key": "com.jjzq.qtool",
+      "name": "qtool",
+      "slug": "qtool",
+      "downloads": 0
+    },
+    {
+      "id": 25101,
+      "key": "org.yelog.ideavim.flash",
+      "name": "vim-flash",
+      "slug": "vim-flash",
+      "downloads": 0
+    },
+    {
+      "id": 25102,
+      "key": "github_color_theme",
+      "name": "Github Color Theme",
+      "slug": "github-color-theme",
+      "downloads": 4
+    },
+    {
+      "id": 25103,
+      "key": "org.juancatalan.edgepaircoverageplugin",
+      "name": "Edge-Pair Coverage",
+      "slug": "edge-pair-coverage",
+      "downloads": 0
+    },
+    {
+      "id": 25104,
+      "key": "lean4ij",
+      "name": "Lean4ij",
+      "slug": "lean4ij",
+      "downloads": 0
+    },
+    {
+      "id": 25106,
+      "key": "nl.rabobank.investments.cactus.commons.BbanIbanConverter",
+      "name": "Bban to Iban converter",
+      "slug": "bban-to-iban-converter",
+      "downloads": 0
+    },
+    {
+      "id": 25109,
+      "key": "il.co.sysbind.moodledev",
+      "name": "Moodle Development",
+      "slug": "moodle-development",
+      "downloads": 0
+    },
+    {
+      "id": 25110,
+      "key": "io.github.anvell.dune.theme",
+      "name": "Dune Theme",
+      "slug": "dune-theme",
+      "downloads": 0
+    },
+    {
+      "id": 25111,
+      "key": "com.cheng.ChgPlugin",
+      "name": "ChgTool",
+      "slug": "chgtool",
+      "downloads": 0
+    },
+    {
+      "id": 25112,
+      "key": "com.yndongyong.androiddevhelper",
+      "name": "FindActivityFragment",
+      "slug": "findactivityfragment",
+      "downloads": 0
+    },
+    {
+      "id": 25114,
+      "key": "org.anupam.plugins.savepoint",
+      "name": "Save Point",
+      "slug": "save-point",
+      "downloads": 2
+    },
+    {
+      "id": 25115,
+      "key": "com.github.ctrl-ai",
+      "name": "Ctrl AI",
+      "slug": "ctrl-ai",
+      "downloads": 14
+    },
+    {
+      "id": 25116,
+      "key": "zoo",
+      "name": "Fleetilla",
+      "slug": "fleetilla",
+      "downloads": 0
+    },
+    {
+      "id": 25117,
+      "key": "com.github.codepalai.codepalintellij",
+      "name": "CodePal",
+      "slug": "codepal",
+      "downloads": 0
+    },
+    {
+      "id": 25119,
+      "key": "com.ai.fynix",
+      "name": "Fynix",
+      "slug": "fynix",
+      "downloads": 0
+    },
+    {
+      "id": 25121,
+      "key": "com.github.denbedstegamer.pets",
+      "name": "Pets",
+      "slug": "pets",
+      "downloads": 0
+    },
+    {
+      "id": 25123,
+      "key": "com.github.badfalcon.backlog",
+      "name": "Backlog",
+      "slug": "backlog",
+      "downloads": 0
+    },
+    {
+      "id": 25124,
+      "key": "uk.co.envyware.idea.helios",
+      "name": "Helios",
+      "slug": "helios",
+      "downloads": 0
     }
   ]
 }
