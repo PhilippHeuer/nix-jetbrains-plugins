@@ -77832,6 +77832,328 @@
       "name": "Helios",
       "slug": "helios",
       "downloads": 0
+    },
+    {
+      "id": 25125,
+      "key": "com.seonhyuk.my_templates",
+      "name": "My Templates",
+      "slug": "my-templates",
+      "downloads": 11
+    },
+    {
+      "id": 25126,
+      "key": "com.hzhiping.text-beautifier",
+      "name": "Text-Beautifier",
+      "slug": "text-beautifier",
+      "downloads": 0
+    },
+    {
+      "id": 25127,
+      "key": "keploy",
+      "name": "Keploy",
+      "slug": "keploy",
+      "downloads": 0
+    },
+    {
+      "id": 25129,
+      "key": "com.huacai.automation-helper",
+      "name": "Automation-Helper",
+      "slug": "automation-helper",
+      "downloads": 24
+    },
+    {
+      "id": 25130,
+      "key": "sspeiser.gMockGen",
+      "name": "gMock Generator",
+      "slug": "gmock-generator",
+      "downloads": 2
+    },
+    {
+      "id": 25131,
+      "key": "com.github.gamefixxer.php-constant-manager",
+      "name": "Php-Constant-Manager",
+      "slug": "php-constant-manager",
+      "downloads": 0
+    },
+    {
+      "id": 25132,
+      "key": "com.tory.ide_dart",
+      "name": "Dart Ide\u5de5\u5177",
+      "slug": "dart-ide\u5de5\u5177",
+      "downloads": 0
+    },
+    {
+      "id": 25136,
+      "key": "fa09224710174f4f897968bcbc2c7c98",
+      "name": "ChineseToPY",
+      "slug": "chinesetopy",
+      "downloads": 39
+    },
+    {
+      "id": 25137,
+      "key": "com.github.badfalcon.backlog",
+      "name": "Backlog",
+      "slug": "backlog",
+      "downloads": 1
+    },
+    {
+      "id": 25139,
+      "key": "com.mbpolis.swaggerparametercheck",
+      "name": "jlynet-SwaggerParameterCheck",
+      "slug": "jlynet-swaggerparametercheck",
+      "downloads": 5
+    },
+    {
+      "id": 25140,
+      "key": "com.meryl.dtk",
+      "name": "Dtk",
+      "slug": "dtk",
+      "downloads": 1
+    },
+    {
+      "id": 25141,
+      "key": "com.platform.auto",
+      "name": "auto generate curd code",
+      "slug": "auto-generate-curd-code",
+      "downloads": 19
+    },
+    {
+      "id": 25142,
+      "key": "com.jetbrains.intellij.plugin.teamcity",
+      "name": "TeamCity (Experimental)",
+      "slug": "teamcity-(experimental)",
+      "downloads": 0
+    },
+    {
+      "id": 25143,
+      "key": "org.mvnsearch.jetbrains.plugins.argc-assistant",
+      "name": "Argc Shell Assistant",
+      "slug": "argc-shell-assistant",
+      "downloads": 15
+    },
+    {
+      "id": 25144,
+      "key": "leigod.jenkins.control",
+      "name": "Leigod Jenkins Control",
+      "slug": "leigod-jenkins-control",
+      "downloads": 0
+    },
+    {
+      "id": 25147,
+      "key": "br.com.inoovexa.allyzio",
+      "name": "Allyzio Copilot",
+      "slug": "allyzio-copilot",
+      "downloads": 0
+    },
+    {
+      "id": 25148,
+      "key": "com.madbrains.mad_auth",
+      "name": "Mad Auth",
+      "slug": "mad-auth",
+      "downloads": 0
+    },
+    {
+      "id": 25149,
+      "key": "article-feedback",
+      "name": "Article Feedback",
+      "slug": "article-feedback",
+      "downloads": 2
+    },
+    {
+      "id": 25151,
+      "key": "com.yanftch.json2ets",
+      "name": "Json2ets",
+      "slug": "json2ets",
+      "downloads": 15
+    },
+    {
+      "id": 25153,
+      "key": "pomodoro",
+      "name": "Pomodoro Timer",
+      "slug": "pomodoro-timer",
+      "downloads": 3
+    },
+    {
+      "id": 25154,
+      "key": "ru.faresabubaker.plugin.requirements",
+      "name": "Requirements",
+      "slug": "requirements",
+      "downloads": 1
+    },
+    {
+      "id": 25155,
+      "key": "com.alaje.learn.hb_flutter_image_gutter_viewer",
+      "name": "Flutter Images Gutter Viewer",
+      "slug": "flutter-images-gutter-viewer",
+      "downloads": 0
+    },
+    {
+      "id": 25156,
+      "key": "com.seczone.idea.seczone-sca-security",
+      "name": "seczone-sca-security",
+      "slug": "seczone-sca-security",
+      "downloads": 0
+    },
+    {
+      "id": 25157,
+      "key": "cn.birdbaby.plugins",
+      "name": "Code Generation Annotation Processing Tool",
+      "slug": "code-generation-annotation-processing-tool",
+      "downloads": 0
+    },
+    {
+      "id": 25158,
+      "key": "gitlab.lordcrekit.victoria3modsupport",
+      "name": "SDK: V3 Language Sample",
+      "slug": "sdk:-v3-language-sample",
+      "downloads": 0
+    },
+    {
+      "id": 25159,
+      "key": "monokai.basic.theme",
+      "name": "Monokai Basic",
+      "slug": "monokai-basic",
+      "downloads": 1
+    },
+    {
+      "id": 25160,
+      "key": "votes-histogram",
+      "name": "Votes Histogram",
+      "slug": "votes-histogram",
+      "downloads": 0
+    },
+    {
+      "id": 25161,
+      "key": "com.razomy._etbrains._ntellij.ide.plugin.project_view.reverse_ordering",
+      "name": "Project View Reverse Ordering",
+      "slug": "project-view-reverse-ordering",
+      "downloads": 0
+    },
+    {
+      "id": 25164,
+      "key": "com.github.codepalai.codepalintellij",
+      "name": "CodePal",
+      "slug": "codepal",
+      "downloads": 1
+    },
+    {
+      "id": 25165,
+      "key": "Java1Ch1P1_Jed Grossman_JAVA",
+      "name": "Java1Ch1P1",
+      "slug": "java1ch1p1",
+      "downloads": 1
+    },
+    {
+      "id": 25166,
+      "key": "com.xiangyun",
+      "name": "XyGit",
+      "slug": "xygit",
+      "downloads": 0
+    },
+    {
+      "id": 25171,
+      "key": "com.bruce.hotswapHelper",
+      "name": "HotSwapHelper",
+      "slug": "hotswaphelper",
+      "downloads": 10
+    },
+    {
+      "id": 25172,
+      "key": "Wow! Private Test JS Course 26082024_Maria Ogneva_JavaScript",
+      "name": "Wow! Private Test JS Course 26082024",
+      "slug": "wow!-private-test-js-course-26082024",
+      "downloads": 3
+    },
+    {
+      "id": 25173,
+      "key": "ai.swiq",
+      "name": "SWIQ.AI",
+      "slug": "swiq.ai",
+      "downloads": 0
+    },
+    {
+      "id": 25174,
+      "key": "Hud",
+      "name": "Hud",
+      "slug": "hud",
+      "downloads": 0
+    },
+    {
+      "id": 25175,
+      "key": "slack-user-status",
+      "name": "Slack User Status",
+      "slug": "slack-user-status",
+      "downloads": 0
+    },
+    {
+      "id": 25176,
+      "key": "fi.aalto.cs.replace",
+      "name": "REPLace",
+      "slug": "replace",
+      "downloads": 0
+    },
+    {
+      "id": 25178,
+      "key": "translate",
+      "name": "TranslateHelper",
+      "slug": "translatehelper",
+      "downloads": 0
+    },
+    {
+      "id": 25179,
+      "key": "AndroidAOPPlugin",
+      "name": "AndroidAOP Code Viewer",
+      "slug": "androidaop-code-viewer",
+      "downloads": 0
+    },
+    {
+      "id": 25180,
+      "key": "cn.xxstudy.QuickFlutter",
+      "name": "QuickFlutter",
+      "slug": "quickflutter",
+      "downloads": 0
+    },
+    {
+      "id": 25181,
+      "key": "com.ideaPlugindemo.gyl.id",
+      "name": "\u5b66\u4e60\u6f14\u793a\u63d2\u4ef6",
+      "slug": "\u5b66\u4e60\u6f14\u793a\u63d2\u4ef6",
+      "downloads": 0
+    },
+    {
+      "id": 25182,
+      "key": "Private Test C++ (Catch 2.0) Course 23082024_Maria Ogneva_ObjectiveC",
+      "name": "Private Test C++ (Catch 2.0) Course 23082024",
+      "slug": "private-test-c++-(catch-2.0)-course-23082024",
+      "downloads": 0
+    },
+    {
+      "id": 25183,
+      "key": "Kotlin Course For Validation_Arseniy Pendryak_kotlin",
+      "name": "Kotlin Course For Validation",
+      "slug": "kotlin-course-for-validation",
+      "downloads": 0
+    },
+    {
+      "id": 25184,
+      "key": "com.luban.plugin",
+      "name": "AiCodeStatisticsAction",
+      "slug": "aicodestatisticsaction",
+      "downloads": 0
+    },
+    {
+      "id": 25185,
+      "key": "JavaScript Course 23082024_Maria Ogneva_JavaScript",
+      "name": "JavaScript Course 23082024",
+      "slug": "javascript-course-23082024",
+      "downloads": 0
+    },
+    {
+      "id": 25186,
+      "key": "com.dynatrace.intellij-plugin",
+      "name": "Code monitoring",
+      "slug": "code-monitoring",
+      "downloads": 0
     }
   ]
 }
