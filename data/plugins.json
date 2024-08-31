@@ -78154,6 +78154,216 @@
       "name": "Code monitoring",
       "slug": "code-monitoring",
       "downloads": 0
+    },
+    {
+      "id": 25191,
+      "key": "com.github.maxfallishe.glossarygurupycharmplugin",
+      "name": "GlossaryGuru",
+      "slug": "glossaryguru",
+      "downloads": 10
+    },
+    {
+      "id": 25192,
+      "key": "com.moonkite.moon-pets",
+      "name": "Dark Factory",
+      "slug": "dark-factory",
+      "downloads": 25
+    },
+    {
+      "id": 25193,
+      "key": "com.github.bukunmiola.vdetekt",
+      "name": "VDetekt",
+      "slug": "vdetekt",
+      "downloads": 1
+    },
+    {
+      "id": 25195,
+      "key": "com.alaje.intellijplugins.flutter_images_gutter_icon",
+      "name": "Flutter Images Gutter Icon",
+      "slug": "flutter-images-gutter-icon",
+      "downloads": 0
+    },
+    {
+      "id": 25196,
+      "key": "EasyCoder",
+      "name": "EasyCoder",
+      "slug": "easycoder",
+      "downloads": 13
+    },
+    {
+      "id": 25197,
+      "key": "com.jiduauto.millow-helper",
+      "name": "jidu-millow-helper",
+      "slug": "jidu-millow-helper",
+      "downloads": 0
+    },
+    {
+      "id": 25198,
+      "key": "com.acutecoder.kmp.projectview.KmpProjectView",
+      "name": "KMP Project View",
+      "slug": "kmp-project-view",
+      "downloads": 19
+    },
+    {
+      "id": 25199,
+      "key": "com.yanftch.hdc_tools",
+      "name": "hdc tools",
+      "slug": "hdc-tools",
+      "downloads": 26
+    },
+    {
+      "id": 25200,
+      "key": "BBCodeHelper",
+      "name": "BB Code Helper",
+      "slug": "bb-code-helper",
+      "downloads": 5
+    },
+    {
+      "id": 25201,
+      "key": "snakeskin-lang",
+      "name": "Snakeskin",
+      "slug": "snakeskin",
+      "downloads": 9
+    },
+    {
+      "id": 25202,
+      "key": "Go Course_Maria Ogneva_go",
+      "name": "Private Test Go Course 26082024",
+      "slug": "private-test-go-course-26082024",
+      "downloads": 3
+    },
+    {
+      "id": 25204,
+      "key": "org.charon",
+      "name": "CharonIDE",
+      "slug": "charonide",
+      "downloads": 27
+    },
+    {
+      "id": 25205,
+      "key": "com.merge.check.designer",
+      "name": "merge-check",
+      "slug": "merge-check",
+      "downloads": 6
+    },
+    {
+      "id": 25206,
+      "key": "io.xxl.TestStudio",
+      "name": "TestStudio",
+      "slug": "teststudio",
+      "downloads": 0
+    },
+    {
+      "id": 25207,
+      "key": "com.dengzii.json2entity",
+      "name": "Json2entity",
+      "slug": "json2entity",
+      "downloads": 0
+    },
+    {
+      "id": 25208,
+      "key": "com.github.enciyo.ghcheideaplugin",
+      "name": "Github Copilot Chat Exporter",
+      "slug": "github-copilot-chat-exporter",
+      "downloads": 0
+    },
+    {
+      "id": 25209,
+      "key": "com.sap.cap.cds",
+      "name": "SAP CDS Language Support",
+      "slug": "sap-cds-language-support",
+      "downloads": 14
+    },
+    {
+      "id": 25210,
+      "key": "org.tabooproject.development",
+      "name": "TabooLib Development",
+      "slug": "taboolib-development",
+      "downloads": 0
+    },
+    {
+      "id": 25211,
+      "key": "com.TaiwanStock",
+      "name": "TaiwanStock",
+      "slug": "taiwanstock",
+      "downloads": 13
+    },
+    {
+      "id": 25212,
+      "key": "100 Days of Code - The Complete Python Pro Bootcamp_Dr. Angela Yu_Python",
+      "name": "100 Days of Code - The Complete Python Pro Bootcamp",
+      "slug": "100-days-of-code---the-complete-python-pro-bootcamp",
+      "downloads": 596
+    },
+    {
+      "id": 25213,
+      "key": "com.txl.hosts",
+      "name": "hosts",
+      "slug": "hosts",
+      "downloads": 0
+    },
+    {
+      "id": 25214,
+      "key": "org.fluidattacks.plugins.template",
+      "name": "Fluid Attacks",
+      "slug": "fluid-attacks",
+      "downloads": 14
+    },
+    {
+      "id": 25216,
+      "key": "com.jmpeax.ssltoolbox",
+      "name": "SSL-Toolbox",
+      "slug": "ssl-toolbox",
+      "downloads": 0
+    },
+    {
+      "id": 25217,
+      "key": "nova.tech.sql-cop",
+      "name": "SQL COP2",
+      "slug": "sql-cop2",
+      "downloads": 0
+    },
+    {
+      "id": 25218,
+      "key": "org.purple.ShadesOfPurple",
+      "name": "ShadesOfPurple",
+      "slug": "shadesofpurple",
+      "downloads": 0
+    },
+    {
+      "id": 25219,
+      "key": "io.github.eskibear.jetbrains-code-runner",
+      "name": "Code Runner",
+      "slug": "code-runner",
+      "downloads": 0
+    },
+    {
+      "id": 25220,
+      "key": "com.funenc.Openapi-JS",
+      "name": "Openapi-JS",
+      "slug": "openapi-js",
+      "downloads": 0
+    },
+    {
+      "id": 25221,
+      "key": "com.github.cnrture.quickprojectwizard",
+      "name": "QuickProjectWizard",
+      "slug": "quickprojectwizard",
+      "downloads": 0
+    },
+    {
+      "id": 25223,
+      "key": "com.lofcz.intellij-visual-studio-code-dark-plus",
+      "name": "Visual Studio Code Dark Plus Theme [PRE 2024 FORK]",
+      "slug": "visual-studio-code-dark-plus-theme-[pre-2024-fork]",
+      "downloads": 0
+    },
+    {
+      "id": 25224,
+      "key": "com.github.firebender.androidstudiocopilot",
+      "name": "Firebender",
+      "slug": "firebender",
+      "downloads": 0
     }
   ]
 }
