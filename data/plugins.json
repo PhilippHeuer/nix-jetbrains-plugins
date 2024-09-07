@@ -78364,6 +78364,272 @@
       "name": "Firebender",
       "slug": "firebender",
       "downloads": 0
+    },
+    {
+      "id": 25225,
+      "key": "com.wangyuanye.plugin",
+      "name": "Command Assist",
+      "slug": "command-assist",
+      "downloads": 1
+    },
+    {
+      "id": 25228,
+      "key": "com.github.liupack.flutterriverpod",
+      "name": "Flutter Riverpod Template",
+      "slug": "flutter-riverpod-template",
+      "downloads": 18
+    },
+    {
+      "id": 25229,
+      "key": "com.github.adityasz.theme",
+      "name": "Nice Dark Theme",
+      "slug": "nice-dark-theme",
+      "downloads": 53
+    },
+    {
+      "id": 25230,
+      "key": "insyncwithfoo.ryecharm",
+      "name": "RyeCharm",
+      "slug": "ryecharm",
+      "downloads": 19
+    },
+    {
+      "id": 25232,
+      "key": "shadesmear.theme.dark",
+      "name": "ShadeSmear Dark Theme",
+      "slug": "shadesmear-dark-theme",
+      "downloads": 11
+    },
+    {
+      "id": 25233,
+      "key": "react.css.module.all",
+      "name": "React Css Modules All",
+      "slug": "react-css-modules-all",
+      "downloads": 10
+    },
+    {
+      "id": 25234,
+      "key": "com.anshulkanwar.melange",
+      "name": "Melange",
+      "slug": "melange",
+      "downloads": 0
+    },
+    {
+      "id": 25235,
+      "key": "com.github.seablue1.treeviewobject",
+      "name": "TreeViewObject",
+      "slug": "treeviewobject",
+      "downloads": 41
+    },
+    {
+      "id": 25236,
+      "key": "com.github.lld4n.rocketiconsjetbrains",
+      "name": "Rocket Icons",
+      "slug": "rocket-icons",
+      "downloads": 0
+    },
+    {
+      "id": 25238,
+      "key": "com.wild.Maven-Dependency-download",
+      "name": "Maven Dependency download",
+      "slug": "maven-dependency-download",
+      "downloads": 5
+    },
+    {
+      "id": 25239,
+      "key": "com.dobest1.boyka",
+      "name": "Boyka AI Assistant",
+      "slug": "boyka-ai-assistant",
+      "downloads": 0
+    },
+    {
+      "id": 25240,
+      "key": "com.sherloqrnd.sherloq_data_plugin_playtika",
+      "name": "Sherloq - Save, Share & Simplify Your Queries",
+      "slug": "sherloq---save,-share-&-simplify-your-queries",
+      "downloads": 6
+    },
+    {
+      "id": 25241,
+      "key": "com.github.JoeKerouac.beancopy",
+      "name": "BeanCopy",
+      "slug": "beancopy",
+      "downloads": 9
+    },
+    {
+      "id": 25242,
+      "key": "io.github.linwancen.plugin.fix",
+      "name": "Fix Bug",
+      "slug": "fix-bug",
+      "downloads": 0
+    },
+    {
+      "id": 25243,
+      "key": "http4k.project.wizard",
+      "name": "http4k Project Wizard",
+      "slug": "http4k-project-wizard",
+      "downloads": 51
+    },
+    {
+      "id": 25244,
+      "key": "org.kvisha.ReportGenerator",
+      "name": "ReportGenerator",
+      "slug": "reportgenerator",
+      "downloads": 2
+    },
+    {
+      "id": 25245,
+      "key": "pl.becmer.dev.mdbook",
+      "name": "MarkdownBook",
+      "slug": "markdownbook",
+      "downloads": 24
+    },
+    {
+      "id": 25247,
+      "key": "com.roeniss.plugin.requestMappingSafeDelete",
+      "name": "Request Mapping Safe Delete",
+      "slug": "request-mapping-safe-delete",
+      "downloads": 27
+    },
+    {
+      "id": 25248,
+      "key": "com.cdn.plugin.log",
+      "name": "Mybatis Log Viewer",
+      "slug": "mybatis-log-viewer",
+      "downloads": 0
+    },
+    {
+      "id": 25249,
+      "key": "de.andrena.coding-aider",
+      "name": "Coding Aider",
+      "slug": "coding-aider",
+      "downloads": 20
+    },
+    {
+      "id": 25250,
+      "key": "github.threefish.idea.opens.plugins.id",
+      "name": "Manage Projects",
+      "slug": "manage-projects",
+      "downloads": 11
+    },
+    {
+      "id": 25251,
+      "key": "cn.skyjilygao.plugin.sky-plugin",
+      "name": "Sky-Hello",
+      "slug": "sky-hello",
+      "downloads": 0
+    },
+    {
+      "id": 25253,
+      "key": "org.wl.sdk.action",
+      "name": "ModuleChange",
+      "slug": "modulechange",
+      "downloads": 0
+    },
+    {
+      "id": 25254,
+      "key": "com.github.themartdev.intellijgleam",
+      "name": "Gleam Language",
+      "slug": "gleam-language",
+      "downloads": 0
+    },
+    {
+      "id": 25257,
+      "key": "com.pandali.iedit-intellij",
+      "name": "IEdit - Smart Search and Replace",
+      "slug": "iedit---smart-search-and-replace",
+      "downloads": 0
+    },
+    {
+      "id": 25258,
+      "key": "com.github.yuyuanweb.mianshiyaplugin",
+      "name": "Mianshiya",
+      "slug": "mianshiya",
+      "downloads": 0
+    },
+    {
+      "id": 25259,
+      "key": "com.delicacy.MybatisDaoGenerator",
+      "name": "MyBatis Dao Generator",
+      "slug": "mybatis-dao-generator",
+      "downloads": 0
+    },
+    {
+      "id": 25260,
+      "key": "com.solmano.datagen",
+      "name": "Datagen",
+      "slug": "datagen",
+      "downloads": 0
+    },
+    {
+      "id": 25261,
+      "key": "com.intellij.java",
+      "name": "Java",
+      "slug": "java",
+      "downloads": 0
+    },
+    {
+      "id": 25262,
+      "key": "com.supalle.constant-x",
+      "name": "Constant-X",
+      "slug": "constant-x",
+      "downloads": 0
+    },
+    {
+      "id": 25263,
+      "key": "com.teamscale.ide.ijp",
+      "name": "Teamscale Integration",
+      "slug": "teamscale-integration",
+      "downloads": 0
+    },
+    {
+      "id": 25264,
+      "key": "com.tencent.Java2ArkTs",
+      "name": "Java2ArkTs",
+      "slug": "java2arkts",
+      "downloads": 0
+    },
+    {
+      "id": 25265,
+      "key": "com.checkmarx.cxviewer",
+      "name": "CxViewer",
+      "slug": "cxviewer",
+      "downloads": 0
+    },
+    {
+      "id": 25266,
+      "key": "com.github.sey2.intlautosort",
+      "name": "intl-auto-sort",
+      "slug": "intl-auto-sort",
+      "downloads": 0
+    },
+    {
+      "id": 25267,
+      "key": "com.github.olivercastillo.mytheme",
+      "name": "Mixed Theme (Beta)",
+      "slug": "mixed-theme-(beta)",
+      "downloads": 0
+    },
+    {
+      "id": 25268,
+      "key": "fleet.misc",
+      "name": "Misc",
+      "slug": "misc",
+      "downloads": 0
+    },
+    {
+      "id": 25269,
+      "key": "fleet.collaboration",
+      "name": "Collaboration",
+      "slug": "collaboration",
+      "downloads": 0
+    },
+    {
+      "id": 25270,
+      "key": "com.macoto.structureTree",
+      "name": "Project Structure Tree",
+      "slug": "project-structure-tree",
+      "downloads": 0
     }
   ]
 }
