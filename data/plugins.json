@@ -78630,6 +78630,300 @@
       "name": "Project Structure Tree",
       "slug": "project-structure-tree",
       "downloads": 0
+    },
+    {
+      "id": 25272,
+      "key": "dev.spearkkk.deep-oceanic-next-theme",
+      "name": "Deep Oceanic Next Theme",
+      "slug": "deep-oceanic-next-theme",
+      "downloads": 61
+    },
+    {
+      "id": 25273,
+      "key": "com.seas.plugin.SeasHelper",
+      "name": "SeasHelper",
+      "slug": "seashelper",
+      "downloads": 2
+    },
+    {
+      "id": 25275,
+      "key": "be.bruyere.romain.geometry-viewer",
+      "name": "Geometry Viewer",
+      "slug": "geometry-viewer",
+      "downloads": 25
+    },
+    {
+      "id": 25276,
+      "key": "codes.vg.better-kotlin-java-completion",
+      "name": "Better Kotlin-Java Completion",
+      "slug": "better-kotlin-java-completion",
+      "downloads": 12
+    },
+    {
+      "id": 25277,
+      "key": "io.github.sukaiyi.spring-run-idea-plugin",
+      "name": "Spring Run",
+      "slug": "spring-run",
+      "downloads": 1
+    },
+    {
+      "id": 25278,
+      "key": "com.mapledoum.ccopier",
+      "name": "CCopier: Multi-File Code Copy for AI Tasks",
+      "slug": "ccopier:-multi-file-code-copy-for-ai-tasks",
+      "downloads": 17
+    },
+    {
+      "id": 25279,
+      "key": "sh.illumi.labs.jetbrains-crackboard",
+      "name": "TPOT CrackBoard Integration",
+      "slug": "tpot-crackboard-integration",
+      "downloads": 0
+    },
+    {
+      "id": 25280,
+      "key": "com.xiaolvpuzi.tool.smartinputpro",
+      "name": "Smart Input Pro (Chinese)",
+      "slug": "smart-input-pro-(chinese)",
+      "downloads": 754
+    },
+    {
+      "id": 25282,
+      "key": "com.nextcodegen.chatgptintellij",
+      "name": "ChatGPT - Fully Customizable",
+      "slug": "chatgpt---fully-customizable",
+      "downloads": 0
+    },
+    {
+      "id": 25283,
+      "key": "com.kirikodevv.ContextGrab",
+      "name": "Context Grab",
+      "slug": "context-grab",
+      "downloads": 5
+    },
+    {
+      "id": 25284,
+      "key": "gitlab.lordcrekit.victoria3modsupport",
+      "name": "Victoria 3 Modding Support",
+      "slug": "victoria-3-modding-support",
+      "downloads": 1
+    },
+    {
+      "id": 25285,
+      "key": "com.wd.msu",
+      "name": "mvn-settings",
+      "slug": "mvn-settings",
+      "downloads": 56
+    },
+    {
+      "id": 25286,
+      "key": "darcula-even-darker",
+      "name": "Darcula-Even-Darker",
+      "slug": "darcula-even-darker",
+      "downloads": 1
+    },
+    {
+      "id": 25287,
+      "key": "com.intellij.javaee.jakarta.data",
+      "name": "Jakarta EE: Data",
+      "slug": "jakarta-ee:-data",
+      "downloads": 58
+    },
+    {
+      "id": 25289,
+      "key": "com.aifbd.arms",
+      "name": "Arms",
+      "slug": "arms",
+      "downloads": 8
+    },
+    {
+      "id": 25290,
+      "key": "fleet.keymaps.Eclipse",
+      "name": "Eclipse Keymap",
+      "slug": "eclipse-keymap",
+      "downloads": 0
+    },
+    {
+      "id": 25291,
+      "key": "fleet.keymaps.IJClassic",
+      "name": "IntelliJ Classic Keymap",
+      "slug": "intellij-classic-keymap",
+      "downloads": 0
+    },
+    {
+      "id": 25292,
+      "key": "fleet.eslint",
+      "name": "ESLint",
+      "slug": "eslint",
+      "downloads": 0
+    },
+    {
+      "id": 25293,
+      "key": "com.github.olivercastillo.jetbrainsdarkfalltheme",
+      "name": "Dark Fall",
+      "slug": "dark-fall",
+      "downloads": 39
+    },
+    {
+      "id": 25294,
+      "key": "org.ladybird.dsl",
+      "name": "Ladybird-DSL",
+      "slug": "ladybird-dsl",
+      "downloads": 5
+    },
+    {
+      "id": 25295,
+      "key": "be.sigmadelta.ballastcompanion",
+      "name": "Ballast Template Files Generator",
+      "slug": "ballast-template-files-generator",
+      "downloads": 7
+    },
+    {
+      "id": 25296,
+      "key": "com.block.goose-intellij",
+      "name": "Goose",
+      "slug": "goose",
+      "downloads": 25
+    },
+    {
+      "id": 25297,
+      "key": "com.pang.decrypt",
+      "name": "Decrypt for Android",
+      "slug": "decrypt-for-android",
+      "downloads": 0
+    },
+    {
+      "id": 25298,
+      "key": "workflow-health",
+      "name": "Workflow Health Monitor",
+      "slug": "workflow-health-monitor",
+      "downloads": 0
+    },
+    {
+      "id": 25299,
+      "key": "cat-widget",
+      "name": "Pets Dashboard Widget",
+      "slug": "pets-dashboard-widget",
+      "downloads": 0
+    },
+    {
+      "id": 25300,
+      "key": "lermitage.openasproject",
+      "name": "Open as Project",
+      "slug": "open-as-project",
+      "downloads": 9
+    },
+    {
+      "id": 25301,
+      "key": "com.intellij.qt",
+      "name": "Qt",
+      "slug": "qt",
+      "downloads": 5
+    },
+    {
+      "id": 25302,
+      "key": "com.intellij.spring.debugger",
+      "name": "Spring Debugger",
+      "slug": "spring-debugger",
+      "downloads": 3
+    },
+    {
+      "id": 25303,
+      "key": "com.intellij.lang.qml",
+      "name": "QML",
+      "slug": "qml",
+      "downloads": 5
+    },
+    {
+      "id": 25304,
+      "key": "com.intellij.uiDesigner",
+      "name": "Swing UI Designer",
+      "slug": "swing-ui-designer",
+      "downloads": 10
+    },
+    {
+      "id": 25308,
+      "key": "lollipop",
+      "name": "Lollipop",
+      "slug": "lollipop",
+      "downloads": 0
+    },
+    {
+      "id": 25309,
+      "key": "lermitage.noai",
+      "name": "No AI",
+      "slug": "no-ai",
+      "downloads": 0
+    },
+    {
+      "id": 25310,
+      "key": "com.wjy35.wij",
+      "name": "Wij",
+      "slug": "wij",
+      "downloads": 0
+    },
+    {
+      "id": 25311,
+      "key": "fleet.keymaps.Emacs",
+      "name": "Emacs Keymap",
+      "slug": "emacs-keymap",
+      "downloads": 0
+    },
+    {
+      "id": 25312,
+      "key": "io.codeling.plugins.jetbrains",
+      "name": "CodeLing",
+      "slug": "codeling",
+      "downloads": 0
+    },
+    {
+      "id": 25313,
+      "key": "com.haohtml.translate",
+      "name": "AI Translate",
+      "slug": "ai-translate",
+      "downloads": 0
+    },
+    {
+      "id": 25314,
+      "key": "org.jetbrains.debugger.visual",
+      "name": "Visual Debugger",
+      "slug": "visual-debugger",
+      "downloads": 0
+    },
+    {
+      "id": 25315,
+      "key": "com.lucas.lambda.env-generator",
+      "name": "Env-generator",
+      "slug": "env-generator",
+      "downloads": 0
+    },
+    {
+      "id": 25316,
+      "key": "com.antiumbo.transfer-time",
+      "name": "Simple-Tool",
+      "slug": "simple-tool",
+      "downloads": 0
+    },
+    {
+      "id": 25317,
+      "key": "com.zeekbtye.tokyonight",
+      "name": "Tokyo Night Theme",
+      "slug": "tokyo-night-theme",
+      "downloads": 0
+    },
+    {
+      "id": 25319,
+      "key": "com.talebly.contents-to-clipboard",
+      "name": "Contents to Clipboard",
+      "slug": "contents-to-clipboard",
+      "downloads": 0
+    },
+    {
+      "id": 25320,
+      "key": "solutions.sulfura.projections-dsl-intellij-plugin",
+      "name": "Projections Dsl",
+      "slug": "projections-dsl",
+      "downloads": 0
     }
   ]
 }
