@@ -78924,6 +78924,391 @@
       "name": "Projections Dsl",
       "slug": "projections-dsl",
       "downloads": 0
+    },
+    {
+      "id": 25321,
+      "key": "com.xiangzheng.demo",
+      "name": "JinjiaTableToEntity",
+      "slug": "jinjiatabletoentity",
+      "downloads": 0
+    },
+    {
+      "id": 25322,
+      "key": "com.error_search",
+      "name": "Error Search",
+      "slug": "error-search",
+      "downloads": 11
+    },
+    {
+      "id": 25323,
+      "key": "com.lmt.mtcoder",
+      "name": "mtcoder",
+      "slug": "mtcoder",
+      "downloads": 0
+    },
+    {
+      "id": 25324,
+      "key": "com.oahceh.feval",
+      "name": "feval",
+      "slug": "feval",
+      "downloads": 2
+    },
+    {
+      "id": 25325,
+      "key": "org.kratosgado.tabout",
+      "name": "Tabout",
+      "slug": "tabout",
+      "downloads": 6
+    },
+    {
+      "id": 25326,
+      "key": "com.itrunfenix.PR-SnapView",
+      "name": "PR-SnapView",
+      "slug": "pr-snapview",
+      "downloads": 8
+    },
+    {
+      "id": 25327,
+      "key": "com.github.imvs.cloud-config-helper",
+      "name": "Spring Profiles Merger",
+      "slug": "spring-profiles-merger",
+      "downloads": 9
+    },
+    {
+      "id": 25328,
+      "key": "com.mdrsolutions.thymeleaf.thymeleaf-support",
+      "name": "Thymeleaf Support",
+      "slug": "thymeleaf-support",
+      "downloads": 91
+    },
+    {
+      "id": 25329,
+      "key": "KotlinFlashKards - coroutines_Maia Grotepass_kotlin",
+      "name": "KotlinFlashKards - coroutines",
+      "slug": "kotlinflashkards---coroutines",
+      "downloads": 15
+    },
+    {
+      "id": 25330,
+      "key": "com.uptmr.plugin.chinesetypography",
+      "name": "ChineseTypography",
+      "slug": "chinesetypography",
+      "downloads": 21
+    },
+    {
+      "id": 25331,
+      "key": "com.niiti.hutouch",
+      "name": "HuTouch AI",
+      "slug": "hutouch-ai",
+      "downloads": 3
+    },
+    {
+      "id": 25332,
+      "key": "ac.quant.quickfixspec",
+      "name": "Quickfix XML Spec",
+      "slug": "quickfix-xml-spec",
+      "downloads": 12
+    },
+    {
+      "id": 25333,
+      "key": "Youth AI Club_Aleksandr Avdiushenko_Python",
+      "name": "Youth AI Club",
+      "slug": "youth-ai-club",
+      "downloads": 0
+    },
+    {
+      "id": 25335,
+      "key": "com.intrucept.appsecops.intellijplugin",
+      "name": "intrucept-appsecops",
+      "slug": "intrucept-appsecops",
+      "downloads": 43
+    },
+    {
+      "id": 25336,
+      "key": "legispace-app",
+      "name": "LegiSpace",
+      "slug": "legispace",
+      "downloads": 2
+    },
+    {
+      "id": 25337,
+      "key": "com.sanshine.intellij-json-log-plugin",
+      "name": "simplify-json-log",
+      "slug": "simplify-json-log",
+      "downloads": 0
+    },
+    {
+      "id": 25338,
+      "key": "ru.bmstr.demo",
+      "name": "Inspection Helper",
+      "slug": "inspection-helper",
+      "downloads": 0
+    },
+    {
+      "id": 25339,
+      "key": "org.mattshoe.shoebox.Kdux-devtools-plugin",
+      "name": "Kdux Devtools",
+      "slug": "kdux-devtools",
+      "downloads": 10
+    },
+    {
+      "id": 25340,
+      "key": "fleet.keymaps.SublimeText",
+      "name": "Sublime Text Keymap",
+      "slug": "sublime-text-keymap",
+      "downloads": 0
+    },
+    {
+      "id": 25341,
+      "key": "multi-sprint-planner",
+      "name": "Multi Sprint Planner",
+      "slug": "multi-sprint-planner",
+      "downloads": 10
+    },
+    {
+      "id": 25342,
+      "key": "app.oyal.plugins.gitcommitmessagetool",
+      "name": "Git Commit Message Tool",
+      "slug": "git-commit-message-tool",
+      "downloads": 10
+    },
+    {
+      "id": 25345,
+      "key": "io.codeclimbers.jetbrains",
+      "name": "codeclimbers",
+      "slug": "codeclimbers",
+      "downloads": 1
+    },
+    {
+      "id": 25346,
+      "key": "com.wangyuanye.plugin.MSC",
+      "name": "Mark Source Code",
+      "slug": "mark-source-code",
+      "downloads": 10
+    },
+    {
+      "id": 25349,
+      "key": "su.pank.fleetmacs",
+      "name": "Fleetmacs",
+      "slug": "fleetmacs",
+      "downloads": 1
+    },
+    {
+      "id": 25350,
+      "key": "solutions.sulfura.telosys-intellij-plugin",
+      "name": "Telosys",
+      "slug": "telosys",
+      "downloads": 0
+    },
+    {
+      "id": 25351,
+      "key": "com.mystnihon.keymap-switcher",
+      "name": "Keymap Switcher",
+      "slug": "keymap-switcher",
+      "downloads": 8
+    },
+    {
+      "id": 25352,
+      "key": "io.codeling.plugins.jetbrains",
+      "name": "CodeLing",
+      "slug": "codeling",
+      "downloads": 0
+    },
+    {
+      "id": 25353,
+      "key": "com.github.getcurrentthread.recursivemarkdowngenerator",
+      "name": "Recursive Markdown Generator",
+      "slug": "recursive-markdown-generator",
+      "downloads": 4
+    },
+    {
+      "id": 25354,
+      "key": "com.nicolasdrapier.pytorch-documentation",
+      "name": "Pytorch Documentation",
+      "slug": "pytorch-documentation",
+      "downloads": 4
+    },
+    {
+      "id": 25356,
+      "key": "org.vane.hub",
+      "name": "VaneHub",
+      "slug": "vanehub",
+      "downloads": 10
+    },
+    {
+      "id": 25357,
+      "key": "Private Test Python Course 18092024_Maria Ogneva_Python",
+      "name": "Private Test Python Course 18092024",
+      "slug": "private-test-python-course-18092024",
+      "downloads": 3
+    },
+    {
+      "id": 25358,
+      "key": "com.iamnaveenoff.darkCoder",
+      "name": "Dark Coder",
+      "slug": "dark-coder",
+      "downloads": 4
+    },
+    {
+      "id": 25359,
+      "key": "com.thirteenmodder.dart_string_extractor",
+      "name": "Dart String Extractor",
+      "slug": "dart-string-extractor",
+      "downloads": 1
+    },
+    {
+      "id": 25360,
+      "key": "fleet.stylelint",
+      "name": "Stylelint",
+      "slug": "stylelint",
+      "downloads": 0
+    },
+    {
+      "id": 25361,
+      "key": "cn.xuhuanzy.plugin.translate",
+      "name": "TranslationAdapt",
+      "slug": "translationadapt",
+      "downloads": 0
+    },
+    {
+      "id": 25363,
+      "key": "org.jetbrains.profailer",
+      "name": "Prof:ai:ler",
+      "slug": "prof:ai:ler",
+      "downloads": 4
+    },
+    {
+      "id": 25364,
+      "key": "com.intellij.modules.json",
+      "name": "JSON",
+      "slug": "json",
+      "downloads": 2
+    },
+    {
+      "id": 25365,
+      "key": "com.github.sirnoname2705.vscatalog",
+      "name": "Vscatalog",
+      "slug": "vscatalog",
+      "downloads": 0
+    },
+    {
+      "id": 25366,
+      "key": "cn.hb.hb",
+      "name": "Random Super",
+      "slug": "random-super",
+      "downloads": 0
+    },
+    {
+      "id": 25368,
+      "key": "com.vectioneer.plugin.motorcortex.toolchain",
+      "name": "Motorcortex Toolchain",
+      "slug": "motorcortex-toolchain",
+      "downloads": 0
+    },
+    {
+      "id": 25369,
+      "key": "com.github.zakarea.androidnestingintents",
+      "name": "Android-Nesting-Intents",
+      "slug": "android-nesting-intents",
+      "downloads": 0
+    },
+    {
+      "id": 25370,
+      "key": "com.vectioneer.plugin.motorcortex",
+      "name": "Motorcortex Templates",
+      "slug": "motorcortex-templates",
+      "downloads": 0
+    },
+    {
+      "id": 25371,
+      "key": "youtrack-article-actions",
+      "name": "YouTrack Article Actions",
+      "slug": "youtrack-article-actions",
+      "downloads": 0
+    },
+    {
+      "id": 25372,
+      "key": "Kotlin Course 222_Zinaida Smirnova_kotlin",
+      "name": "Kotlin Course 222",
+      "slug": "kotlin-course-222",
+      "downloads": 0
+    },
+    {
+      "id": 25373,
+      "key": "Private Test Rust Course 19092024_Maria Ogneva_Rust",
+      "name": "Private Test Rust Course 19092024",
+      "slug": "private-test-rust-course-19092024",
+      "downloads": 1
+    },
+    {
+      "id": 25375,
+      "key": "io.github.drewlakee.plugins.json.openapi",
+      "name": "Json2OpenAPI",
+      "slug": "json2openapi",
+      "downloads": 0
+    },
+    {
+      "id": 25376,
+      "key": "vanstudio.sequence.rust",
+      "name": "SequenceDiagram Rust",
+      "slug": "sequencediagram-rust",
+      "downloads": 0
+    },
+    {
+      "id": 25377,
+      "key": "com.wibowo.fixtools",
+      "name": "FIXTools: FIX Protocols Toolset",
+      "slug": "fixtools:-fix-protocols-toolset",
+      "downloads": 0
+    },
+    {
+      "id": 25378,
+      "key": "com.cppcxy.emmylua2.attach-debugger",
+      "name": "EmmyLua2 Attach Debugger",
+      "slug": "emmylua2-attach-debugger",
+      "downloads": 0
+    },
+    {
+      "id": 25379,
+      "key": "com.chinaclear.sz.component.generator",
+      "name": "Generator",
+      "slug": "generator",
+      "downloads": 0
+    },
+    {
+      "id": 25380,
+      "key": "org.vane.combo",
+      "name": "Combo",
+      "slug": "combo",
+      "downloads": 0
+    },
+    {
+      "id": 25381,
+      "key": "Private Test Go Course 20092024_Maria Ogneva_go",
+      "name": "Private Test Go Course 20092024",
+      "slug": "private-test-go-course-20092024",
+      "downloads": 0
+    },
+    {
+      "id": 25382,
+      "key": "gradle-consistent-versions",
+      "name": "gradle-consistent-versions",
+      "slug": "gradle-consistent-versions",
+      "downloads": 0
+    },
+    {
+      "id": 25383,
+      "key": "com.jinn.DirectoryToolBox",
+      "name": "DirectoryToolBox",
+      "slug": "directorytoolbox",
+      "downloads": 0
+    },
+    {
+      "id": 25384,
+      "key": "everest-night",
+      "name": "Everest Night",
+      "slug": "everest-night",
+      "downloads": 0
     }
   ]
 }
