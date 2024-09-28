@@ -79309,6 +79309,272 @@
       "name": "Everest Night",
       "slug": "everest-night",
       "downloads": 0
+    },
+    {
+      "id": 25385,
+      "key": "com.aurimasniekis.idea.typespec",
+      "name": "TypeSpec Support",
+      "slug": "typespec-support",
+      "downloads": 0
+    },
+    {
+      "id": 25386,
+      "key": "com.github.dekola.androidMvvmBoilerPlate",
+      "name": "Android MVVM Boilerplate",
+      "slug": "android-mvvm-boilerplate",
+      "downloads": 60
+    },
+    {
+      "id": 25387,
+      "key": "insyncwithfoo.taplo",
+      "name": "Taplo",
+      "slug": "taplo",
+      "downloads": 1
+    },
+    {
+      "id": 25388,
+      "key": "com.github.xepozz.yiisoft",
+      "name": "Yiisoft Framework",
+      "slug": "yiisoft-framework",
+      "downloads": 1
+    },
+    {
+      "id": 25389,
+      "key": "dev.th3dilli.vsdev",
+      "name": "Vintage Story Dev Tools",
+      "slug": "vintage-story-dev-tools",
+      "downloads": 18
+    },
+    {
+      "id": 25390,
+      "key": "io.olensmar.ImageReplacerPlugin",
+      "name": "PNG Image Replacer",
+      "slug": "png-image-replacer",
+      "downloads": 15
+    },
+    {
+      "id": 25391,
+      "key": "org.dongx.plugins.gremlin-client",
+      "name": "Gremlin-client",
+      "slug": "gremlin-client",
+      "downloads": 15
+    },
+    {
+      "id": 25392,
+      "key": "cn.olange.rest.link",
+      "name": "Rest-Link",
+      "slug": "rest-link",
+      "downloads": 12
+    },
+    {
+      "id": 25393,
+      "key": "akashcats",
+      "name": "ViewCats",
+      "slug": "viewcats",
+      "downloads": 0
+    },
+    {
+      "id": 25394,
+      "key": "com.github.zzcode.zzcodeintellijextension",
+      "name": "ZZCode",
+      "slug": "zzcode",
+      "downloads": 1
+    },
+    {
+      "id": 25395,
+      "key": "fleet.webpack",
+      "name": "Webpack",
+      "slug": "webpack",
+      "downloads": 2
+    },
+    {
+      "id": 25396,
+      "key": "de.kherud.plugin.prompt",
+      "name": "Copy Files to Prompt",
+      "slug": "copy-files-to-prompt",
+      "downloads": 0
+    },
+    {
+      "id": 25397,
+      "key": "com.usooft.intellij-ud-plugin",
+      "name": "UD Support",
+      "slug": "ud-support",
+      "downloads": 18
+    },
+    {
+      "id": 25398,
+      "key": "JetBrains Academy Kotlin course template_JetBrains_kotlin",
+      "name": "IDE Plugin Development Course",
+      "slug": "ide-plugin-development-course",
+      "downloads": 9
+    },
+    {
+      "id": 25399,
+      "key": "instant-invoke",
+      "name": "instant-invoke",
+      "slug": "instant-invoke",
+      "downloads": 0
+    },
+    {
+      "id": 25401,
+      "key": "com.codescene.vanilla",
+      "name": "CodeScene",
+      "slug": "codescene",
+      "downloads": 1
+    },
+    {
+      "id": 25402,
+      "key": "Private Test Python Course 23092024_Maria Ogneva_Python",
+      "name": "Private Test Python Course 23092024",
+      "slug": "private-test-python-course-23092024",
+      "downloads": 3
+    },
+    {
+      "id": 25404,
+      "key": "fleet.grazie.java",
+      "name": "Grazie for Java",
+      "slug": "grazie-for-java",
+      "downloads": 0
+    },
+    {
+      "id": 25405,
+      "key": "com.theodo.apps.kuik",
+      "name": "Kuik",
+      "slug": "kuik",
+      "downloads": 2
+    },
+    {
+      "id": 25406,
+      "key": "ru.chimchima.idea-classic-icons",
+      "name": "Classic Icons",
+      "slug": "classic-icons",
+      "downloads": 3
+    },
+    {
+      "id": 25407,
+      "key": "fleet.grazie.python",
+      "name": "Grazie for Python",
+      "slug": "grazie-for-python",
+      "downloads": 0
+    },
+    {
+      "id": 25408,
+      "key": "Nivel Huevito_Jhordy Miguel Caceres Guerra_JAVA",
+      "name": "Nivel Huevito",
+      "slug": "nivel-huevito",
+      "downloads": 0
+    },
+    {
+      "id": 25409,
+      "key": "com.jqk.jqk-demo",
+      "name": "jqk-demo",
+      "slug": "jqk-demo",
+      "downloads": 0
+    },
+    {
+      "id": 25410,
+      "key": "com.xjj.idea",
+      "name": "HongHu-Dev",
+      "slug": "honghu-dev",
+      "downloads": 0
+    },
+    {
+      "id": 25412,
+      "key": "org.tsingj.TsingjCodeGenTools",
+      "name": "TsingjCodeGenTools",
+      "slug": "tsingjcodegentools",
+      "downloads": 0
+    },
+    {
+      "id": 25413,
+      "key": "dev.protsenko.security-linter",
+      "name": "Infrastructure Security",
+      "slug": "infrastructure-security",
+      "downloads": 42
+    },
+    {
+      "id": 25414,
+      "key": "youtrack-automation-test",
+      "name": "YouTrack Automation",
+      "slug": "youtrack-automation",
+      "downloads": 8
+    },
+    {
+      "id": 25415,
+      "key": "Private Test Java Course 25092024_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 25092024",
+      "slug": "private-test-java-course-25092024",
+      "downloads": 0
+    },
+    {
+      "id": 25419,
+      "key": "fleet.vite",
+      "name": "Vite",
+      "slug": "vite",
+      "downloads": 0
+    },
+    {
+      "id": 25420,
+      "key": "com.dove.ohpm",
+      "name": "Ohpm Dashboard",
+      "slug": "ohpm-dashboard",
+      "downloads": 2
+    },
+    {
+      "id": 25422,
+      "key": "Private Test Python Course 269092024_Maria Ogneva_Python",
+      "name": "Private Test Python Course 269092024",
+      "slug": "private-test-python-course-269092024",
+      "downloads": 2
+    },
+    {
+      "id": 25423,
+      "key": "Private Test Python Course 26092024-1_Maria Ogneva_Python",
+      "name": "Private Test Python Course 26092024-1",
+      "slug": "private-test-python-course-26092024-1",
+      "downloads": 3
+    },
+    {
+      "id": 25424,
+      "key": "Private Test Python Course 26092024-2_Maria Ogneva_Python",
+      "name": "Private Test Python Course 26092024-2",
+      "slug": "private-test-python-course-26092024-2",
+      "downloads": 1
+    },
+    {
+      "id": 25425,
+      "key": "com.remove-comments.appRemoveComments",
+      "name": "AppRemoveComments",
+      "slug": "appremovecomments",
+      "downloads": 0
+    },
+    {
+      "id": 25426,
+      "key": "org.datastic.docsBuilder",
+      "name": "Docs Creator",
+      "slug": "docs-creator",
+      "downloads": 0
+    },
+    {
+      "id": 25427,
+      "key": "com.kuaishou.kspay.member.fasthash",
+      "name": "FastHash",
+      "slug": "fasthash",
+      "downloads": 0
+    },
+    {
+      "id": 25428,
+      "key": "com.one-pauintxi-theme.marcosramos87.intellijonepauintxitheme",
+      "name": "One Pauintxi Theme",
+      "slug": "one-pauintxi-theme",
+      "downloads": 0
+    },
+    {
+      "id": 25429,
+      "key": "lance.SmartTools",
+      "name": "Smart Tools",
+      "slug": "smart-tools",
+      "downloads": 0
     }
   ]
 }
