@@ -79855,6 +79855,314 @@
       "name": "Flutter XWidget",
       "slug": "flutter-xwidget",
       "downloads": 0
+    },
+    {
+      "id": 25486,
+      "key": "com.dev.gear.GenerateDBEntity",
+      "name": "GenerateDBEntity",
+      "slug": "generatedbentity",
+      "downloads": 7
+    },
+    {
+      "id": 25487,
+      "key": "com.dev.gear.NewClassGenerator",
+      "name": "NewClassGenerator",
+      "slug": "newclassgenerator",
+      "downloads": 13
+    },
+    {
+      "id": 25488,
+      "key": "uz.xaldarof.mayda",
+      "name": "Mayda",
+      "slug": "mayda",
+      "downloads": 30
+    },
+    {
+      "id": 25490,
+      "key": "org.kanan",
+      "name": "Quick Maven Package",
+      "slug": "quick-maven-package",
+      "downloads": 0
+    },
+    {
+      "id": 25492,
+      "key": "com.meow.demo",
+      "name": "Git User Management",
+      "slug": "git-user-management",
+      "downloads": 8
+    },
+    {
+      "id": 25493,
+      "key": "com.github.akashdhotre873.intellijlivetemplatesplugin",
+      "name": "Java Live Templates",
+      "slug": "java-live-templates",
+      "downloads": 1
+    },
+    {
+      "id": 25494,
+      "key": "us.appfluent.xwidget-intellij-plugin",
+      "name": "Flutter XWidget",
+      "slug": "flutter-xwidget",
+      "downloads": 28
+    },
+    {
+      "id": 25495,
+      "key": "solutions.sulfura.ioc-flow",
+      "name": "IoC Flow",
+      "slug": "ioc-flow",
+      "downloads": 4
+    },
+    {
+      "id": 25496,
+      "key": "com.github.drjacky.docgenie",
+      "name": "DocGenie",
+      "slug": "docgenie",
+      "downloads": 2
+    },
+    {
+      "id": 25497,
+      "key": "ru.zplugin.ZPlugin",
+      "name": "ZSvgLongPath",
+      "slug": "zsvglongpath",
+      "downloads": 0
+    },
+    {
+      "id": 25498,
+      "key": "com.vrzdev.focuscode",
+      "name": "FocusCode",
+      "slug": "focuscode",
+      "downloads": 0
+    },
+    {
+      "id": 25499,
+      "key": "io.github.ozkanpakdil.opentelemetry-debug-log-viewer",
+      "name": "Opentelemetry Debug Log Viewer",
+      "slug": "opentelemetry-debug-log-viewer",
+      "downloads": 4
+    },
+    {
+      "id": 25500,
+      "key": "com.me.favourite.directory",
+      "name": "Favourite Directory",
+      "slug": "favourite-directory",
+      "downloads": 11
+    },
+    {
+      "id": 25501,
+      "key": "com.rafaelheid.fluidcomponents",
+      "name": "Fluid Components",
+      "slug": "fluid-components",
+      "downloads": 1
+    },
+    {
+      "id": 25502,
+      "key": "com.github.t-kuni.sisho-idea",
+      "name": "Sisho",
+      "slug": "sisho",
+      "downloads": 0
+    },
+    {
+      "id": 25503,
+      "key": "io.tayviscon.idea",
+      "name": "Tayviscon Theme",
+      "slug": "tayviscon-theme",
+      "downloads": 18
+    },
+    {
+      "id": 25504,
+      "key": "org.TongJiUniversity-SSE.code_versioning_plugin",
+      "name": "MyGit",
+      "slug": "mygit",
+      "downloads": 19
+    },
+    {
+      "id": 25505,
+      "key": "ru.tbank.gitlabci.helper",
+      "name": "Gitlab CI Helper",
+      "slug": "gitlab-ci-helper",
+      "downloads": 0
+    },
+    {
+      "id": 25506,
+      "key": "com.github.karataydev.zedonedark",
+      "name": "ZedOneDark",
+      "slug": "zedonedark",
+      "downloads": 41
+    },
+    {
+      "id": 25507,
+      "key": "champ",
+      "name": "One Dark Best",
+      "slug": "one-dark-best",
+      "downloads": 71
+    },
+    {
+      "id": 25508,
+      "key": "chester.language.plugin",
+      "name": "Chester Language Support",
+      "slug": "chester-language-support",
+      "downloads": 0
+    },
+    {
+      "id": 25509,
+      "key": "com.github.tkuni.sishoideav2",
+      "name": "sisho-v2",
+      "slug": "sisho-v2",
+      "downloads": 18
+    },
+    {
+      "id": 25510,
+      "key": "com.cln",
+      "name": "Code Link Navigator",
+      "slug": "code-link-navigator",
+      "downloads": 0
+    },
+    {
+      "id": 25511,
+      "key": "com.snart.idea.plugin.json2pojo",
+      "name": "Json2pojo",
+      "slug": "json2pojo",
+      "downloads": 0
+    },
+    {
+      "id": 25512,
+      "key": "m.client.ide.morpheus",
+      "name": "Morpheus",
+      "slug": "morpheus",
+      "downloads": 0
+    },
+    {
+      "id": 25517,
+      "key": "com.myth.earth.earth-restful-helper",
+      "name": "Earth Restful Helper",
+      "slug": "earth-restful-helper",
+      "downloads": 0
+    },
+    {
+      "id": 25519,
+      "key": "com.github.oylft.plugins",
+      "name": "Commit Changes Exporter",
+      "slug": "commit-changes-exporter",
+      "downloads": 16
+    },
+    {
+      "id": 25520,
+      "key": "com.xrosstools.xbehavior.editor",
+      "name": "Xross Behavior Tree Edtitor",
+      "slug": "xross-behavior-tree-edtitor",
+      "downloads": 36
+    },
+    {
+      "id": 25522,
+      "key": "com.openrouterai",
+      "name": "OpenRouterAI",
+      "slug": "openrouterai",
+      "downloads": 0
+    },
+    {
+      "id": 25523,
+      "key": "com.bamuel.spllang",
+      "name": "Pronto 4GL SPL Language Support",
+      "slug": "pronto-4gl-spl-language-support",
+      "downloads": 8
+    },
+    {
+      "id": 25524,
+      "key": "me.hang.elegant-coding-guide",
+      "name": "Elegant Coding Guide",
+      "slug": "elegant-coding-guide",
+      "downloads": 0
+    },
+    {
+      "id": 25526,
+      "key": "com.nd.sdp.ci",
+      "name": "SdpCI",
+      "slug": "sdpci",
+      "downloads": 0
+    },
+    {
+      "id": 25527,
+      "key": "io.xxl.TestStudio",
+      "name": "TestStudio",
+      "slug": "teststudio",
+      "downloads": 0
+    },
+    {
+      "id": 25528,
+      "key": "top.fwjok.TinyCopy",
+      "name": "TinyCopy",
+      "slug": "tinycopy",
+      "downloads": 0
+    },
+    {
+      "id": 25529,
+      "key": "com.a4b.android-helper",
+      "name": "Android-helper",
+      "slug": "android-helper",
+      "downloads": 0
+    },
+    {
+      "id": 25530,
+      "key": "io.gitlab.jfronny.globalmenu",
+      "name": "Global Menu and Decoration",
+      "slug": "global-menu-and-decoration",
+      "downloads": 0
+    },
+    {
+      "id": 25531,
+      "key": "com.cockepit.intellij-plugin",
+      "name": "Cockepit",
+      "slug": "cockepit",
+      "downloads": 0
+    },
+    {
+      "id": 25536,
+      "key": "com.dropdrage.SimpleComposePreviewGenerator",
+      "name": "Simple Compose Preview Generator",
+      "slug": "simple-compose-preview-generator",
+      "downloads": 0
+    },
+    {
+      "id": 25537,
+      "key": "com.codesight.idea",
+      "name": "Code Sight (Security)",
+      "slug": "code-sight-(security)",
+      "downloads": 0
+    },
+    {
+      "id": 25538,
+      "key": "nova.tech.sql-cop",
+      "name": "SQL COP",
+      "slug": "sql-cop",
+      "downloads": 0
+    },
+    {
+      "id": 25539,
+      "key": "com.zj.gyl.windyplugin",
+      "name": "windy",
+      "slug": "windy",
+      "downloads": 0
+    },
+    {
+      "id": 25540,
+      "key": "com.satya.prakash.nandy.json-2-env",
+      "name": "Json 2 env",
+      "slug": "json-2-env",
+      "downloads": 0
+    },
+    {
+      "id": 25541,
+      "key": "de.liebki.MyOllamaEnhancer",
+      "name": "MyOllamaEnhancer",
+      "slug": "myollamaenhancer",
+      "downloads": 0
+    },
+    {
+      "id": 25542,
+      "key": "contact.e7.npm-studio",
+      "name": "NPM Studio",
+      "slug": "npm-studio",
+      "downloads": 0
     }
   ]
 }
