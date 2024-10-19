@@ -80163,6 +80163,447 @@
       "name": "NPM Studio",
       "slug": "npm-studio",
       "downloads": 0
+    },
+    {
+      "id": 25543,
+      "key": "sandipchitale.portmon",
+      "name": "Portmon",
+      "slug": "portmon",
+      "downloads": 23
+    },
+    {
+      "id": 25544,
+      "key": "org.dawn.deveco.plugin.ResourceEditor",
+      "name": "ResourceEditor",
+      "slug": "resourceeditor",
+      "downloads": 0
+    },
+    {
+      "id": 25545,
+      "key": "io.github.future0923.DebugTools",
+      "name": "DebugTools",
+      "slug": "debugtools",
+      "downloads": 0
+    },
+    {
+      "id": 25546,
+      "key": "com.github.jaksonlin.pitestintellij",
+      "name": "Pitest-Gradle",
+      "slug": "pitest-gradle",
+      "downloads": 10
+    },
+    {
+      "id": 25547,
+      "key": "xyz.kbws.K-SpringTemplate",
+      "name": "K-SpringTemplate",
+      "slug": "k-springtemplate",
+      "downloads": 0
+    },
+    {
+      "id": 25548,
+      "key": "com.szlanyou.youcode",
+      "name": "\u53cb\u7801",
+      "slug": "\u53cb\u7801",
+      "downloads": 0
+    },
+    {
+      "id": 25549,
+      "key": "com.biyusheng.mybatis.pro",
+      "name": "MybatisTools",
+      "slug": "mybatistools",
+      "downloads": 0
+    },
+    {
+      "id": 25550,
+      "key": "me.wladimiiir.plugins.aider-plugin",
+      "name": "Aider Companion",
+      "slug": "aider-companion",
+      "downloads": 22
+    },
+    {
+      "id": 25551,
+      "key": "org.javamaster.HttpClient",
+      "name": "HttpClient",
+      "slug": "httpclient",
+      "downloads": 0
+    },
+    {
+      "id": 25552,
+      "key": "com.github.raschild6.momentumplugin",
+      "name": "momentum",
+      "slug": "momentum",
+      "downloads": 0
+    },
+    {
+      "id": 25554,
+      "key": "com.zhangwh.g_pilot_idea",
+      "name": "G-pilot",
+      "slug": "g-pilot",
+      "downloads": 0
+    },
+    {
+      "id": 25555,
+      "key": "com.github.xiaolyuh.mrtf-git-flow-tools",
+      "name": "GitFlowTools",
+      "slug": "gitflowtools",
+      "downloads": 26
+    },
+    {
+      "id": 25556,
+      "key": "com.jjy.plugin.ajindedabaobei",
+      "name": "ajindedabaobei",
+      "slug": "ajindedabaobei",
+      "downloads": 11
+    },
+    {
+      "id": 25557,
+      "key": "DataBaseManager",
+      "name": "DataBaseManager",
+      "slug": "databasemanager",
+      "downloads": 0
+    },
+    {
+      "id": 25558,
+      "key": "Private Test Java Course 15102024 o1_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 15102024 o1",
+      "slug": "private-test-java-course-15102024-o1",
+      "downloads": 10
+    },
+    {
+      "id": 25559,
+      "key": "Private Test Java Course 15102024 n_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 15102024 n",
+      "slug": "private-test-java-course-15102024-n",
+      "downloads": 0
+    },
+    {
+      "id": 25561,
+      "key": "Private Test Java Course 15102024 n1_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 15102024 n1",
+      "slug": "private-test-java-course-15102024-n1",
+      "downloads": 1
+    },
+    {
+      "id": 25562,
+      "key": "Private Test Python Course 15102024_Maria Ogneva_Python",
+      "name": "Private Test Python Course 15102024",
+      "slug": "private-test-python-course-15102024",
+      "downloads": 3
+    },
+    {
+      "id": 25563,
+      "key": "de.rakhman.vcs.scroll",
+      "name": "VCS Log Scroll Button",
+      "slug": "vcs-log-scroll-button",
+      "downloads": 14
+    },
+    {
+      "id": 25564,
+      "key": "com.innovatenorth.matigenix",
+      "name": "Matigenix",
+      "slug": "matigenix",
+      "downloads": 3
+    },
+    {
+      "id": 25565,
+      "key": "Private Test Python Course 15102024-1051_Maria Ogneva_Python",
+      "name": "Private Test Python Course 15102024-1051",
+      "slug": "private-test-python-course-15102024-1051",
+      "downloads": 3
+    },
+    {
+      "id": 25568,
+      "key": "color.scheme.Theme",
+      "name": "Electron Vue Theme",
+      "slug": "electron-vue-theme",
+      "downloads": 5
+    },
+    {
+      "id": 25569,
+      "key": "io.namaek2.plugins",
+      "name": "Taint Bomb auto Java Obfuscator",
+      "slug": "taint-bomb-auto-java-obfuscator",
+      "downloads": 81
+    },
+    {
+      "id": 25570,
+      "key": "io.github.nahuel92.pit4u",
+      "name": "PIT4U",
+      "slug": "pit4u",
+      "downloads": 3
+    },
+    {
+      "id": 25572,
+      "key": "com.wei.wreader",
+      "name": "W-Reader",
+      "slug": "w-reader",
+      "downloads": 4
+    },
+    {
+      "id": 25573,
+      "key": "com.linecorp.android.featureflag.ij.plugin",
+      "name": "FeatureFlag Android Support",
+      "slug": "featureflag-android-support",
+      "downloads": 0
+    },
+    {
+      "id": 25574,
+      "key": "LangSpring",
+      "name": "LangSpring",
+      "slug": "langspring",
+      "downloads": 3
+    },
+    {
+      "id": 25575,
+      "key": "com.neoteem.tools.neoteemtools",
+      "name": "Neoteem Tools",
+      "slug": "neoteem-tools",
+      "downloads": 0
+    },
+    {
+      "id": 25576,
+      "key": "Private Test Python Course 16102024 1051_Maria Ogneva_Python",
+      "name": "Private Test Python Course 16102024 1051",
+      "slug": "private-test-python-course-16102024-1051",
+      "downloads": 4
+    },
+    {
+      "id": 25577,
+      "key": "Private Test Java Course 16102024 1051_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 16102024 1051",
+      "slug": "private-test-java-course-16102024-1051",
+      "downloads": 3
+    },
+    {
+      "id": 25578,
+      "key": "Private Test Java Course 16102024 1051 without sections_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 16102024 1051 with sections",
+      "slug": "private-test-java-course-16102024-1051-with-sections",
+      "downloads": 3
+    },
+    {
+      "id": 25579,
+      "key": "Private Test Java Course 16102024 without sections_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 16102024 without sections",
+      "slug": "private-test-java-course-16102024-without-sections",
+      "downloads": 1
+    },
+    {
+      "id": 25580,
+      "key": "Private Test Java Course 16102024 5 tasks_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 16102024 5 tasks",
+      "slug": "private-test-java-course-16102024-5-tasks",
+      "downloads": 19
+    },
+    {
+      "id": 25581,
+      "key": "Private Test Kotlin Course 16102024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 16102024",
+      "slug": "private-test-kotlin-course-16102024",
+      "downloads": 1
+    },
+    {
+      "id": 25582,
+      "key": "com.itrunfenix.PR-FlowTracker",
+      "name": "PR-FlowTracker",
+      "slug": "pr-flowtracker",
+      "downloads": 1
+    },
+    {
+      "id": 25583,
+      "key": "mp.code.ij",
+      "name": "CodeMP",
+      "slug": "codemp",
+      "downloads": 0
+    },
+    {
+      "id": 25584,
+      "key": "com.wjy.plugin.mapper2sql",
+      "name": "mybatis mapper2sql",
+      "slug": "mybatis-mapper2sql",
+      "downloads": 5
+    },
+    {
+      "id": 25585,
+      "key": "m.client.ide.morpheus",
+      "name": "Morpheus",
+      "slug": "morpheus",
+      "downloads": 0
+    },
+    {
+      "id": 25586,
+      "key": "Private Test Java Course 17102024_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 17102024",
+      "slug": "private-test-java-course-17102024",
+      "downloads": 2
+    },
+    {
+      "id": 25587,
+      "key": "com.junyeong.generateRandomJsonString",
+      "name": "GenerateRandomJsonString",
+      "slug": "generaterandomjsonstring",
+      "downloads": 0
+    },
+    {
+      "id": 25589,
+      "key": "me.bobazooba.perf",
+      "name": "Perf Theme",
+      "slug": "perf-theme",
+      "downloads": 4
+    },
+    {
+      "id": 25590,
+      "key": "com.mwnciau.rblade",
+      "name": "RBlade",
+      "slug": "rblade",
+      "downloads": 0
+    },
+    {
+      "id": 25591,
+      "key": "Private Test JS Course 17102024_Maria Ogneva_JavaScript",
+      "name": "Private Test JS Course 17102024",
+      "slug": "private-test-js-course-17102024",
+      "downloads": 1
+    },
+    {
+      "id": 25592,
+      "key": "gruvbox-material-light",
+      "name": "Gruvbox Material Light Theme",
+      "slug": "gruvbox-material-light-theme",
+      "downloads": 0
+    },
+    {
+      "id": 25593,
+      "key": "com.cullen.graham.repodepot",
+      "name": "Repo Depot",
+      "slug": "repo-depot",
+      "downloads": 0
+    },
+    {
+      "id": 25594,
+      "key": "org.fe3dback.nixlsp",
+      "name": "Nix LSP",
+      "slug": "nix-lsp",
+      "downloads": 0
+    },
+    {
+      "id": 25595,
+      "key": "com.niikelion.ic10_language",
+      "name": "Ic10 Language",
+      "slug": "ic10-language",
+      "downloads": 0
+    },
+    {
+      "id": 25596,
+      "key": "andrzejgil.idea-plsql_spec_and_body_lines",
+      "name": "PLSQL-Spec-and-Body-Lines",
+      "slug": "plsql-spec-and-body-lines",
+      "downloads": 0
+    },
+    {
+      "id": 25597,
+      "key": "com.wsl.encry",
+      "name": "Encry",
+      "slug": "encry",
+      "downloads": 0
+    },
+    {
+      "id": 25598,
+      "key": "com.zabank.ZAMagicAssist",
+      "name": "AideFox",
+      "slug": "aidefox",
+      "downloads": 0
+    },
+    {
+      "id": 25600,
+      "key": "insyncwithfoo.rustanalyzer",
+      "name": "Rust Analyzer",
+      "slug": "rust-analyzer",
+      "downloads": 0
+    },
+    {
+      "id": 25601,
+      "key": "Private Test JS Course 18102024_Maria Ogneva_JavaScript",
+      "name": "Private Test JS Course 18102024",
+      "slug": "private-test-js-course-18102024",
+      "downloads": 0
+    },
+    {
+      "id": 25602,
+      "key": "Private Test JS Course 18102024 clean configs_Maria Ogneva_JavaScript",
+      "name": "Private Test JS Course 18102024 clean configs",
+      "slug": "private-test-js-course-18102024-clean-configs",
+      "downloads": 0
+    },
+    {
+      "id": 25603,
+      "key": "Private Test JS Course 2 lessons_Maria Ogneva_JavaScript",
+      "name": "Private Test JS Course 2 lessons",
+      "slug": "private-test-js-course-2-lessons",
+      "downloads": 0
+    },
+    {
+      "id": 25604,
+      "key": "com.lyflexi.feignx",
+      "name": "FeignX",
+      "slug": "feignx",
+      "downloads": 0
+    },
+    {
+      "id": 25605,
+      "key": "Private Test Kotlin Course 18102024 2 lessons_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 18102024 2 lessons",
+      "slug": "private-test-kotlin-course-18102024-2-lessons",
+      "downloads": 0
+    },
+    {
+      "id": 25609,
+      "key": "tompii",
+      "name": "Mcdonald's",
+      "slug": "mcdonald's",
+      "downloads": 0
+    },
+    {
+      "id": 25610,
+      "key": "Private Test JS Course 18102024-16-16_Maria Ogneva_JavaScript",
+      "name": "Private Test JS Course 18102024-16-16",
+      "slug": "private-test-js-course-18102024-16-16",
+      "downloads": 0
+    },
+    {
+      "id": 25611,
+      "key": "Private Test Kotlin Course 18102024 16-29_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 18102024 16-29",
+      "slug": "private-test-kotlin-course-18102024-16-29",
+      "downloads": 0
+    },
+    {
+      "id": 25612,
+      "key": "com.github.hems213.assessmentaichatplugin",
+      "name": "Assessment AI Chatbot",
+      "slug": "assessment-ai-chatbot",
+      "downloads": 0
+    },
+    {
+      "id": 25613,
+      "key": "com.github.blackkbox.assessmentaichatplugin",
+      "name": "Assessment AI Chatbot",
+      "slug": "assessment-ai-chatbot",
+      "downloads": 0
+    },
+    {
+      "id": 25614,
+      "key": "com.tavanuka.onemonokai",
+      "name": "One Monokai",
+      "slug": "one-monokai",
+      "downloads": 0
+    },
+    {
+      "id": 25615,
+      "key": "com.github.aragonerua.codecompletionfim",
+      "name": "code-completion-fim",
+      "slug": "code-completion-fim",
+      "downloads": 0
     }
   ]
 }
