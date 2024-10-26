@@ -80604,6 +80604,293 @@
       "name": "code-completion-fim",
       "slug": "code-completion-fim",
       "downloads": 0
+    },
+    {
+      "id": 25616,
+      "key": "com.pg.plugin.idea.mybatis-sql-easy-get",
+      "name": "Mybatis SQL Easy Get",
+      "slug": "mybatis-sql-easy-get",
+      "downloads": 0
+    },
+    {
+      "id": 25617,
+      "key": "dev.codetime.codetime-jetbrains",
+      "name": "CodeTime",
+      "slug": "codetime",
+      "downloads": 35
+    },
+    {
+      "id": 25618,
+      "key": "com.chat2db",
+      "name": "chat2db",
+      "slug": "chat2db",
+      "downloads": 2
+    },
+    {
+      "id": 25619,
+      "key": "com.gls.GlsLanguage",
+      "name": "Gilles Language",
+      "slug": "gilles-language",
+      "downloads": 1
+    },
+    {
+      "id": 25620,
+      "key": "com.BGT.BGT",
+      "name": "Better GitHub Theme - BGT",
+      "slug": "better-github-theme---bgt",
+      "downloads": 57
+    },
+    {
+      "id": 25622,
+      "key": "com.github.blackkbox.demo",
+      "name": "BLACKBOX.AI",
+      "slug": "blackbox.ai",
+      "downloads": 3
+    },
+    {
+      "id": 25623,
+      "key": "vanstudio.sequence.go",
+      "name": "SequenceDiagram Go",
+      "slug": "sequencediagram-go",
+      "downloads": 10
+    },
+    {
+      "id": 25624,
+      "key": "com.xws111.SourceHelper",
+      "name": "SourceHelper",
+      "slug": "sourcehelper",
+      "downloads": 7
+    },
+    {
+      "id": 25625,
+      "key": "dev.priporov.custom-icons",
+      "name": "Icon-Customizer",
+      "slug": "icon-customizer",
+      "downloads": 26
+    },
+    {
+      "id": 25626,
+      "key": "com.github.agawronteam.changedtestsrunner",
+      "name": "changed-tests-runner",
+      "slug": "changed-tests-runner",
+      "downloads": 1
+    },
+    {
+      "id": 25627,
+      "key": "Private Test Kotlin Course 21102024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 21102024",
+      "slug": "private-test-kotlin-course-21102024",
+      "downloads": 3
+    },
+    {
+      "id": 25628,
+      "key": "instant-invoke",
+      "name": "instant-invoke",
+      "slug": "instant-invoke",
+      "downloads": 3
+    },
+    {
+      "id": 25629,
+      "key": "io.namaek2.plugins",
+      "name": "Taint Bomb auto Java Obfuscator",
+      "slug": "taint-bomb-auto-java-obfuscator",
+      "downloads": 36
+    },
+    {
+      "id": 25632,
+      "key": "Private Test Java Course 21102024_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 21102024",
+      "slug": "private-test-java-course-21102024",
+      "downloads": 7
+    },
+    {
+      "id": 25633,
+      "key": "elm-pro",
+      "name": "Elm Pro",
+      "slug": "elm-pro",
+      "downloads": 0
+    },
+    {
+      "id": 25634,
+      "key": "id.devcert.plugin",
+      "name": "DevCert Exam",
+      "slug": "devcert-exam",
+      "downloads": 0
+    },
+    {
+      "id": 25635,
+      "key": "com.alex.alekseev.CombineAndCopyFiles",
+      "name": "Copy Files to Clipboard for LLM",
+      "slug": "copy-files-to-clipboard-for-llm",
+      "downloads": 93
+    },
+    {
+      "id": 25637,
+      "key": "com.github.moredreadd.minijava-intellij-plugin",
+      "name": "MiniJava Syntax Highlighting",
+      "slug": "minijava-syntax-highlighting",
+      "downloads": 35
+    },
+    {
+      "id": 25638,
+      "key": "com.gdme.plugins.webpulseforecast",
+      "name": "WebPulse Forecast",
+      "slug": "webpulse-forecast",
+      "downloads": 17
+    },
+    {
+      "id": 25641,
+      "key": "gruvbox-material-dark",
+      "name": "Gruvbox Material Dark Theme",
+      "slug": "gruvbox-material-dark-theme",
+      "downloads": 20
+    },
+    {
+      "id": 25642,
+      "key": "com.yanftch.StopCoding",
+      "name": "StopCoding",
+      "slug": "stopcoding",
+      "downloads": 18
+    },
+    {
+      "id": 25643,
+      "key": "com.archistrator.idea.arch",
+      "name": "DocHub Architecture as code",
+      "slug": "dochub-architecture-as-code",
+      "downloads": 3
+    },
+    {
+      "id": 25644,
+      "key": "mcdonalds",
+      "name": "Mcdonald's",
+      "slug": "mcdonald's",
+      "downloads": 7
+    },
+    {
+      "id": 25645,
+      "key": "phphleb",
+      "name": "HLEB2",
+      "slug": "hleb2",
+      "downloads": 4
+    },
+    {
+      "id": 25646,
+      "key": "Private Test Python Course 23102024-1_Maria Ogneva_Python",
+      "name": "Private Test Python Course 23102024-1",
+      "slug": "private-test-python-course-23102024-1",
+      "downloads": 4
+    },
+    {
+      "id": 25647,
+      "key": "com.5peak2me.plugin.idea.gradle-version-catalogs-plugin",
+      "name": "Gradle Version Catalogs",
+      "slug": "gradle-version-catalogs",
+      "downloads": 30
+    },
+    {
+      "id": 25648,
+      "key": "com.github.tidelift.intellij_integration",
+      "name": "Tidelift",
+      "slug": "tidelift",
+      "downloads": 0
+    },
+    {
+      "id": 25649,
+      "key": "cloudcodecheck.oh.plugin",
+      "name": "Cloud Code Check OH",
+      "slug": "cloud-code-check-oh",
+      "downloads": 0
+    },
+    {
+      "id": 25650,
+      "key": "com.simple.simple-util",
+      "name": "Simple-Util",
+      "slug": "simple-util",
+      "downloads": 0
+    },
+    {
+      "id": 25651,
+      "key": "Private Test JavaScript Course 24102024_Maria Ogneva_JavaScript",
+      "name": "Private Test JavaScript Course 24102024",
+      "slug": "private-test-javascript-course-24102024",
+      "downloads": 5
+    },
+    {
+      "id": 25653,
+      "key": "Private Test Rust Course 24102024_Maria Ogneva_Rust",
+      "name": "Private Test Rust Course 24102024",
+      "slug": "private-test-rust-course-24102024",
+      "downloads": 0
+    },
+    {
+      "id": 25654,
+      "key": "com.easytools.jsonscheme",
+      "name": "JsonScheme Generator",
+      "slug": "jsonscheme-generator",
+      "downloads": 1
+    },
+    {
+      "id": 25655,
+      "key": "io.openbpm.studio",
+      "name": "Open BPM",
+      "slug": "open-bpm",
+      "downloads": 0
+    },
+    {
+      "id": 25659,
+      "key": "com.jjy.plugin.ajinbigbaby",
+      "name": "aJinBigBaby",
+      "slug": "ajinbigbaby",
+      "downloads": 0
+    },
+    {
+      "id": 25665,
+      "key": "pl.michalzimka.CodeSandboxPlugin",
+      "name": "Code Sandbox",
+      "slug": "code-sandbox",
+      "downloads": 0
+    },
+    {
+      "id": 25666,
+      "key": "pl.michalzimka.NameAssistantPlugin",
+      "name": "Name Assistant",
+      "slug": "name-assistant",
+      "downloads": 0
+    },
+    {
+      "id": 25667,
+      "key": "net.exoego.digdag",
+      "name": "Digdag",
+      "slug": "digdag",
+      "downloads": 0
+    },
+    {
+      "id": 25668,
+      "key": "intellij.javascript.bun",
+      "name": "Bun",
+      "slug": "bun",
+      "downloads": 0
+    },
+    {
+      "id": 25669,
+      "key": "Private Test C# Course1 25102024_Maria Ogneva_C#",
+      "name": "Private Test C# Course1 25102024",
+      "slug": "private-test-c#-course1-25102024",
+      "downloads": 0
+    },
+    {
+      "id": 25670,
+      "key": "Kotlin Course13_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 25102024",
+      "slug": "private-test-kotlin-course-25102024",
+      "downloads": 0
+    },
+    {
+      "id": 25671,
+      "key": "com.vibrant.prismio",
+      "name": "Prismio",
+      "slug": "prismio",
+      "downloads": 0
     }
   ]
 }
