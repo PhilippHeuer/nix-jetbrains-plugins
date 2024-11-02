@@ -80891,6 +80891,363 @@
       "name": "Prismio",
       "slug": "prismio",
       "downloads": 0
+    },
+    {
+      "id": 25672,
+      "key": "com.sakshamc.unescaper",
+      "name": "Unescaper",
+      "slug": "unescaper",
+      "downloads": 15
+    },
+    {
+      "id": 25673,
+      "key": "fleet.ai.completion.kotlin",
+      "name": "AI Completion for Kotlin",
+      "slug": "ai-completion-for-kotlin",
+      "downloads": 0
+    },
+    {
+      "id": 25675,
+      "key": "com.eliasyoussef47.php.SuppressedAttributes",
+      "name": "Suppressed Attributes",
+      "slug": "suppressed-attributes",
+      "downloads": 3
+    },
+    {
+      "id": 25676,
+      "key": "com.github.tmr232.function_graph_overview",
+      "name": "Function Graph Overview",
+      "slug": "function-graph-overview",
+      "downloads": 1
+    },
+    {
+      "id": 25677,
+      "key": "io.github.bric3.rectangle",
+      "name": "Rectangle Actions",
+      "slug": "rectangle-actions",
+      "downloads": 10
+    },
+    {
+      "id": 25678,
+      "key": "com.github.rishabjaiswal.dartassetmanager",
+      "name": "Flutter Asset Viewer",
+      "slug": "flutter-asset-viewer",
+      "downloads": 33
+    },
+    {
+      "id": 25679,
+      "key": "com.github.cichyvx.beginformatter",
+      "name": "BeginFormatter",
+      "slug": "beginformatter",
+      "downloads": 0
+    },
+    {
+      "id": 25680,
+      "key": "dev.timothyw.treegen",
+      "name": "Tree Gen",
+      "slug": "tree-gen",
+      "downloads": 43
+    },
+    {
+      "id": 25681,
+      "key": "sandipchitale.jb-exchange-point-and-mark",
+      "name": "Exchange Selection Start and End",
+      "slug": "exchange-selection-start-and-end",
+      "downloads": 41
+    },
+    {
+      "id": 25683,
+      "key": "Private Test C++ (Catch 2.0) Course 28102024_Maria Ogneva_ObjectiveC",
+      "name": "Private Test C++ (Catch 2.0) Course 28102024",
+      "slug": "private-test-c++-(catch-2.0)-course-28102024",
+      "downloads": 7
+    },
+    {
+      "id": 25684,
+      "key": "ai.hounddog_plugin",
+      "name": "HoundDog.ai",
+      "slug": "hounddog.ai",
+      "downloads": 85
+    },
+    {
+      "id": 25685,
+      "key": "Charts with matplotlib_Kamalia Alisheva_Python",
+      "name": "Bar Chart creation project",
+      "slug": "bar-chart-creation-project",
+      "downloads": 0
+    },
+    {
+      "id": 25686,
+      "key": "Private Test C++ (Catch 2.0) Course 28102024-1_Maria Ogneva_ObjectiveC",
+      "name": "Private Test C++ (Catch 2.0) Course 28102024-1",
+      "slug": "private-test-c++-(catch-2.0)-course-28102024-1",
+      "downloads": 6
+    },
+    {
+      "id": 25687,
+      "key": "com.github.mathism.thecollection",
+      "name": "The Collection",
+      "slug": "the-collection",
+      "downloads": 8
+    },
+    {
+      "id": 25688,
+      "key": "com.pycalc.plugin",
+      "name": "pycalc",
+      "slug": "pycalc",
+      "downloads": 0
+    },
+    {
+      "id": 25691,
+      "key": "org.akazukin.editorBackgroundImage",
+      "name": "Editor Background Image",
+      "slug": "editor-background-image",
+      "downloads": 2
+    },
+    {
+      "id": 25692,
+      "key": "com.cppcxy.Intellij-EmmyLua-CFX",
+      "name": "EmmyLua2-CFX",
+      "slug": "emmylua2-cfx",
+      "downloads": 1
+    },
+    {
+      "id": 25693,
+      "key": "com.goctl.plugin.goctl-helper",
+      "name": "Goctl Helper",
+      "slug": "goctl-helper",
+      "downloads": 33
+    },
+    {
+      "id": 25694,
+      "key": "com.lyh.avalon-tools",
+      "name": "Avalon-Tools",
+      "slug": "avalon-tools",
+      "downloads": 0
+    },
+    {
+      "id": 25695,
+      "key": "com.ttxp.demo",
+      "name": "FluxVersionNumUpdate",
+      "slug": "fluxversionnumupdate",
+      "downloads": 5
+    },
+    {
+      "id": 25696,
+      "key": "com.jitera.plugins.jitera",
+      "name": "Jitera",
+      "slug": "jitera",
+      "downloads": 0
+    },
+    {
+      "id": 25700,
+      "key": "leon.healthReminder",
+      "name": "HealthReminder",
+      "slug": "healthreminder",
+      "downloads": 0
+    },
+    {
+      "id": 25701,
+      "key": "Private Test Kotlin Course 29102024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 29102024",
+      "slug": "private-test-kotlin-course-29102024",
+      "downloads": 3
+    },
+    {
+      "id": 25702,
+      "key": "Private Python Course 29102024_Maria Ogneva_Python",
+      "name": "Private Python Course 29102024",
+      "slug": "private-python-course-29102024",
+      "downloads": 7
+    },
+    {
+      "id": 25704,
+      "key": "org.wenxy.fishcodereview",
+      "name": "AI Code Review Assistant",
+      "slug": "ai-code-review-assistant",
+      "downloads": 0
+    },
+    {
+      "id": 25706,
+      "key": "io.gitee.nn.actibpm",
+      "name": "ActiBPM-Rebuild",
+      "slug": "actibpm-rebuild",
+      "downloads": 5
+    },
+    {
+      "id": 25707,
+      "key": "com.xp.plugin.git-checkout",
+      "name": "Git-Checkout",
+      "slug": "git-checkout",
+      "downloads": 1
+    },
+    {
+      "id": 25708,
+      "key": "com.xiangyun",
+      "name": "XyGit",
+      "slug": "xygit",
+      "downloads": 0
+    },
+    {
+      "id": 25709,
+      "key": "msp-worklog-controller",
+      "name": "MSP Worklog Controller",
+      "slug": "msp-worklog-controller",
+      "downloads": 1
+    },
+    {
+      "id": 25710,
+      "key": "dev.camunda.bpmn-editor",
+      "name": "Camunda BPMN Editor",
+      "slug": "camunda-bpmn-editor",
+      "downloads": 25
+    },
+    {
+      "id": 25711,
+      "key": "com.intellij.rml.dfa.devtools",
+      "name": "Relational Dataflow Analysis (Dev Tools)",
+      "slug": "relational-dataflow-analysis-(dev-tools)",
+      "downloads": 1
+    },
+    {
+      "id": 25712,
+      "key": "com.eagle.focus.android-focus-develop-tool",
+      "name": "Android-focus-develop-tool",
+      "slug": "android-focus-develop-tool",
+      "downloads": 0
+    },
+    {
+      "id": 25713,
+      "key": "myplugin.layeredarchitecturegenerator",
+      "name": "Layered Architecture Generator",
+      "slug": "layered-architecture-generator",
+      "downloads": 2
+    },
+    {
+      "id": 25714,
+      "key": "com.github.cazayus.cmdsupport",
+      "name": "CmdSupport",
+      "slug": "cmdsupport",
+      "downloads": 1
+    },
+    {
+      "id": 25715,
+      "key": "Private Test C++ (Google Test) Course 30102024_Maria Ogneva_ObjectiveC",
+      "name": "Private Test C++ (Google Test) Course 30102024",
+      "slug": "private-test-c++-(google-test)-course-30102024",
+      "downloads": 4
+    },
+    {
+      "id": 25716,
+      "key": "com.alessandro.composepreview.ComposePreviewGenerator",
+      "name": "Compose Preview Generator",
+      "slug": "compose-preview-generator",
+      "downloads": 7
+    },
+    {
+      "id": 25718,
+      "key": "com.github.antonerofeev.linesorterintellijplugin",
+      "name": "Line Sorter",
+      "slug": "line-sorter",
+      "downloads": 0
+    },
+    {
+      "id": 25719,
+      "key": "com.back-to-the-feature",
+      "name": "Back-to-the-Feature",
+      "slug": "back-to-the-feature",
+      "downloads": 8
+    },
+    {
+      "id": 25720,
+      "key": "core-ng-generator-plugin",
+      "name": "Core Ng Generator",
+      "slug": "core-ng-generator",
+      "downloads": 4
+    },
+    {
+      "id": 25721,
+      "key": "color.scheme.Dream_Light",
+      "name": "Dream_Light Color Scheme",
+      "slug": "dream_light-color-scheme",
+      "downloads": 0
+    },
+    {
+      "id": 25722,
+      "key": "color.scheme.Dream_Dark",
+      "name": "Dream_Dark Color Scheme",
+      "slug": "dream_dark-color-scheme",
+      "downloads": 0
+    },
+    {
+      "id": 25724,
+      "key": "com.intellij.jvm.dfa.analysis",
+      "name": "Security Analysis by Qodana",
+      "slug": "security-analysis-by-qodana",
+      "downloads": 0
+    },
+    {
+      "id": 25725,
+      "key": "fleet.voiceControl",
+      "name": "Voice IDE Control",
+      "slug": "voice-ide-control",
+      "downloads": 0
+    },
+    {
+      "id": 25726,
+      "key": "Private Test C# Course 31102024_Maria Ogneva_C#",
+      "name": "Private Test C# Course 31102024",
+      "slug": "private-test-c#-course-31102024",
+      "downloads": 2
+    },
+    {
+      "id": 25727,
+      "key": "com.yawl.vagrant",
+      "name": "Vagrant Icon",
+      "slug": "vagrant-icon",
+      "downloads": 0
+    },
+    {
+      "id": 25728,
+      "key": "woowacourse-java-format",
+      "name": "woowacourse-java-format",
+      "slug": "woowacourse-java-format",
+      "downloads": 0
+    },
+    {
+      "id": 25730,
+      "key": "FluxVersionNumUpdatePre",
+      "name": "FluxVersionNumUpdate",
+      "slug": "fluxversionnumupdate",
+      "downloads": 0
+    },
+    {
+      "id": 25731,
+      "key": "co.fitten.fittencode-beta",
+      "name": "fittencode-te",
+      "slug": "fittencode-te",
+      "downloads": 0
+    },
+    {
+      "id": 25732,
+      "key": "Private Test Kotlin Course 01112024_Maria Firstnovembertest_kotlin",
+      "name": "Private Test Kotlin Course 01112024",
+      "slug": "private-test-kotlin-course-01112024",
+      "downloads": 0
+    },
+    {
+      "id": 25733,
+      "key": "com.youssefmahmoud.pubdevSearch",
+      "name": "Dart Packages Search",
+      "slug": "dart-packages-search",
+      "downloads": 0
+    },
+    {
+      "id": 25734,
+      "key": "com.github.nizienko.notes",
+      "name": "NoteNinja",
+      "slug": "noteninja",
+      "downloads": 0
     }
   ]
 }
