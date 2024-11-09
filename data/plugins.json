@@ -81248,6 +81248,293 @@
       "name": "NoteNinja",
       "slug": "noteninja",
       "downloads": 0
+    },
+    {
+      "id": 25737,
+      "key": "com.samuraism.plugins.backlog",
+      "name": "Backlog Integration",
+      "slug": "backlog-integration",
+      "downloads": 18
+    },
+    {
+      "id": 25738,
+      "key": "com.lczerniawski.BetterComments",
+      "name": "Better Comments",
+      "slug": "better-comments",
+      "downloads": 31
+    },
+    {
+      "id": 25743,
+      "key": "com.github.takanuva15.intellijreduxdevtools",
+      "name": "Redux DevTools",
+      "slug": "redux-devtools",
+      "downloads": 3
+    },
+    {
+      "id": 25744,
+      "key": "caiqichang.mybatisuite",
+      "name": "MyBatiSuite",
+      "slug": "mybatisuite",
+      "downloads": 75
+    },
+    {
+      "id": 25745,
+      "key": "sandipchitale.jb-pathtools",
+      "name": "Pathtools",
+      "slug": "pathtools",
+      "downloads": 1
+    },
+    {
+      "id": 25747,
+      "key": "com.nerdzlab.mvvm-flutter",
+      "name": "Mvvm-Flutter-Nerdzlab",
+      "slug": "mvvm-flutter-nerdzlab",
+      "downloads": 84
+    },
+    {
+      "id": 25748,
+      "key": "com.tasking.winidea",
+      "name": "TASKING winIDEA",
+      "slug": "tasking-winidea",
+      "downloads": 0
+    },
+    {
+      "id": 25749,
+      "key": "ai.latta.tool",
+      "name": "Latta AI",
+      "slug": "latta-ai",
+      "downloads": 0
+    },
+    {
+      "id": 25750,
+      "key": "com.ssafy.codesync",
+      "name": "CodeSync",
+      "slug": "codesync",
+      "downloads": 0
+    },
+    {
+      "id": 25751,
+      "key": "com.xiaolvpuzi.tool.smartinputpro.marketplace",
+      "name": "Smart Input Pro (Marketplace)",
+      "slug": "smart-input-pro-(marketplace)",
+      "downloads": 0
+    },
+    {
+      "id": 25752,
+      "key": "Private Test Kotlin Course 04112024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 04112024",
+      "slug": "private-test-kotlin-course-04112024",
+      "downloads": 0
+    },
+    {
+      "id": 25753,
+      "key": "Private Test Kotlin Course 04112024-1_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 04112024-1",
+      "slug": "private-test-kotlin-course-04112024-1",
+      "downloads": 0
+    },
+    {
+      "id": 25754,
+      "key": "com.tolgagureli.turkish-unicode-converter",
+      "name": "Turkish Unicode Converter",
+      "slug": "turkish-unicode-converter",
+      "downloads": 57
+    },
+    {
+      "id": 25755,
+      "key": "pro.ivanmilev.DrStrange",
+      "name": "Minimalist GPU Monitor",
+      "slug": "minimalist-gpu-monitor",
+      "downloads": 0
+    },
+    {
+      "id": 25756,
+      "key": "com.github.softwarearoma.dartutility",
+      "name": "dartutility",
+      "slug": "dartutility",
+      "downloads": 40
+    },
+    {
+      "id": 25757,
+      "key": "com.neuro.jetbrains",
+      "name": "Neuro",
+      "slug": "neuro",
+      "downloads": 0
+    },
+    {
+      "id": 25758,
+      "key": "com.eugenashka.AutoASD",
+      "name": "AutoASD",
+      "slug": "autoasd",
+      "downloads": 11
+    },
+    {
+      "id": 25759,
+      "key": "com.ppolivka.javadocer",
+      "name": "AI Auto Javadoc Generator",
+      "slug": "ai-auto-javadoc-generator",
+      "downloads": 16
+    },
+    {
+      "id": 25761,
+      "key": "color.scheme.dev_dark",
+      "name": "dev_dark Color Scheme",
+      "slug": "dev_dark-color-scheme",
+      "downloads": 0
+    },
+    {
+      "id": 25762,
+      "key": "com.xiangyun",
+      "name": "XyGit",
+      "slug": "xygit",
+      "downloads": 1
+    },
+    {
+      "id": 25764,
+      "key": "com.project.yamlcrossfilenavigator",
+      "name": "Yaml Cross File Navigator",
+      "slug": "yaml-cross-file-navigator",
+      "downloads": 96
+    },
+    {
+      "id": 25765,
+      "key": "com.takima.shortcut-learner",
+      "name": "Shortcut Learner",
+      "slug": "shortcut-learner",
+      "downloads": 141
+    },
+    {
+      "id": 25766,
+      "key": "pro.respawn.flowmvi.ideplugin",
+      "name": "FlowMVI Debugger",
+      "slug": "flowmvi-debugger",
+      "downloads": 9
+    },
+    {
+      "id": 25767,
+      "key": "ai.asserta.plugin",
+      "name": "Asserta",
+      "slug": "asserta",
+      "downloads": 1
+    },
+    {
+      "id": 25768,
+      "key": "org.cheek.SecretKeeper",
+      "name": "SecretKeeper",
+      "slug": "secretkeeper",
+      "downloads": 6
+    },
+    {
+      "id": 25769,
+      "key": "z.incubator.idea.plugin",
+      "name": "Magical AI",
+      "slug": "magical-ai",
+      "downloads": 2369
+    },
+    {
+      "id": 25771,
+      "key": "ai.codinggpt.plugin",
+      "name": "TuringCoder",
+      "slug": "turingcoder",
+      "downloads": 0
+    },
+    {
+      "id": 25772,
+      "key": "dev.sandipchitale.jb-kubernetes-dashboard",
+      "name": "Kubernetes Dashboard",
+      "slug": "kubernetes-dashboard",
+      "downloads": 114
+    },
+    {
+      "id": 25773,
+      "key": "org.cfn",
+      "name": "JsonToDart Converter",
+      "slug": "jsontodart-converter",
+      "downloads": 5
+    },
+    {
+      "id": 25774,
+      "key": "aaxyat-theme",
+      "name": "aaxyat-theme",
+      "slug": "aaxyat-theme",
+      "downloads": 0
+    },
+    {
+      "id": 25775,
+      "key": "love.forte.plugin.BadAppleTheme",
+      "name": "BadAppleTheme",
+      "slug": "badappletheme",
+      "downloads": 0
+    },
+    {
+      "id": 25776,
+      "key": "com.julienphalip.ideavim.peekaboo",
+      "name": "Vim Peekaboo",
+      "slug": "vim-peekaboo",
+      "downloads": 14
+    },
+    {
+      "id": 25777,
+      "key": "com.bhavishay.autogenerateplugin",
+      "name": "AutoGenerate Package",
+      "slug": "autogenerate-package",
+      "downloads": 0
+    },
+    {
+      "id": 25778,
+      "key": "ovh.fedox.ntr",
+      "name": "NativeTranslate Resource (.NTR)",
+      "slug": "nativetranslate-resource-(.ntr)",
+      "downloads": 11
+    },
+    {
+      "id": 25780,
+      "key": "FluxVersionNumUpdate2.0",
+      "name": "FluxVersionNumUpdate",
+      "slug": "fluxversionnumupdate",
+      "downloads": 0
+    },
+    {
+      "id": 25782,
+      "key": "com.github.com.cakevm.intellij_huff_plugin",
+      "name": "Huff Language",
+      "slug": "huff-language",
+      "downloads": 0
+    },
+    {
+      "id": 25783,
+      "key": "com.github.ryoochan.acmt",
+      "name": "All-Call Method Tester",
+      "slug": "all-call-method-tester",
+      "downloads": 0
+    },
+    {
+      "id": 25784,
+      "key": "tech.codemajesty.ai-file-format",
+      "name": "AI File Format Generator",
+      "slug": "ai-file-format-generator",
+      "downloads": 0
+    },
+    {
+      "id": 25785,
+      "key": "com.alan.plugin.projectautocustomconfig",
+      "name": "projectAutoCustomConfig",
+      "slug": "projectautocustomconfig",
+      "downloads": 0
+    },
+    {
+      "id": 25786,
+      "key": "com.github.hadywalied.zakker",
+      "name": "Zakker",
+      "slug": "zakker",
+      "downloads": 0
+    },
+    {
+      "id": 25787,
+      "key": "diagramm-editor",
+      "name": "Diagramm Editor",
+      "slug": "diagramm-editor",
+      "downloads": 0
     }
   ]
 }
