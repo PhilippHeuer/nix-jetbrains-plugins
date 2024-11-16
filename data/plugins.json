@@ -81535,6 +81535,342 @@
       "name": "Diagramm Editor",
       "slug": "diagramm-editor",
       "downloads": 0
+    },
+    {
+      "id": 25788,
+      "key": "me.datafox.dfxengine.handles-intellij-plugin",
+      "name": "DFXEngine Handles",
+      "slug": "dfxengine-handles",
+      "downloads": 9
+    },
+    {
+      "id": 25789,
+      "key": "com.github.orange-guo.fill-kotlin-arguments",
+      "name": "Fill Kotlin Arguments",
+      "slug": "fill-kotlin-arguments",
+      "downloads": 6
+    },
+    {
+      "id": 25790,
+      "key": "rs.devlabs.maven-project-info",
+      "name": "Maven Project Info",
+      "slug": "maven-project-info",
+      "downloads": 24
+    },
+    {
+      "id": 25792,
+      "key": "com.github.kam1k4dze.kaijuPycharmPlugin",
+      "name": "Kaiju",
+      "slug": "kaiju",
+      "downloads": 10
+    },
+    {
+      "id": 25793,
+      "key": "com.github.jdha.brackets",
+      "name": "brackets",
+      "slug": "brackets",
+      "downloads": 14
+    },
+    {
+      "id": 25794,
+      "key": "com.liubs.visualclassbytes",
+      "name": "VisualClassBytes",
+      "slug": "visualclassbytes",
+      "downloads": 50
+    },
+    {
+      "id": 25795,
+      "key": "com.easy.code.stat",
+      "name": "Easy Code Statistics",
+      "slug": "easy-code-statistics",
+      "downloads": 14
+    },
+    {
+      "id": 25796,
+      "key": "cn.sp.CodeFaster",
+      "name": "CodeFaster",
+      "slug": "codefaster",
+      "downloads": 29
+    },
+    {
+      "id": 25797,
+      "key": "com.github.ryoochan.acmt",
+      "name": "All-Call Method Tester",
+      "slug": "all-call-method-tester",
+      "downloads": 11
+    },
+    {
+      "id": 25798,
+      "key": "TypeSpec",
+      "name": "TypeSpec",
+      "slug": "typespec",
+      "downloads": 71
+    },
+    {
+      "id": 25800,
+      "key": "m.client.ide.morpheus",
+      "name": "Morpheus",
+      "slug": "morpheus",
+      "downloads": 16
+    },
+    {
+      "id": 25801,
+      "key": "com.burton.plugin",
+      "name": "mst-b-code-generate",
+      "slug": "mst-b-code-generate",
+      "downloads": 9
+    },
+    {
+      "id": 25804,
+      "key": "com.tfx.jspo",
+      "name": "jspo",
+      "slug": "jspo",
+      "downloads": 1
+    },
+    {
+      "id": 25805,
+      "key": "Data Structures and Algorithms (Java)_College of Computing_JAVA",
+      "name": "Data Structures and Algorithms (Java)",
+      "slug": "data-structures-and-algorithms-(java)",
+      "downloads": 14
+    },
+    {
+      "id": 25806,
+      "key": "com.github.ptitcoutu.codayinidea",
+      "name": "codayinid",
+      "slug": "codayinid",
+      "downloads": 4
+    },
+    {
+      "id": 25807,
+      "key": "vanstudio.sequence.cpp",
+      "name": "SequenceDiagram C/C++",
+      "slug": "sequencediagram-c/c++",
+      "downloads": 13
+    },
+    {
+      "id": 25808,
+      "key": "coocoogame.com.et-tool",
+      "name": "ET_Tool",
+      "slug": "et_tool",
+      "downloads": 0
+    },
+    {
+      "id": 25810,
+      "key": "com.ai.dev.tools.languagePack.tw",
+      "name": "Traditional Chinese Language Pack / IDE \u672c\u5730\u5316\u70ba\u7e41\u9ad4\u4e2d\u6587",
+      "slug": "traditional-chinese-language-pack-/-ide-\u672c\u5730\u5316\u70ba\u7e41\u9ad4\u4e2d\u6587",
+      "downloads": 28
+    },
+    {
+      "id": 25811,
+      "key": "com.ai.dev.tools.languagePack.cs",
+      "name": "Czech Language Pack / Lokalizace IDE Do \u010ce\u0161tiny",
+      "slug": "czech-language-pack-/-lokalizace-ide-do-\u010de\u0161tiny",
+      "downloads": 6
+    },
+    {
+      "id": 25812,
+      "key": "com.ai.dev.tools.languagePack.pl",
+      "name": "Polish Language Pack / Lokalizacja IDE Na J\u0119zyk Polski",
+      "slug": "polish-language-pack-/-lokalizacja-ide-na-j\u0119zyk-polski",
+      "downloads": 8
+    },
+    {
+      "id": 25813,
+      "key": "com.ai.dev.tools.languagePack.tr",
+      "name": "Turkish Language Pack / IDE'nin T\u00fcrk\u00e7e'ye Yerelle\u015ftirilmesi",
+      "slug": "turkish-language-pack-/-ide'nin-t\u00fcrk\u00e7e'ye-yerelle\u015ftirilmesi",
+      "downloads": 8
+    },
+    {
+      "id": 25814,
+      "key": "com.ai.dev.tools.languagePack.hu",
+      "name": "Hungarian Language Pack / Magyar Nyelvi Csomag",
+      "slug": "hungarian-language-pack-/-magyar-nyelvi-csomag",
+      "downloads": 5
+    },
+    {
+      "id": 25815,
+      "key": "app.productlaw.plugin",
+      "name": "Product Law",
+      "slug": "product-law",
+      "downloads": 0
+    },
+    {
+      "id": 25817,
+      "key": "com.github.cashanevm.aiplugin",
+      "name": "Simple-AI",
+      "slug": "simple-ai",
+      "downloads": 2
+    },
+    {
+      "id": 25819,
+      "key": "com.github.byshy.flutterassistant",
+      "name": "Flutter Assistant",
+      "slug": "flutter-assistant",
+      "downloads": 13
+    },
+    {
+      "id": 25820,
+      "key": "ir.mohsenafshar.toolkits.jetbrains.KotlinDataMapper",
+      "name": "Kotlin Data Mapper",
+      "slug": "kotlin-data-mapper",
+      "downloads": 3
+    },
+    {
+      "id": 25822,
+      "key": "com.unihaoui.ai.committer",
+      "name": "Cortex AI Commit | Claude Powered",
+      "slug": "cortex-ai-commit-|-claude-powered",
+      "downloads": 3
+    },
+    {
+      "id": 25823,
+      "key": "com.ruijie.feinfrastructure.aicopilot",
+      "name": "DevCopilot",
+      "slug": "devcopilot",
+      "downloads": 0
+    },
+    {
+      "id": 25824,
+      "key": "com.lyh.avalon-tools",
+      "name": "Avalon-Tools",
+      "slug": "avalon-tools",
+      "downloads": 4
+    },
+    {
+      "id": 25825,
+      "key": "com.zll.search-all",
+      "name": "Search All",
+      "slug": "search-all",
+      "downloads": 0
+    },
+    {
+      "id": 25828,
+      "key": "com.weirddev.log",
+      "name": ".log",
+      "slug": ".log",
+      "downloads": 0
+    },
+    {
+      "id": 25829,
+      "key": "com.github.pray.fff",
+      "name": "Merge To Target Branch",
+      "slug": "merge-to-target-branch",
+      "downloads": 2
+    },
+    {
+      "id": 25830,
+      "key": "cn.bughub.dev-box",
+      "name": "DevBox",
+      "slug": "devbox",
+      "downloads": 0
+    },
+    {
+      "id": 25832,
+      "key": "com.creappi.org.bloc_dart_mono_state.bloc_dart_mono_state",
+      "name": "Generate BLoC Dart Mono State and Page Stateless",
+      "slug": "generate-bloc-dart-mono-state-and-page-stateless",
+      "downloads": 25
+    },
+    {
+      "id": 25833,
+      "key": "io.github.fdietze.sabuni",
+      "name": "Sabuni Color Scheme",
+      "slug": "sabuni-color-scheme",
+      "downloads": 17
+    },
+    {
+      "id": 25836,
+      "key": "com.artena.llm.ide.koboldij",
+      "name": "KoboldIJ",
+      "slug": "koboldij",
+      "downloads": 0
+    },
+    {
+      "id": 25837,
+      "key": "com.tsvetilian.intellijproxyswitcher",
+      "name": "Proxy Switcher",
+      "slug": "proxy-switcher",
+      "downloads": 0
+    },
+    {
+      "id": 25841,
+      "key": "baby.mumu.plugin",
+      "name": "MuMu",
+      "slug": "mumu",
+      "downloads": 0
+    },
+    {
+      "id": 25842,
+      "key": "com.teamide.maker",
+      "name": "CodeMaker",
+      "slug": "codemaker",
+      "downloads": 0
+    },
+    {
+      "id": 25843,
+      "key": "com.yonyou.YonbipPlugin",
+      "name": "yonbip-git-tool",
+      "slug": "yonbip-git-tool",
+      "downloads": 0
+    },
+    {
+      "id": 25844,
+      "key": "com.go.plugin.kratos-helper",
+      "name": "Kratos Helper",
+      "slug": "kratos-helper",
+      "downloads": 0
+    },
+    {
+      "id": 25845,
+      "key": "com.github.ugdot.plugins",
+      "name": "Commit Changes Exporter",
+      "slug": "commit-changes-exporter",
+      "downloads": 0
+    },
+    {
+      "id": 25846,
+      "key": "com.interlacekit.jetbrains",
+      "name": "InterlaceKit",
+      "slug": "interlacekit",
+      "downloads": 0
+    },
+    {
+      "id": 25847,
+      "key": "com.github.kyrylr.intellijcircom",
+      "name": "intellij-circom",
+      "slug": "intellij-circom",
+      "downloads": 0
+    },
+    {
+      "id": 25848,
+      "key": "code-light-theme",
+      "name": "code-light-theme",
+      "slug": "code-light-theme",
+      "downloads": 0
+    },
+    {
+      "id": 25849,
+      "key": "com.wahid.GenArch",
+      "name": "GenArch",
+      "slug": "genarch",
+      "downloads": 0
+    },
+    {
+      "id": 25850,
+      "key": "jp.s6n.idea.typespec",
+      "name": "TypeSpec",
+      "slug": "typespec",
+      "downloads": 0
+    },
+    {
+      "id": 25853,
+      "key": "com.pengfei.li.gitredminejump",
+      "name": "Git Redmine Jump",
+      "slug": "git-redmine-jump",
+      "downloads": 0
     }
   ]
 }
