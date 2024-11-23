@@ -81871,6 +81871,349 @@
       "name": "Git Redmine Jump",
       "slug": "git-redmine-jump",
       "downloads": 0
+    },
+    {
+      "id": 25854,
+      "key": "com.pengfei.li.gitredminejump",
+      "name": "Git Redmine Jump",
+      "slug": "git-redmine-jump",
+      "downloads": 2
+    },
+    {
+      "id": 25855,
+      "key": "com.github.jsw6701.devplugin",
+      "name": "Entity to DTO Converter",
+      "slug": "entity-to-dto-converter",
+      "downloads": 26
+    },
+    {
+      "id": 25856,
+      "key": "com.larseckart.builder",
+      "name": "Effective Java Builder",
+      "slug": "effective-java-builder",
+      "downloads": 14
+    },
+    {
+      "id": 25857,
+      "key": "com.github.mucahitkayadan.envmasker",
+      "name": "Env File Masker",
+      "slug": "env-file-masker",
+      "downloads": 111
+    },
+    {
+      "id": 25858,
+      "key": "org.chiga17.Marker",
+      "name": "Marker",
+      "slug": "marker",
+      "downloads": 7
+    },
+    {
+      "id": 25859,
+      "key": "com.github.deeepamin.gitlabciaid",
+      "name": "Gitlab CI Aid",
+      "slug": "gitlab-ci-aid",
+      "downloads": 87
+    },
+    {
+      "id": 25860,
+      "key": "com.yiwei.plugins",
+      "name": "QuickCreate",
+      "slug": "quickcreate",
+      "downloads": 34
+    },
+    {
+      "id": 25861,
+      "key": "com.supporter.prj.expGitFilePrj",
+      "name": "ExpGitFilePrj",
+      "slug": "expgitfileprj",
+      "downloads": 0
+    },
+    {
+      "id": 25863,
+      "key": "io.github.wzs.code.gen",
+      "name": "Code Factory - Your Mybatis Code Generator",
+      "slug": "code-factory---your-mybatis-code-generator",
+      "downloads": 4782
+    },
+    {
+      "id": 25866,
+      "key": "com.dmitrysamoylenko.zeusthunderbolt",
+      "name": "Zeus Thunderbolt",
+      "slug": "zeus-thunderbolt",
+      "downloads": 134
+    },
+    {
+      "id": 25867,
+      "key": "marseille-progressbar",
+      "name": "Marseille Progress Bar",
+      "slug": "marseille-progress-bar",
+      "downloads": 0
+    },
+    {
+      "id": 25868,
+      "key": "dev.sandipchitale.jb-multi-clipboard",
+      "name": "Paste From System Clipboard History",
+      "slug": "paste-from-system-clipboard-history",
+      "downloads": 83
+    },
+    {
+      "id": 25869,
+      "key": "org.byaicodereview.ai_cr_plugin",
+      "name": "By AI Code Review",
+      "slug": "by-ai-code-review",
+      "downloads": 50
+    },
+    {
+      "id": 25870,
+      "key": "id.devcert.plugin",
+      "name": "dev.cert Program Certification",
+      "slug": "dev.cert-program-certification",
+      "downloads": 0
+    },
+    {
+      "id": 25871,
+      "key": "com.creappi.org.dart_class_and_repositories.dart_class_and_repositories",
+      "name": "Dart_class_and_repositories",
+      "slug": "dart_class_and_repositories",
+      "downloads": 11
+    },
+    {
+      "id": 25872,
+      "key": "ReSharperPlugin.Mews.Dx.Metrics",
+      "name": "Mews.Dx.Metrics",
+      "slug": "mews.dx.metrics",
+      "downloads": 0
+    },
+    {
+      "id": 25873,
+      "key": "rs.devlabs.gradle-project-info",
+      "name": "Gradle Project Info",
+      "slug": "gradle-project-info",
+      "downloads": 57
+    },
+    {
+      "id": 25874,
+      "key": "com.github.natank25.epitechutils",
+      "name": "Epitech-Utils",
+      "slug": "epitech-utils",
+      "downloads": 0
+    },
+    {
+      "id": 25875,
+      "key": "com.oigx.lookmu",
+      "name": "Look Mu",
+      "slug": "look-mu",
+      "downloads": 0
+    },
+    {
+      "id": 25876,
+      "key": "SukhTheme",
+      "name": "SukhTheme",
+      "slug": "sukhtheme",
+      "downloads": 0
+    },
+    {
+      "id": 25878,
+      "key": "com.go.plugin.hertz-helper",
+      "name": "Hertz Helper",
+      "slug": "hertz-helper",
+      "downloads": 1
+    },
+    {
+      "id": 25879,
+      "key": "Carbon.AbpInsight",
+      "name": "Abp Insight",
+      "slug": "abp-insight",
+      "downloads": 7
+    },
+    {
+      "id": 25881,
+      "key": "Private Test Python Course 19112024_Maria Ogneva_Python",
+      "name": "Private Test Python Course 19112024",
+      "slug": "private-test-python-course-19112024",
+      "downloads": 6
+    },
+    {
+      "id": 25882,
+      "key": "Python Course 19112024-1_Maria Ogneva_Python",
+      "name": "Python Course 19112024-1",
+      "slug": "python-course-19112024-1",
+      "downloads": 3
+    },
+    {
+      "id": 25883,
+      "key": "com.dangersoft.codevisualization",
+      "name": "Codevisualization",
+      "slug": "codevisualization",
+      "downloads": 2
+    },
+    {
+      "id": 25884,
+      "key": "com.basarozcan.easyconsolelogger",
+      "name": "Easy Console Logger",
+      "slug": "easy-console-logger",
+      "downloads": 8
+    },
+    {
+      "id": 25885,
+      "key": "com.breakpoint.BreakpointSwitcher",
+      "name": "BreakpointSwitcher",
+      "slug": "breakpointswitcher",
+      "downloads": 21
+    },
+    {
+      "id": 25886,
+      "key": "com.github.mohamead.copy.to.jira.plugin",
+      "name": "Copy 2 Jira",
+      "slug": "copy-2-jira",
+      "downloads": 8
+    },
+    {
+      "id": 25887,
+      "key": "dev.honkanen.vagrantfile-support",
+      "name": "Vagrantfile Support",
+      "slug": "vagrantfile-support",
+      "downloads": 7
+    },
+    {
+      "id": 25888,
+      "key": "works.szabope.mypy",
+      "name": "MyPy",
+      "slug": "mypy",
+      "downloads": 0
+    },
+    {
+      "id": 25889,
+      "key": "com.x-generator",
+      "name": "X-Generator",
+      "slug": "x-generator",
+      "downloads": 1
+    },
+    {
+      "id": 25890,
+      "key": "com.tencentmeeting.AutoGenMeetingBackTestCasebyAi",
+      "name": "AutoGenMeetingBackTestCasebyAi",
+      "slug": "autogenmeetingbacktestcasebyai",
+      "downloads": 0
+    },
+    {
+      "id": 25891,
+      "key": "im.monica.code.jetbrains.extension",
+      "name": "Monica Code",
+      "slug": "monica-code",
+      "downloads": 113
+    },
+    {
+      "id": 25892,
+      "key": "net.xprogrammer.yudao.ide",
+      "name": "YuDao IDE",
+      "slug": "yudao-ide",
+      "downloads": 0
+    },
+    {
+      "id": 25893,
+      "key": "com.shiqi.simpledemo",
+      "name": "SimpleDemo",
+      "slug": "simpledemo",
+      "downloads": 0
+    },
+    {
+      "id": 25895,
+      "key": "dev.pnbarxAndTalos0248.idea.treecolor",
+      "name": "ProjectTree Color Highlighter PATCHED",
+      "slug": "projecttree-color-highlighter-patched",
+      "downloads": 56
+    },
+    {
+      "id": 25896,
+      "key": "com.base64file.idea_plugin",
+      "name": "Base64 File",
+      "slug": "base64-file",
+      "downloads": 0
+    },
+    {
+      "id": 25897,
+      "key": "com.julienphalip.ideavim.functiontextobj",
+      "name": "Vim FunctionTextObj",
+      "slug": "vim-functiontextobj",
+      "downloads": 11
+    },
+    {
+      "id": 25898,
+      "key": "dev.sandipchitale.jb-docker-dive",
+      "name": "Docker Dive",
+      "slug": "docker-dive",
+      "downloads": 22
+    },
+    {
+      "id": 25899,
+      "key": "com.julienphalip.ideavim.switch",
+      "name": "Vim Switch",
+      "slug": "vim-switch",
+      "downloads": 15
+    },
+    {
+      "id": 25902,
+      "key": "me.vladsmirnov.ftoai",
+      "name": "FTOAI: Files To AI Prompt",
+      "slug": "ftoai:-files-to-ai-prompt",
+      "downloads": 51
+    },
+    {
+      "id": 25903,
+      "key": "com.px.px2vh",
+      "name": "Px2vh",
+      "slug": "px2vh",
+      "downloads": 0
+    },
+    {
+      "id": 25904,
+      "key": "com.padya.step-builder",
+      "name": "Step-Builder",
+      "slug": "step-builder",
+      "downloads": 2
+    },
+    {
+      "id": 25905,
+      "key": "com.github.kyrylr.circom",
+      "name": "Circom",
+      "slug": "circom",
+      "downloads": 3
+    },
+    {
+      "id": 25906,
+      "key": "com.dmcwll.vb.just-demo",
+      "name": "just-demo",
+      "slug": "just-demo",
+      "downloads": 0
+    },
+    {
+      "id": 25907,
+      "key": "com.plugin.jh.jhLogger",
+      "name": "JhLogger",
+      "slug": "jhlogger",
+      "downloads": 0
+    },
+    {
+      "id": 25908,
+      "key": "com.lin.plugin.fish.reader",
+      "name": "Fish Reader",
+      "slug": "fish-reader",
+      "downloads": 0
+    },
+    {
+      "id": 25909,
+      "key": "org.threeform.idea.plugins.zen_editor",
+      "name": "Zen Editor",
+      "slug": "zen-editor",
+      "downloads": 0
+    },
+    {
+      "id": 25910,
+      "key": "subtle_book",
+      "name": "subtle_book",
+      "slug": "subtle_book",
+      "downloads": 0
     }
   ]
 }
