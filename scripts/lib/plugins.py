@@ -6,7 +6,7 @@ from pathlib import Path
 from requests import get
 
 
-PLUGINS_LIST = Path(__file__).parent.parent.joinpath("./data/plugins.json").resolve()
+PLUGINS_LIST = Path(__file__).parent.parent.joinpath("../data/plugins.json").resolve()
 
 
 def read_plugins_config() -> list[dict]:
@@ -45,16 +45,3 @@ def get_plugin_updates(pid: str, channel: str) -> dict:
         raise Exception(f"Server gave non-200 code {resp.status_code} with message " + decoded["message"])
 
     return decoded
-
-
-def serialize_to_file(data, filename):
-    with open(filename, 'w') as file:
-        file.write(json.dumps(data, indent=2))
-        file.write("\n")
-
-
-def deserialize_from_file(filename):
-    if os.path.exists(filename):
-        with open(filename, 'r') as file:
-            return json.load(file)
-    return None

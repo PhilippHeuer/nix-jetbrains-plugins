@@ -6,7 +6,7 @@
 
 from argparse import ArgumentParser
 import logging
-from common import read_plugins_config, write_plugins_config, get_plugin_info
+from lib.plugins import read_plugins_config, write_plugins_config, get_plugin_info
 
 
 def main():
@@ -41,7 +41,7 @@ def main():
         })
       except Exception as e:
         logging.error(f"failed to add plugin {pluginId}: {e}")
-    
+
     if pluginId % 100 == 0:
       write_plugins_config(plugins)
 

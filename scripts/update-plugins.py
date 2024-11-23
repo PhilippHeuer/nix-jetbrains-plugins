@@ -9,8 +9,9 @@ import os
 from pathlib import Path
 from requests import get
 from argparse import ArgumentParser
-from common import read_plugins_config, get_plugin_info, get_plugin_updates, serialize_to_file, deserialize_from_file
-from nixpkgslib import get_hash, get_nixpkgs_ides_versions, get_ide_versions, print_file_diff, pick_newest, is_compatible
+from lib.plugins import read_plugins_config, get_plugin_info, get_plugin_updates
+from lib.nixpkgslib import get_hash, read_nixpkgs_ide_versions, print_file_diff, pick_newest, is_compatible
+from lib.util import serialize_to_file, deserialize_from_file
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import logging
 
@@ -18,8 +19,7 @@ import logging
 CONCURRENCY = 25
 PLUGINS_LIST = Path(__file__).parent.parent.joinpath("./data/plugins.json").resolve()
 PLUGINS_FILE = Path(__file__).parent.parent.joinpath("./data/cache/plugins-latest.json").resolve()
-NIXPKGS_IDES_FILE = Path(__file__).parent.parent.joinpath("./data/cache/nixpkgs-ides-latest.json").resolve()
-NIXOS_IDES_FILE = Path(__file__).parent.parent.joinpath("./data/cache/nixos-ides-latest.json").resolve()
+IDE_VERSIONS_FILE = Path(__file__).parent.parent.joinpath("./data/ide-version.json").resolve()
 FLAKE_LOCK_FILE = Path(__file__).parent.parent.joinpath("./flake.lock").resolve()
 
 # The plugin compatibility system uses a different naming scheme to the ide update system.
@@ -143,22 +143,6 @@ def get_file_hashes(file_list: list[str], old_hashes: dict[str, str], refetch_al
     return file_hashes
 
 
-def get_args() -> tuple[list[str], list[str], bool, bool, list[str]]:
-    parser = ArgumentParser(
-        description="Add/remove/update entries in plugins.json",
-        epilog="To update all plugins, run with no args.\n"
-               "To add a version of a plugin from a different channel, append -[channel] to the id.\n"
-               "The id of a plugin is the number before the name in the address of its page on https://plugins.jetbrains.com/"
-    )
-    parser.add_argument("-r", "--refetch-all", action="store_true",
-                        help="don't use previously collected hashes, redownload all")
-    parser.add_argument("-w", "--with-build", action="append", default=[],
-                        help="append [builds] to the list of builds to fetch plugin versions for")
-    args = parser.parse_args()
-
-    return args.refetch_all, args.with_build
-
-
 def get_file_names(plugins: dict[str, dict]) -> list[str]:
     result = []
     for plugin_info in plugins.values():
@@ -173,7 +157,7 @@ def get_file_names(plugins: dict[str, dict]) -> list[str]:
 
 
 def get_plugin_info(plugin):
-    plugin_id = plugin["id"]  
+    plugin_id = plugin["id"]
     plugin_channel = plugin.get("channel", "")
 
     try:
@@ -212,26 +196,40 @@ def process_chunk(result: dict, plugins, chunk, ide_versions, extra_builds, refe
 
 
 def main():
-    refetch_all, extra_builds = get_args()
+    # argument parsing
+    parser = ArgumentParser(
+        description="Add/remove/update entries in plugins.json",
+        epilog="To update all plugins, run with no args.\n"
+               "To add a version of a plugin from a different channel, append -[channel] to the id.\n"
+               "The id of a plugin is the number before the name in the address of its page on https://plugins.jetbrains.com/"
+    )
+    parser.add_argument("-r", "--refetch-all", action="store_true",
+                        help="don't use previously collected hashes, redownload all")
+    parser.add_argument("-w", "--with-build", action="append", default=[],
+                        help="append [builds] to the list of builds to fetch plugin versions for")
+    parser.add_argument("-s", "--chunk-size", type=int, default=250, help="number of plugins to process per chunk")
+    args = parser.parse_args()
+
+    # open current plugins
     result = deserialize_from_file(PLUGINS_FILE)
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-    logging.info("Downloading IDE versions from nixpkgs")
-    get_nixpkgs_ides_versions()
-
+    # get plugins list
     logging.info(f"Loading plugins from config")
     plugins = read_plugins_config()
 
+    # get ide versions for compatibility
     logging.info(f"Query IDEs for plugin compatibility")
-    ide_versions = get_ide_versions()
+    ide_versions = read_nixpkgs_ide_versions(IDE_VERSIONS_FILE)
+    logging.info("ide versions: " + str(ide_versions))
 
     # process plugins in chunks to avoid losing all progress on a crash
-    CHUNK_SIZE=250
-    logging.info(f"Processing {len(plugins)} plugins in {len(plugins) // CHUNK_SIZE + 1} chunks")
-    for i in range(0, len(plugins), CHUNK_SIZE):
-        logging.info(f"Processing plugins {i} to {i + CHUNK_SIZE}")
-        chunk = plugins[i:i + CHUNK_SIZE]
-        result = process_chunk(result, plugins, chunk, ide_versions, extra_builds, refetch_all)
+    chunk_size=args.chunk_size
+    logging.info(f"Processing {len(plugins)} plugins in {len(plugins) // chunk_size + 1} chunks")
+    for i in range(0, len(plugins), chunk_size):
+        logging.info(f"Processing plugins {i} to {i + chunk_size}")
+        chunk = plugins[i:i + chunk_size]
+        result = process_chunk(result, plugins, chunk, ide_versions, args.with_build, args.refetch_all)
 
         # save progress
         logging.info("Writing progress to file")

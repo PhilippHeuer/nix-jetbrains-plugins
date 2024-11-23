@@ -9,12 +9,11 @@ from json import load
 from pathlib import Path
 from subprocess import run
 from requests import get
+from lib.util import serialize_to_file, deserialize_from_file
 
 
-NIXPKGS_IDES_FILE = Path(__file__).parent.parent.joinpath("./data/cache/nixpkgs-ides-latest.json").resolve()
-NIXOS_IDES_FILE = Path(__file__).parent.parent.joinpath("./data/cache/nixos-ides-latest.json").resolve()
-MASTER_IDES_FILE = Path(__file__).parent.parent.joinpath("./data/cache/master-ides-latest.json").resolve()
-FLAKE_LOCK_FILE = Path(__file__).parent.parent.joinpath("./flake.lock").resolve()
+IDE_VERSIONS_FILE = Path(__file__).parent.parent.joinpath("../data/ide-version.json").resolve()
+FLAKE_LOCK_FILE = Path(__file__).parent.parent.joinpath("../flake.lock").resolve()
 
 # Token priorities for version checking
 # From https://github.com/JetBrains/intellij-community/blob/94f40c5d77f60af16550f6f78d481aaff8deaca4/platform/util-rt/src/com/intellij/util/text/VersionComparatorUtil.java#L50
@@ -53,52 +52,55 @@ def get_hash(url):
     return result_contents
 
 
-def get_nixpkgs_ides_versions():
-    rev = load(open(FLAKE_LOCK_FILE))["nodes"]["nixpkgs"]["locked"]["rev"]
-    url = f"https://raw.githubusercontent.com/NixOS/nixpkgs/{rev}/pkgs/applications/editors/jetbrains/bin/versions.json"
-    resp = get(url)
-    if resp.status_code != 200:
-        print(f"Server gave non-200 code {resp.status_code} with message " + resp.text)
-        exit(1)
-    with open(NIXPKGS_IDES_FILE, "w") as file:
-        file.write(resp.text)
-
-    rev = load(open(FLAKE_LOCK_FILE))["nodes"]["nixos-unstable"]["locked"]["rev"]
-    url = f"https://raw.githubusercontent.com/NixOS/nixpkgs/{rev}/pkgs/applications/editors/jetbrains/bin/versions.json"
-    resp = get(url)
-    if resp.status_code != 200:
-        print(f"Server gave non-200 code {resp.status_code} with message " + resp.text)
-        exit(1)
-    with open(NIXOS_IDES_FILE, "w") as file:
-        file.write(resp.text)
-
-    rev = load(open(FLAKE_LOCK_FILE))["nodes"]["nixos-master"]["locked"]["rev"]
-    url = f"https://raw.githubusercontent.com/NixOS/nixpkgs/{rev}/pkgs/applications/editors/jetbrains/bin/versions.json"
-    resp = get(url)
-    if resp.status_code != 200:
-        print(f"Server gave non-200 code {resp.status_code} with message " + resp.text)
-        exit(1)
-    with open(MASTER_IDES_FILE, "w") as file:
-        file.write(resp.text)
-
-
-def get_ide_versions() -> dict:
+def fetch_nixpkgs_ide_versions(flake_inputs):
+    flake_lock = load(open(FLAKE_LOCK_FILE))
     result = {}
 
-    for file_path in [NIXPKGS_IDES_FILE, NIXOS_IDES_FILE, MASTER_IDES_FILE]:
-        ide_data = load(open(file_path))
+    for input in flake_inputs:
+        rev = flake_lock["nodes"][input]["locked"]["rev"]
+        url = f"https://raw.githubusercontent.com/NixOS/nixpkgs/{rev}/pkgs/applications/editors/jetbrains/bin/versions.json"
+        resp = get(url)
+        if resp.status_code != 200:
+            print(f"Failed to fetch from {url}. Code: {resp.status_code}, Message: {resp.text}")
+            exit(1)
+
+        # parse json
+        ide_data = resp.json()
+
+        # append to result
         for platform in ide_data:
-            for product in ide_data[platform]:
-                version = ide_data[platform][product]["build_number"]
+            for product, details in ide_data[platform].items():
+                if product == "gateway": # gateway isn't a normal IDE, so it doesn't use the same plugins system
+                    continue
+
+                version = details["build_number"]
                 if product not in result:
                     result[product] = [version]
                 elif version not in result[product]:
                     result[product].append(version)
 
-    # Gateway isn't a normal IDE, so it doesn't use the same plugins system
-    del result["gateway"]
-
     return result
+
+
+def merge_nixpkgs_ide_versions(file, result):
+    current_data = deserialize_from_file(file)
+
+    for product, new_versions in result.items():
+        if product not in current_data:
+            current_data[product] = new_versions
+        else:
+            current_versions = set(current_data[product])
+            current_data[product].extend(v for v in new_versions if v not in current_versions)
+
+    for product in current_data:
+        current_data[product] = sorted(current_data[product])
+
+    serialize_to_file(current_data, file)
+
+
+def read_nixpkgs_ide_versions(file):
+    current_data = deserialize_from_file(file)
+    return current_data
 
 
 def print_file_diff(old, new):
