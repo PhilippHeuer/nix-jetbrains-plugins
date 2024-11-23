@@ -20,7 +20,7 @@ def main():
   logging.info("adding missing plugins to plugins.json")
   plugins = read_plugins_config()
 
-  pluginIdRange = args.pluginIds if args.pluginIds else range(24000, 26001)
+  pluginIdRange = args.pluginIds if args.pluginIds else range(24000, 26499)
   for pluginId in pluginIdRange:
     if not any(p["id"] == pluginId for p in plugins):
       try:

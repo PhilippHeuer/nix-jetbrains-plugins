@@ -4,12 +4,10 @@
 # This script updates the plugins plugins-latest.json with all plugins provided in the plugins.json config.
 
 
-from json import load
-import os
 from pathlib import Path
 from requests import get
 from argparse import ArgumentParser
-from lib.plugins import read_plugins_config, get_plugin_info, get_plugin_updates
+from lib.plugins import read_plugins_config, get_plugin_updates
 from lib.nixpkgslib import get_hash, read_nixpkgs_ide_versions, print_file_diff, pick_newest, is_compatible
 from lib.util import serialize_to_file, deserialize_from_file
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -52,9 +50,9 @@ def get_newest_compatible(pid: str, build: str, plugin_infos: dict) -> [None, st
 
     if newest_ver is not None:
         return "https://plugins.jetbrains.com/files/" + plugin_infos[newest_index]["file"]
-    else:
-        logging.debug(f"Could not find version of plugin {pid} compatible with build {build}")
-        return None
+
+    logging.debug(f"Could not find version of plugin {pid} compatible with build {build}")
+    return None
 
 
 def flatten(main_list: list[list]) -> list:
@@ -215,13 +213,12 @@ def main():
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     # get plugins list
-    logging.info(f"Loading plugins from config")
+    logging.info("Loading plugins from config")
     plugins = read_plugins_config()
 
     # get ide versions for compatibility
-    logging.info(f"Query IDEs for plugin compatibility")
+    logging.info("Query IDEs for plugin compatibility")
     ide_versions = read_nixpkgs_ide_versions(IDE_VERSIONS_FILE)
-    logging.info("ide versions: " + str(ide_versions))
 
     # process plugins in chunks to avoid losing all progress on a crash
     chunk_size=args.chunk_size
