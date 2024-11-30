@@ -10,7 +10,6 @@ from lib.nixpkgslib import fetch_nixpkgs_ide_versions, merge_nixpkgs_ide_version
 
 FLAKE_INPUTS = [
     "nixpkgs",
-    "nixpkgs-next",
     "nixos-unstable",
     "nixos-master"
 ]
