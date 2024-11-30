@@ -82214,6 +82214,321 @@
       "name": "subtle_book",
       "slug": "subtle_book",
       "downloads": 0
+    },
+    {
+      "id": 25911,
+      "key": "Gruvbox-theme",
+      "name": "GruvBox Light/Dark Theme",
+      "slug": "gruvbox-light/dark-theme",
+      "downloads": 15
+    },
+    {
+      "id": 25912,
+      "key": "github.camilesing.flinksqlheler",
+      "name": "Flink SQL Helper",
+      "slug": "flink-sql-helper",
+      "downloads": 2
+    },
+    {
+      "id": 25913,
+      "key": "xyz.mwszksnmdys.demo-plugin",
+      "name": "JasyptTool",
+      "slug": "jasypttool",
+      "downloads": 38
+    },
+    {
+      "id": 25915,
+      "key": "com.intlimit.grsplugin",
+      "name": "GroovyScript",
+      "slug": "groovyscript",
+      "downloads": 75
+    },
+    {
+      "id": 25916,
+      "key": "com.bytegatherer.jsonplusyaml",
+      "name": "Json-Plus-Yaml",
+      "slug": "json-plus-yaml",
+      "downloads": 14
+    },
+    {
+      "id": 25917,
+      "key": "com.cobr.QuickADB",
+      "name": "ezADB",
+      "slug": "ezadb",
+      "downloads": 49
+    },
+    {
+      "id": 25918,
+      "key": "resharper_MyDy",
+      "name": "MyDy",
+      "slug": "mydy",
+      "downloads": 0
+    },
+    {
+      "id": 25919,
+      "key": "better-backlog",
+      "name": "Better Backlog",
+      "slug": "better-backlog",
+      "downloads": 1
+    },
+    {
+      "id": 25920,
+      "key": "com.tfx.jspo",
+      "name": "jspo",
+      "slug": "jspo",
+      "downloads": 0
+    },
+    {
+      "id": 25921,
+      "key": "jqassistant",
+      "name": "jQAssistant Support",
+      "slug": "jqassistant-support",
+      "downloads": 7
+    },
+    {
+      "id": 25922,
+      "key": "Private Test Android Course 25112024_Maria Ogneva_kotlin",
+      "name": "Private Test Android Course 25112024",
+      "slug": "private-test-android-course-25112024",
+      "downloads": 6
+    },
+    {
+      "id": 25923,
+      "key": "top.forwardxiang.jetbrains",
+      "name": "BookmarkEnhancer",
+      "slug": "bookmarkenhancer",
+      "downloads": 10
+    },
+    {
+      "id": 25925,
+      "key": "com.apidog.fastrequest",
+      "name": "Apidog Fast Request - Auto detect endpoints, HTTP REST Client",
+      "slug": "apidog-fast-request---auto-detect-endpoints,-http-rest-client",
+      "downloads": 59
+    },
+    {
+      "id": 25926,
+      "key": "com.yonyou.YonbipPlugin",
+      "name": "yonbip-git-tool",
+      "slug": "yonbip-git-tool",
+      "downloads": 2
+    },
+    {
+      "id": 25928,
+      "key": "onedev-tasks",
+      "name": "OneDev Tasks",
+      "slug": "onedev-tasks",
+      "downloads": 43
+    },
+    {
+      "id": 25929,
+      "key": "com.layhuts.gradle.helper",
+      "name": "Gradle Helper",
+      "slug": "gradle-helper",
+      "downloads": 11
+    },
+    {
+      "id": 25930,
+      "key": "dev.hagios.BuildTimes",
+      "name": "Build Times",
+      "slug": "build-times",
+      "downloads": 14
+    },
+    {
+      "id": 25931,
+      "key": "Private Test Kotlin Course 26112024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 26112024",
+      "slug": "private-test-kotlin-course-26112024",
+      "downloads": 4
+    },
+    {
+      "id": 25932,
+      "key": "tools.codereview.plugin.jetbrains",
+      "name": "Code Review Tools",
+      "slug": "code-review-tools",
+      "downloads": 8
+    },
+    {
+      "id": 25936,
+      "key": "SequenceDiagramR",
+      "name": "SequenceDiagramR",
+      "slug": "sequencediagramr",
+      "downloads": 9
+    },
+    {
+      "id": 25937,
+      "key": "com.aiwan.design",
+      "name": "TDesign Mini Program",
+      "slug": "tdesign-mini-program",
+      "downloads": 14
+    },
+    {
+      "id": 25938,
+      "key": "club.zhanssh.tool",
+      "name": "MergeTool",
+      "slug": "mergetool",
+      "downloads": 0
+    },
+    {
+      "id": 25939,
+      "key": "ai.jqk.plugin",
+      "name": "JqkCoder",
+      "slug": "jqkcoder",
+      "downloads": 0
+    },
+    {
+      "id": 25940,
+      "key": "io.github.guoyixing.nacos-idea-plugin",
+      "name": "Nacos Support",
+      "slug": "nacos-support",
+      "downloads": 0
+    },
+    {
+      "id": 25941,
+      "key": "com.samdark.intellij-visual-studio-code-dark-plus-fixed",
+      "name": "Visual Studio Code Dark Plus Forked 2.8",
+      "slug": "visual-studio-code-dark-plus-forked-2.8",
+      "downloads": 0
+    },
+    {
+      "id": 25942,
+      "key": "My first Python course_Valentina Kiryushkina_Python",
+      "name": "My first Python course",
+      "slug": "my-first-python-course",
+      "downloads": 0
+    },
+    {
+      "id": 25943,
+      "key": "com.github.efeegbevwie.bitbucketcreatepr",
+      "name": "BitBucket-Create-PR",
+      "slug": "bitbucket-create-pr",
+      "downloads": 0
+    },
+    {
+      "id": 25944,
+      "key": "Private Test Java Course 27112024_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 27112024",
+      "slug": "private-test-java-course-27112024",
+      "downloads": 7
+    },
+    {
+      "id": 25945,
+      "key": "ai.qwiet.jetbrains",
+      "name": "Qwiet AI",
+      "slug": "qwiet-ai",
+      "downloads": 0
+    },
+    {
+      "id": 25946,
+      "key": "onedev-tasks-debug",
+      "name": "OneDev Tasks (Debug Version)",
+      "slug": "onedev-tasks-(debug-version)",
+      "downloads": 0
+    },
+    {
+      "id": 25947,
+      "key": "com.tfx.sudoku",
+      "name": "Sudoku T",
+      "slug": "sudoku-t",
+      "downloads": 7
+    },
+    {
+      "id": 25948,
+      "key": "com.github.simonbuchan.oxlintIntellijPlugin",
+      "name": "Oxlint",
+      "slug": "oxlint",
+      "downloads": 1
+    },
+    {
+      "id": 25949,
+      "key": "com.guzz.ide.FloatingToolbarPlus",
+      "name": "FloatingToolbarPlus",
+      "slug": "floatingtoolbarplus",
+      "downloads": 0
+    },
+    {
+      "id": 25950,
+      "key": "org.javamaster.RestClient",
+      "name": "RestClient",
+      "slug": "restclient",
+      "downloads": 0
+    },
+    {
+      "id": 25951,
+      "key": "dev.hagios.jetpackcomposepreviewcreator",
+      "name": "Jetpack Compose Preview Creator",
+      "slug": "jetpack-compose-preview-creator",
+      "downloads": 5
+    },
+    {
+      "id": 25952,
+      "key": "org.labs.genesis",
+      "name": "GENESIS",
+      "slug": "genesis",
+      "downloads": 0
+    },
+    {
+      "id": 25953,
+      "key": "FranknJavaTheme",
+      "name": "FranknJavaTheme",
+      "slug": "franknjavatheme",
+      "downloads": 0
+    },
+    {
+      "id": 25954,
+      "key": "de.adesso.ide.plugin.AdrToolsPlugin",
+      "name": "ADR Tools Support",
+      "slug": "adr-tools-support",
+      "downloads": 0
+    },
+    {
+      "id": 25955,
+      "key": "com.namecheap.nameko.rpc",
+      "name": "Nameko RPC Support",
+      "slug": "nameko-rpc-support",
+      "downloads": 1
+    },
+    {
+      "id": 25956,
+      "key": "Kotlin Course16_Daria Isachenkova_kotlin",
+      "name": "Kotlin Course16",
+      "slug": "kotlin-course16",
+      "downloads": 0
+    },
+    {
+      "id": 25957,
+      "key": "net.tuchnyak.bronotes",
+      "name": "BroNotes",
+      "slug": "bronotes",
+      "downloads": 0
+    },
+    {
+      "id": 25958,
+      "key": "MyLangSpring",
+      "name": "MyLangSpring",
+      "slug": "mylangspring",
+      "downloads": 0
+    },
+    {
+      "id": 25961,
+      "key": "new-builder-generator",
+      "name": "new-builder-generator",
+      "slug": "new-builder-generator",
+      "downloads": 0
+    },
+    {
+      "id": 25962,
+      "key": "com.dhx.simpledemo",
+      "name": "SimpleDemo",
+      "slug": "simpledemo",
+      "downloads": 0
+    },
+    {
+      "id": 25963,
+      "key": "Private Test Course 29112024_Maria Ogneva_kotlin",
+      "name": "Private Test Course 29112024 with Run Buttons",
+      "slug": "private-test-course-29112024-with-run-buttons",
+      "downloads": 0
     }
   ]
 }
