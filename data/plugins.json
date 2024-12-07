@@ -82529,6 +82529,412 @@
       "name": "Private Test Course 29112024 with Run Buttons",
       "slug": "private-test-course-29112024-with-run-buttons",
       "downloads": 0
+    },
+    {
+      "id": 25964,
+      "key": "io.jactl.intellij-jactl-plugin",
+      "name": "Jactl",
+      "slug": "jactl",
+      "downloads": 7
+    },
+    {
+      "id": 25966,
+      "key": "com.fluent.builder.fluent-builder",
+      "name": "Fluent Builder",
+      "slug": "fluent-builder",
+      "downloads": 17
+    },
+    {
+      "id": 25967,
+      "key": "EBReader",
+      "name": "EBReader",
+      "slug": "ebreader",
+      "downloads": 9
+    },
+    {
+      "id": 25968,
+      "key": "com.github.gyeom.dependencyexplorer",
+      "name": "dependency-explorer",
+      "slug": "dependency-explorer",
+      "downloads": 137
+    },
+    {
+      "id": 25971,
+      "key": "com.plugin.fast-translation",
+      "name": "Fast-Translation",
+      "slug": "fast-translation",
+      "downloads": 10
+    },
+    {
+      "id": 25973,
+      "key": "fleet.bazel",
+      "name": "Bazel",
+      "slug": "bazel",
+      "downloads": 1
+    },
+    {
+      "id": 25974,
+      "key": "hu.borkutip.opencvdoc",
+      "name": "OpenCVDoc",
+      "slug": "opencvdoc",
+      "downloads": 12
+    },
+    {
+      "id": 25975,
+      "key": "com.github.nathanmbrown.uncloakinvoke",
+      "name": "Uncloak Invoke",
+      "slug": "uncloak-invoke",
+      "downloads": 0
+    },
+    {
+      "id": 25976,
+      "key": "com.github.eric65697.sessionguru",
+      "name": "Session Guru",
+      "slug": "session-guru",
+      "downloads": 1
+    },
+    {
+      "id": 25977,
+      "key": "com.github.kaktushose.jda-commands-inspection",
+      "name": "JDA-Commands Inspection",
+      "slug": "jda-commands-inspection",
+      "downloads": 11
+    },
+    {
+      "id": 25978,
+      "key": "vanstudio.sequence.python",
+      "name": "SequenceDiagram Python",
+      "slug": "sequencediagram-python",
+      "downloads": 18
+    },
+    {
+      "id": 25979,
+      "key": "JitWatch4i",
+      "name": "jitwatch4i",
+      "slug": "jitwatch4i",
+      "downloads": 18
+    },
+    {
+      "id": 25980,
+      "key": "com.chylex.coloredbrackets",
+      "name": "Colored Brackets",
+      "slug": "colored-brackets",
+      "downloads": 81
+    },
+    {
+      "id": 25981,
+      "key": "com.genesiscorp.auto-save-on-typing",
+      "name": "AutoSave on Typing",
+      "slug": "autosave-on-typing",
+      "downloads": 22
+    },
+    {
+      "id": 25982,
+      "key": "jasper-report",
+      "name": "Jasper Report",
+      "slug": "jasper-report",
+      "downloads": 22
+    },
+    {
+      "id": 25983,
+      "key": "dev.sandipchitale.jb-helm",
+      "name": "Helm Explorer",
+      "slug": "helm-explorer",
+      "downloads": 89
+    },
+    {
+      "id": 25984,
+      "key": "com.github.iamjuaness.blackholetheme",
+      "name": "Black Hole Theme",
+      "slug": "black-hole-theme",
+      "downloads": 1
+    },
+    {
+      "id": 25986,
+      "key": "com.anyilanxin.plugin.gitcommithelper",
+      "name": "AyGitCommitHelp",
+      "slug": "aygitcommithelp",
+      "downloads": 0
+    },
+    {
+      "id": 25987,
+      "key": "com.anyilanxin.plugin.easycode",
+      "name": "AyEasyCode",
+      "slug": "ayeasycode",
+      "downloads": 5
+    },
+    {
+      "id": 25988,
+      "key": "com.nc.pojo2yaml",
+      "name": "pojo2yaml",
+      "slug": "pojo2yaml",
+      "downloads": 0
+    },
+    {
+      "id": 25989,
+      "key": "com.lupor.spectral-linter-intellij-plugin",
+      "name": "Spectral-Linter",
+      "slug": "spectral-linter",
+      "downloads": 1
+    },
+    {
+      "id": 25990,
+      "key": "com.volcengine.vefaas-code-deployer",
+      "name": "veFaaS Code Deployer",
+      "slug": "vefaas-code-deployer",
+      "downloads": 0
+    },
+    {
+      "id": 25991,
+      "key": "com.hiosdra.commitmessagecleanerplugin",
+      "name": "CommitMessageCleaner",
+      "slug": "commitmessagecleaner",
+      "downloads": 46
+    },
+    {
+      "id": 25992,
+      "key": "com.liuchen.git-commit-genie",
+      "name": "Git Commit Genie",
+      "slug": "git-commit-genie",
+      "downloads": 16
+    },
+    {
+      "id": 25993,
+      "key": "com.github.diydriller.aisqltranslator",
+      "name": "ai-sql-translator",
+      "slug": "ai-sql-translator",
+      "downloads": 7
+    },
+    {
+      "id": 25994,
+      "key": "com.FuzzyFileSearch",
+      "name": "FuzzyFileSearch",
+      "slug": "fuzzyfilesearch",
+      "downloads": 4
+    },
+    {
+      "id": 25997,
+      "key": "schoettker.acejump.reloaded",
+      "name": "AceJump Reloaded",
+      "slug": "acejump-reloaded",
+      "downloads": 31
+    },
+    {
+      "id": 25998,
+      "key": "com.github.stock.viewer",
+      "name": "Stock Market Viewer",
+      "slug": "stock-market-viewer",
+      "downloads": 0
+    },
+    {
+      "id": 25999,
+      "key": "com.morefun.morefun-plugins",
+      "name": "MoreFunTools",
+      "slug": "morefuntools",
+      "downloads": 0
+    },
+    {
+      "id": 26000,
+      "key": "com.stec.stec-devops-client",
+      "name": "STEC DevOps Client",
+      "slug": "stec-devops-client",
+      "downloads": 3
+    },
+    {
+      "id": 26001,
+      "key": "com.tfx.jumpBlock",
+      "name": "jumpBlock",
+      "slug": "jumpblock",
+      "downloads": 73
+    },
+    {
+      "id": 26002,
+      "key": "Java21StreamAPI_Alexey Nazarov_JAVA",
+      "name": "Java21StreamAPI",
+      "slug": "java21streamapi",
+      "downloads": 1
+    },
+    {
+      "id": 26003,
+      "key": "fr.craftmywebsite.extension",
+      "name": "CraftMyWebsite - IDE Extension",
+      "slug": "craftmywebsite---ide-extension",
+      "downloads": 2
+    },
+    {
+      "id": 26004,
+      "key": "Private Test Kotlin Course 04122024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 04122024",
+      "slug": "private-test-kotlin-course-04122024",
+      "downloads": 4
+    },
+    {
+      "id": 26007,
+      "key": "pro.monokai",
+      "name": "Monokai Pro",
+      "slug": "monokai-pro",
+      "downloads": 1
+    },
+    {
+      "id": 26008,
+      "key": "Private Test Kotlin Course 04122024-1_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 04122024-1",
+      "slug": "private-test-kotlin-course-04122024-1",
+      "downloads": 4
+    },
+    {
+      "id": 26009,
+      "key": "ReSharperPlugin.test",
+      "name": "RW.Internal.Test",
+      "slug": "rw.internal.test",
+      "downloads": 0
+    },
+    {
+      "id": 26010,
+      "key": "de.timheide.ollama-proxy",
+      "name": "Ollama Proxy",
+      "slug": "ollama-proxy",
+      "downloads": 5
+    },
+    {
+      "id": 26011,
+      "key": "com.mitu.bloctemplate.BlocTemplate",
+      "name": "Bloc Template",
+      "slug": "bloc-template",
+      "downloads": 18
+    },
+    {
+      "id": 26012,
+      "key": "com.github.blarc.sops-intellij-plugin",
+      "name": "SOPS",
+      "slug": "sops",
+      "downloads": 3
+    },
+    {
+      "id": 26014,
+      "key": "com.teamz.coderadar",
+      "name": "MultiScope CodeRadar",
+      "slug": "multiscope-coderadar",
+      "downloads": 1
+    },
+    {
+      "id": 26015,
+      "key": "color.scheme.Anysphere-theme",
+      "name": "Anysphere-theme Color Scheme",
+      "slug": "anysphere-theme-color-scheme",
+      "downloads": 3
+    },
+    {
+      "id": 26017,
+      "key": "com.ryan.serialuid-generator",
+      "name": "SerialUID Generator",
+      "slug": "serialuid-generator",
+      "downloads": 2
+    },
+    {
+      "id": 26018,
+      "key": "Private Test Java Course 05122024_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 05122024",
+      "slug": "private-test-java-course-05122024",
+      "downloads": 3
+    },
+    {
+      "id": 26019,
+      "key": "Private Test C++ (Catch 2.0) Course 05122024_Maria Ogneva_ObjectiveC",
+      "name": "Private Test C++ (Catch 2.0) Course 05122024",
+      "slug": "private-test-c++-(catch-2.0)-course-05122024",
+      "downloads": 4
+    },
+    {
+      "id": 26020,
+      "key": "Private Test Rust Course 05122024_Maria Ogneva_Rust",
+      "name": "Private Test Rust Course 05122024",
+      "slug": "private-test-rust-course-05122024",
+      "downloads": 5
+    },
+    {
+      "id": 26021,
+      "key": "Private Test Go Course 05122024_Maria Ogneva_go",
+      "name": "Private Test Go Course 05122024",
+      "slug": "private-test-go-course-05122024",
+      "downloads": 8
+    },
+    {
+      "id": 26022,
+      "key": "com.kivojenko.plugin.display",
+      "name": "Display Constant Values",
+      "slug": "display-constant-values",
+      "downloads": 0
+    },
+    {
+      "id": 26023,
+      "key": "com.github.ahmdsalahme.fireflyer",
+      "name": "Fireflyer",
+      "slug": "fireflyer",
+      "downloads": 0
+    },
+    {
+      "id": 26024,
+      "key": "ai.codinggpt.plugin",
+      "name": "TuringCoder",
+      "slug": "turingcoder",
+      "downloads": 0
+    },
+    {
+      "id": 26026,
+      "key": "falcon-jetbrains-themes",
+      "name": "Falcon Relax Eyes Theme",
+      "slug": "falcon-relax-eyes-theme",
+      "downloads": 0
+    },
+    {
+      "id": 26027,
+      "key": "com.adrianguenter.php_aliases",
+      "name": "PHP Aliases",
+      "slug": "php-aliases",
+      "downloads": 0
+    },
+    {
+      "id": 26028,
+      "key": "Private Test PHP Course 06122024_Maria Ogneva_PHP",
+      "name": "Private Test PHP Course 06122024",
+      "slug": "private-test-php-course-06122024",
+      "downloads": 0
+    },
+    {
+      "id": 26029,
+      "key": "ch.nmeylan.plugin.jpa-sql-generator",
+      "name": "JPA, SQL Generator",
+      "slug": "jpa,-sql-generator",
+      "downloads": 0
+    },
+    {
+      "id": 26030,
+      "key": "Private Python Course 06122024_Maria Ogneva_Python",
+      "name": "Private Python Course 06122024",
+      "slug": "private-python-course-06122024",
+      "downloads": 0
+    },
+    {
+      "id": 26031,
+      "key": "Private Python Course 06122024-1_Maria Ogneva_Python",
+      "name": "Private Python Course 06122024-1",
+      "slug": "private-python-course-06122024-1",
+      "downloads": 0
+    },
+    {
+      "id": 26032,
+      "key": "ai.latta.tool",
+      "name": "Latta AI",
+      "slug": "latta-ai",
+      "downloads": 0
+    },
+    {
+      "id": 26033,
+      "key": "Private Test Java Course 06122024_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 06122024",
+      "slug": "private-test-java-course-06122024",
+      "downloads": 0
     }
   ]
 }
