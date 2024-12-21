@@ -83292,6 +83292,307 @@
       "name": "SerialVersionUID Generator",
       "slug": "serialversionuid-generator",
       "downloads": 0
+    },
+    {
+      "id": 26107,
+      "key": "com.adityaputra.sholatreminder",
+      "name": "Sholat Reminder",
+      "slug": "sholat-reminder",
+      "downloads": 24
+    },
+    {
+      "id": 26109,
+      "key": "com.lofcz.intellij-visual-studio-code-dark-minus",
+      "name": "Visual Studio Code Dark Minus Theme",
+      "slug": "visual-studio-code-dark-minus-theme",
+      "downloads": 51
+    },
+    {
+      "id": 26111,
+      "key": "com.yqn.codeSynchronize",
+      "name": "composer code synchronize",
+      "slug": "composer-code-synchronize",
+      "downloads": 0
+    },
+    {
+      "id": 26112,
+      "key": "com.adhithya.jsonconsolelogs",
+      "name": "JSON Console Log Formatter",
+      "slug": "json-console-log-formatter",
+      "downloads": 1
+    },
+    {
+      "id": 26113,
+      "key": "com.ultramega.timetracker",
+      "name": "Ultramega Time Tracker",
+      "slug": "ultramega-time-tracker",
+      "downloads": 21
+    },
+    {
+      "id": 26114,
+      "key": "dev.mikify.gqlqueryloader",
+      "name": "GqlQueryLoader",
+      "slug": "gqlqueryloader",
+      "downloads": 9
+    },
+    {
+      "id": 26115,
+      "key": "dev.sandipchitale.dynakeymap",
+      "name": "Current KeyMap (Dynamic)",
+      "slug": "current-keymap-(dynamic)",
+      "downloads": 27
+    },
+    {
+      "id": 26116,
+      "key": "fleet.darkMatter",
+      "name": "DarkMatter",
+      "slug": "darkmatter",
+      "downloads": 0
+    },
+    {
+      "id": 26117,
+      "key": "kz.shaykemelov.navigate-exceptions",
+      "name": "Navigate-Exceptions",
+      "slug": "navigate-exceptions",
+      "downloads": 44
+    },
+    {
+      "id": 26118,
+      "key": "com.github.aui.ideplugin",
+      "name": "AUI Framework Support",
+      "slug": "aui-framework-support",
+      "downloads": 0
+    },
+    {
+      "id": 26120,
+      "key": "com.ownicn.action-script-plugin",
+      "name": "Action Script",
+      "slug": "action-script",
+      "downloads": 2
+    },
+    {
+      "id": 26121,
+      "key": "com.github.xepozz.metastorm",
+      "name": "Meta Storm",
+      "slug": "meta-storm",
+      "downloads": 1
+    },
+    {
+      "id": 26122,
+      "key": "moonbit",
+      "name": "Moonbit Language",
+      "slug": "moonbit-language",
+      "downloads": 32
+    },
+    {
+      "id": 26124,
+      "key": "com.github.efeegbevwie.jsonsmith",
+      "name": "JsonSmith",
+      "slug": "jsonsmith",
+      "downloads": 111
+    },
+    {
+      "id": 26125,
+      "key": "com.vscode.ridersync",
+      "name": "IDE Sync - Connect to VSCode",
+      "slug": "ide-sync---connect-to-vscode",
+      "downloads": 1
+    },
+    {
+      "id": 26126,
+      "key": "com.github.formattoday.v2viewer",
+      "name": "V2EX Viewer",
+      "slug": "v2ex-viewer",
+      "downloads": 24
+    },
+    {
+      "id": 26129,
+      "key": "Private Test Kotlin Course 13122024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 13122024",
+      "slug": "private-test-kotlin-course-13122024",
+      "downloads": 1
+    },
+    {
+      "id": 26130,
+      "key": "org.sdk.popup",
+      "name": "SDK: Action Sample",
+      "slug": "sdk:-action-sample",
+      "downloads": 0
+    },
+    {
+      "id": 26131,
+      "key": "io.kotzilla.koin",
+      "name": "Koin Dependency Injection (Official)",
+      "slug": "koin-dependency-injection-(official)",
+      "downloads": 11
+    },
+    {
+      "id": 26132,
+      "key": "com.microsoft.azure.agent.plugin.fenzhotest",
+      "name": "Fenzho Test",
+      "slug": "fenzho-test",
+      "downloads": 0
+    },
+    {
+      "id": 26133,
+      "key": "com.zl",
+      "name": "ZLSetter",
+      "slug": "zlsetter",
+      "downloads": 0
+    },
+    {
+      "id": 26135,
+      "key": "com.github.farexzy.easytool",
+      "name": "easy-tool",
+      "slug": "easy-tool",
+      "downloads": 0
+    },
+    {
+      "id": 26136,
+      "key": "com.github.openmindculture.intellijmochamouselighttheme",
+      "name": "Mocha Mouse Light Theme",
+      "slug": "mocha-mouse-light-theme",
+      "downloads": 61
+    },
+    {
+      "id": 26137,
+      "key": "top.forwardxiang.jetbrains.vuepress",
+      "name": "Vuepress Helper",
+      "slug": "vuepress-helper",
+      "downloads": 13
+    },
+    {
+      "id": 26139,
+      "key": "lekanich.plugins.maven",
+      "name": "Maven Plug-in Extensions",
+      "slug": "maven-plug-in-extensions",
+      "downloads": 0
+    },
+    {
+      "id": 26140,
+      "key": "com.integer.copy-mate",
+      "name": "Copy-mate",
+      "slug": "copy-mate",
+      "downloads": 19
+    },
+    {
+      "id": 26141,
+      "key": "com.github.MaxAstin.KaiTester",
+      "name": "KaiTester",
+      "slug": "kaitester",
+      "downloads": 0
+    },
+    {
+      "id": 26142,
+      "key": "com.mryexiaoqiu.vcode",
+      "name": "vcode",
+      "slug": "vcode",
+      "downloads": 40
+    },
+    {
+      "id": 26143,
+      "key": "org.jetbrains.fleet.devkit.intellij",
+      "name": "Fleet DevKit",
+      "slug": "fleet-devkit",
+      "downloads": 0
+    },
+    {
+      "id": 26144,
+      "key": "com.nothing.plugin.TranslateResMerger",
+      "name": "TranslateResMerger",
+      "slug": "translateresmerger",
+      "downloads": 0
+    },
+    {
+      "id": 26145,
+      "key": "cn.season.plugin.curl2py",
+      "name": "Curl2py",
+      "slug": "curl2py",
+      "downloads": 13
+    },
+    {
+      "id": 26147,
+      "key": "io.atasc.tcptunnelj",
+      "name": "TcpTunnelJ",
+      "slug": "tcptunnelj",
+      "downloads": 0
+    },
+    {
+      "id": 26149,
+      "key": "net.odyssi.log4jb",
+      "name": "Log4JB",
+      "slug": "log4jb",
+      "downloads": 0
+    },
+    {
+      "id": 26150,
+      "key": "guohui.me.AIDT",
+      "name": "Android Image Diff Tool(AIDT)",
+      "slug": "android-image-diff-tool(aidt)",
+      "downloads": 0
+    },
+    {
+      "id": 26152,
+      "key": "dev.sandipchitale.PluginExplorer",
+      "name": "Plug in Explorer",
+      "slug": "plug-in-explorer",
+      "downloads": 13
+    },
+    {
+      "id": 26154,
+      "key": "org.aspiresys.codespellai",
+      "name": "CODESPELL.AI",
+      "slug": "codespell.ai",
+      "downloads": 0
+    },
+    {
+      "id": 26155,
+      "key": "com.flutterplugin.newfeature",
+      "name": "FlutterCreateNewFeature",
+      "slug": "fluttercreatenewfeature",
+      "downloads": 0
+    },
+    {
+      "id": 26156,
+      "key": "senozoid.warm-light-theme",
+      "name": "Warm Light Theme",
+      "slug": "warm-light-theme",
+      "downloads": 3
+    },
+    {
+      "id": 26157,
+      "key": "kd.xkqj.unittest.generator",
+      "name": "KD XKQJ Unittest Generator",
+      "slug": "kd-xkqj-unittest-generator",
+      "downloads": 0
+    },
+    {
+      "id": 26158,
+      "key": "com.boot.plugin.Log",
+      "name": "Log",
+      "slug": "log",
+      "downloads": 0
+    },
+    {
+      "id": 26159,
+      "key": "com.wry.build-project",
+      "name": "Build-Rainbond-Project",
+      "slug": "build-rainbond-project",
+      "downloads": 0
+    },
+    {
+      "id": 26161,
+      "key": "com.github.ewwwdp.darker-horizon",
+      "name": "Darker Horizon",
+      "slug": "darker-horizon",
+      "downloads": 0
+    },
+    {
+      "id": 26162,
+      "key": "com.krzyshio.idesurfers",
+      "name": "IDE Surfers",
+      "slug": "ide-surfers",
+      "downloads": 0
     }
   ]
 }
