@@ -83593,6 +83593,251 @@
       "name": "IDE Surfers",
       "slug": "ide-surfers",
       "downloads": 0
+    },
+    {
+      "id": 26163,
+      "key": "com.clover.dubboMocker",
+      "name": "DubboMocker",
+      "slug": "dubbomocker",
+      "downloads": 1
+    },
+    {
+      "id": 26164,
+      "key": "com.c5inco.studiothemes",
+      "name": "Studio Themes",
+      "slug": "studio-themes",
+      "downloads": 67
+    },
+    {
+      "id": 26165,
+      "key": "com.ssharaev.k8s.env.plugin",
+      "name": "Kubernetes Run Configuration Env",
+      "slug": "kubernetes-run-configuration-env",
+      "downloads": 4
+    },
+    {
+      "id": 26166,
+      "key": "com.github.guobin211.rsxij",
+      "name": "Rsx-IJ",
+      "slug": "rsx-ij",
+      "downloads": 0
+    },
+    {
+      "id": 26167,
+      "key": "com.devek.dev",
+      "name": "Devek",
+      "slug": "devek",
+      "downloads": 0
+    },
+    {
+      "id": 26168,
+      "key": "pl.piotrz.project-structure",
+      "name": "Project Structure Exporter",
+      "slug": "project-structure-exporter",
+      "downloads": 31
+    },
+    {
+      "id": 26169,
+      "key": "metallij",
+      "name": "METALLIJ",
+      "slug": "metallij",
+      "downloads": 17
+    },
+    {
+      "id": 26174,
+      "key": "com.puntogris.telescope",
+      "name": "Telescope",
+      "slug": "telescope",
+      "downloads": 0
+    },
+    {
+      "id": 26176,
+      "key": "io.github",
+      "name": "SpringAtomTest",
+      "slug": "springatomtest",
+      "downloads": 0
+    },
+    {
+      "id": 26177,
+      "key": "com.github.pddmain.memesplugin",
+      "name": "MemesWindow",
+      "slug": "memeswindow",
+      "downloads": 0
+    },
+    {
+      "id": 26178,
+      "key": "club.zhanssh.tool.fish",
+      "name": "FishReader",
+      "slug": "fishreader",
+      "downloads": 0
+    },
+    {
+      "id": 26179,
+      "key": "com.javaLogManager",
+      "name": "JavaLogManager",
+      "slug": "javalogmanager",
+      "downloads": 2
+    },
+    {
+      "id": 26180,
+      "key": "org.hugopalma.domaintranslator",
+      "name": "Domain Translator",
+      "slug": "domain-translator",
+      "downloads": 9
+    },
+    {
+      "id": 26181,
+      "key": "cn.wanda.restful.tool",
+      "name": "RestfulTool-Wanda",
+      "slug": "restfultool-wanda",
+      "downloads": 0
+    },
+    {
+      "id": 26182,
+      "key": "color.scheme.MREPUMPKIN_Light_Scheme",
+      "name": "MREPUMPKIN_Light_Scheme Color Scheme",
+      "slug": "mrepumpkin_light_scheme-color-scheme",
+      "downloads": 1
+    },
+    {
+      "id": 26183,
+      "key": "org.kth.plugins.json-matcher",
+      "name": "Json Matcher",
+      "slug": "json-matcher",
+      "downloads": 0
+    },
+    {
+      "id": 26185,
+      "key": "org.mapper.generator.MapperPlugin",
+      "name": "MapCraft",
+      "slug": "mapcraft",
+      "downloads": 4
+    },
+    {
+      "id": 26186,
+      "key": "com.github.lukey78.exportfilestoclipboard",
+      "name": "Export files to clipboard",
+      "slug": "export-files-to-clipboard",
+      "downloads": 47
+    },
+    {
+      "id": 26187,
+      "key": "com.ebenjs.flutter_untranslated",
+      "name": "Flutter Untranslated",
+      "slug": "flutter-untranslated",
+      "downloads": 2
+    },
+    {
+      "id": 26188,
+      "key": "com.sankuai.mcc.link",
+      "name": "Mcc Link Helper",
+      "slug": "mcc-link-helper",
+      "downloads": 0
+    },
+    {
+      "id": 26189,
+      "key": "fleet.pythonLikeUtilities",
+      "name": "PythonLikeUtilities",
+      "slug": "pythonlikeutilities",
+      "downloads": 0
+    },
+    {
+      "id": 26190,
+      "key": "com.banlake.enum-generator",
+      "name": "Enum Generator",
+      "slug": "enum-generator",
+      "downloads": 0
+    },
+    {
+      "id": 26191,
+      "key": "org.shaozz.sdk.quickCommitPatch",
+      "name": "Quick Commit Patch",
+      "slug": "quick-commit-patch",
+      "downloads": 7
+    },
+    {
+      "id": 26192,
+      "key": "cai.JsonParser",
+      "name": "JsonParser",
+      "slug": "jsonparser",
+      "downloads": 1
+    },
+    {
+      "id": 26193,
+      "key": "top.forwardxiang.jetbrains.bookmark",
+      "name": "Bookmark Helper",
+      "slug": "bookmark-helper",
+      "downloads": 1
+    },
+    {
+      "id": 26195,
+      "key": "com.jtools.mybatis.log.jtools-mybatis-log",
+      "name": "Jtools-mybatis-log",
+      "slug": "jtools-mybatis-log",
+      "downloads": 11
+    },
+    {
+      "id": 26196,
+      "key": "com.github.eatmoreapple.juice",
+      "name": "Juice",
+      "slug": "juice",
+      "downloads": 1
+    },
+    {
+      "id": 26197,
+      "key": "linqingying.gitcode",
+      "name": "GitCode",
+      "slug": "gitcode",
+      "downloads": 4
+    },
+    {
+      "id": 26198,
+      "key": "com.ai.dev.tools.languagePack.en",
+      "name": "English Casual Language Pack",
+      "slug": "english-casual-language-pack",
+      "downloads": 0
+    },
+    {
+      "id": 26200,
+      "key": "com.pedrollanca.loveframeworksupport",
+      "name": "Love Framework Support",
+      "slug": "love-framework-support",
+      "downloads": 0
+    },
+    {
+      "id": 26201,
+      "key": "com.vscode.jetbrainssync",
+      "name": "IDE Sync - Connect to VSCode",
+      "slug": "ide-sync---connect-to-vscode",
+      "downloads": 0
+    },
+    {
+      "id": 26202,
+      "key": "com.liuga.disableFileCommit",
+      "name": "Disable Files Commit",
+      "slug": "disable-files-commit",
+      "downloads": 0
+    },
+    {
+      "id": 26203,
+      "key": "whu",
+      "name": "FanYi",
+      "slug": "fanyi",
+      "downloads": 0
+    },
+    {
+      "id": 26204,
+      "key": "com.github.zero9178.mlirods",
+      "name": "MLIR ODS",
+      "slug": "mlir-ods",
+      "downloads": 0
+    },
+    {
+      "id": 26205,
+      "key": "com.gofynd.fynix",
+      "name": "Fynix",
+      "slug": "fynix",
+      "downloads": 0
     }
   ]
 }
