@@ -83838,6 +83838,300 @@
       "name": "Fynix",
       "slug": "fynix",
       "downloads": 0
+    },
+    {
+      "id": 26206,
+      "key": "com.github.blingyshs.openincursor",
+      "name": "Open In Cursor",
+      "slug": "open-in-cursor",
+      "downloads": 235
+    },
+    {
+      "id": 26209,
+      "key": "cc.oofo.easy-translate",
+      "name": "Easy Translate",
+      "slug": "easy-translate",
+      "downloads": 61
+    },
+    {
+      "id": 26210,
+      "key": "io.github.vkaze.crayon",
+      "name": "Crayon",
+      "slug": "crayon",
+      "downloads": 20
+    },
+    {
+      "id": 26212,
+      "key": "chester.language.plugin",
+      "name": "Chester Language Support",
+      "slug": "chester-language-support",
+      "downloads": 11
+    },
+    {
+      "id": 26214,
+      "key": "com.github.naoyukik.intellijplugingithubnotifications",
+      "name": "GitHub Notifications",
+      "slug": "github-notifications",
+      "downloads": 11
+    },
+    {
+      "id": 26216,
+      "key": "dev.robotcode.robotcode4ij",
+      "name": "RobotCode - Robot Framework Support",
+      "slug": "robotcode---robot-framework-support",
+      "downloads": 4
+    },
+    {
+      "id": 26217,
+      "key": "com.boot.plugin.Log",
+      "name": "Log",
+      "slug": "log",
+      "downloads": 4
+    },
+    {
+      "id": 26218,
+      "key": "com.github.maniac787.rchspringcodegeneration",
+      "name": "rch-spring-code-generation",
+      "slug": "rch-spring-code-generation",
+      "downloads": 0
+    },
+    {
+      "id": 26219,
+      "key": "com.github.joshflash.ponylangplugin",
+      "name": "Ponylang",
+      "slug": "ponylang",
+      "downloads": 0
+    },
+    {
+      "id": 26221,
+      "key": "com.github.nhatminhptithcm.json-debugger",
+      "name": "JSON Debugger",
+      "slug": "json-debugger",
+      "downloads": 0
+    },
+    {
+      "id": 26222,
+      "key": "com.lifecosys.file-truck",
+      "name": "File Truck",
+      "slug": "file-truck",
+      "downloads": 0
+    },
+    {
+      "id": 26223,
+      "key": "guru.ide.codepipeline",
+      "name": "AWS CodePipeline Dashboard - Execute & Monitor Pipelines",
+      "slug": "aws-codepipeline-dashboard---execute-&-monitor-pipelines",
+      "downloads": 20
+    },
+    {
+      "id": 26224,
+      "key": "com.github.jeffwise26.gitmetheurl",
+      "name": "Git-Me-The-Url",
+      "slug": "git-me-the-url",
+      "downloads": 0
+    },
+    {
+      "id": 26225,
+      "key": "com.wuhao.code.style",
+      "name": "Colorful Code",
+      "slug": "colorful-code",
+      "downloads": 0
+    },
+    {
+      "id": 26226,
+      "key": "com.microgpt.codeoptimizer",
+      "name": "Code Optimizer",
+      "slug": "code-optimizer",
+      "downloads": 0
+    },
+    {
+      "id": 26227,
+      "key": "micropython-tools-jetbrains",
+      "name": "MicroPython Tools",
+      "slug": "micropython-tools",
+      "downloads": 14
+    },
+    {
+      "id": 26228,
+      "key": "com.wdkg.D-MAN",
+      "name": "D-MAN",
+      "slug": "d-man",
+      "downloads": 0
+    },
+    {
+      "id": 26229,
+      "key": "KakouneBrain",
+      "name": "KakouneBrain",
+      "slug": "kakounebrain",
+      "downloads": 0
+    },
+    {
+      "id": 26230,
+      "key": "org.wxy.ideaplugin.ailowcode",
+      "name": "AILowcode",
+      "slug": "ailowcode",
+      "downloads": 1
+    },
+    {
+      "id": 26231,
+      "key": "cn.ximcloud.XIMCloudTools",
+      "name": "XIMCloudTools",
+      "slug": "ximcloudtools",
+      "downloads": 5
+    },
+    {
+      "id": 26232,
+      "key": "com.pytestarchitect",
+      "name": "PyTestArchitect",
+      "slug": "pytestarchitect",
+      "downloads": 0
+    },
+    {
+      "id": 26233,
+      "key": "org.getrafty.fragments",
+      "name": "Fragments",
+      "slug": "fragments",
+      "downloads": 0
+    },
+    {
+      "id": 26234,
+      "key": "net.tuchnyak.brobrowser",
+      "name": "BroBrowser",
+      "slug": "brobrowser",
+      "downloads": 28
+    },
+    {
+      "id": 26235,
+      "key": "com.sedam.eui",
+      "name": "EUI Autocomplete",
+      "slug": "eui-autocomplete",
+      "downloads": 6
+    },
+    {
+      "id": 26236,
+      "key": "kk.kkhouse777.okogeprogressbar",
+      "name": "okoge-progress-bar",
+      "slug": "okoge-progress-bar",
+      "downloads": 1
+    },
+    {
+      "id": 26237,
+      "key": "ChatCode",
+      "name": "ChatCode",
+      "slug": "chatcode",
+      "downloads": 0
+    },
+    {
+      "id": 26238,
+      "key": "cn.lidd.workspace.tool-for-ares",
+      "name": "Tool-for-Ares",
+      "slug": "tool-for-ares",
+      "downloads": 1
+    },
+    {
+      "id": 26239,
+      "key": "slanglsp",
+      "name": "Slang [Unofficial]",
+      "slug": "slang-[unofficial]",
+      "downloads": 0
+    },
+    {
+      "id": 26240,
+      "key": "com.github.wkkya.fusionpdf",
+      "name": "FusionPDF",
+      "slug": "fusionpdf",
+      "downloads": 0
+    },
+    {
+      "id": 26241,
+      "key": "PopNLock",
+      "name": "Pop N'Lock",
+      "slug": "pop-n'lock",
+      "downloads": 0
+    },
+    {
+      "id": 26242,
+      "key": "com.youlu.plugin",
+      "name": "Gen Mapper Xml Test File",
+      "slug": "gen-mapper-xml-test-file",
+      "downloads": 0
+    },
+    {
+      "id": 26243,
+      "key": "com.harmonyos.cases",
+      "name": "HarmonyOS NEXT Component Market",
+      "slug": "harmonyos-next-component-market",
+      "downloads": 0
+    },
+    {
+      "id": 26244,
+      "key": "cn.lyy.NiuKeInIdea",
+      "name": "\u725b\u5ba2\u6478\u9c7c\u63d2\u4ef6",
+      "slug": "\u725b\u5ba2\u6478\u9c7c\u63d2\u4ef6",
+      "downloads": 0
+    },
+    {
+      "id": 26245,
+      "key": "com.github.xtestw.cutoolideaplugin",
+      "name": "CuTool",
+      "slug": "cutool",
+      "downloads": 0
+    },
+    {
+      "id": 26247,
+      "key": "com.sapient.slingshot",
+      "name": "Slingshot",
+      "slug": "slingshot",
+      "downloads": 0
+    },
+    {
+      "id": 26248,
+      "key": "pangu-pt-language",
+      "name": "Pangu-pt-language",
+      "slug": "pangu-pt-language",
+      "downloads": 0
+    },
+    {
+      "id": 26250,
+      "key": "nl.jolanrensen.kodex",
+      "name": "/** KoDEx */: Kotlin Documentation Extensions",
+      "slug": "/**-kodex-*/:-kotlin-documentation-extensions",
+      "downloads": 0
+    },
+    {
+      "id": 26251,
+      "key": "com.sohocn.deep.seek",
+      "name": "DeepSeek Coder",
+      "slug": "deepseek-coder",
+      "downloads": 0
+    },
+    {
+      "id": 26252,
+      "key": "com.llm.gpt_home",
+      "name": "Gpt_home",
+      "slug": "gpt_home",
+      "downloads": 0
+    },
+    {
+      "id": 26253,
+      "key": "com.fenghen.notforlearning",
+      "name": "notforlearning",
+      "slug": "notforlearning",
+      "downloads": 0
+    },
+    {
+      "id": 26254,
+      "key": "Private Course Python Course 03012025_Maria Ogneva_Python",
+      "name": "Private Course Python Course 03012025",
+      "slug": "private-course-python-course-03012025",
+      "downloads": 0
+    },
+    {
+      "id": 26255,
+      "key": "com.softtek.FridaGPT",
+      "name": "FridaGPT",
+      "slug": "fridagpt",
+      "downloads": 0
     }
   ]
 }
