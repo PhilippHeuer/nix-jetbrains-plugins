@@ -84132,6 +84132,209 @@
       "name": "FridaGPT",
       "slug": "fridagpt",
       "downloads": 0
+    },
+    {
+      "id": 26256,
+      "key": "com.github.eucyt.rashimban",
+      "name": "Rashimban",
+      "slug": "rashimban",
+      "downloads": 33
+    },
+    {
+      "id": 26257,
+      "key": "github.com.coderyw.goland-swag-apifox-plugin",
+      "name": "Swag Import Apifox",
+      "slug": "swag-import-apifox",
+      "downloads": 20
+    },
+    {
+      "id": 26258,
+      "key": "com.fina.wheelclass",
+      "name": "WheelClass",
+      "slug": "wheelclass",
+      "downloads": 2
+    },
+    {
+      "id": 26259,
+      "key": "com.ternaryop.mos",
+      "name": "Math On Selection",
+      "slug": "math-on-selection",
+      "downloads": 35
+    },
+    {
+      "id": 26260,
+      "key": "taxi.tap30.compose.preview.ComposePreviewGenerator",
+      "name": "ComposePreviewGenerator",
+      "slug": "composepreviewgenerator",
+      "downloads": 0
+    },
+    {
+      "id": 26265,
+      "key": "com.multixlab.conditional.search",
+      "name": "Conditional Search",
+      "slug": "conditional-search",
+      "downloads": 0
+    },
+    {
+      "id": 26266,
+      "key": "dev.sandipchitale.jb-codeflow",
+      "name": "Codeflow",
+      "slug": "codeflow",
+      "downloads": 13
+    },
+    {
+      "id": 26267,
+      "key": "com.wjcdx.vhdl-lang-plugin",
+      "name": "VHDL Language Support",
+      "slug": "vhdl-language-support",
+      "downloads": 15
+    },
+    {
+      "id": 26268,
+      "key": "de.nrunodos.plugins.custom-comparison",
+      "name": "Custom Comparison",
+      "slug": "custom-comparison",
+      "downloads": 1
+    },
+    {
+      "id": 26269,
+      "key": "com.akefirad.groom",
+      "name": "Groom",
+      "slug": "groom",
+      "downloads": 1
+    },
+    {
+      "id": 26270,
+      "key": "co.anbora.labs.jenkins.jenkinsFile",
+      "name": "Jenkins File",
+      "slug": "jenkins-file",
+      "downloads": 81
+    },
+    {
+      "id": 26271,
+      "key": "com.cjoop.mybatis.codegen.tool",
+      "name": "MybatisPlusCodeGenTool",
+      "slug": "mybatispluscodegentool",
+      "downloads": 0
+    },
+    {
+      "id": 26272,
+      "key": "com.github.continuedev.autosailintellijextension",
+      "name": "Autosail",
+      "slug": "autosail",
+      "downloads": 0
+    },
+    {
+      "id": 26273,
+      "key": "Private Test Kotlin Course 06012025_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 06012025",
+      "slug": "private-test-kotlin-course-06012025",
+      "downloads": 3
+    },
+    {
+      "id": 26274,
+      "key": "com.adrianguenter.php_declaration_hints",
+      "name": "PHP Declaration Hints",
+      "slug": "php-declaration-hints",
+      "downloads": 20
+    },
+    {
+      "id": 26275,
+      "key": "dev.sweep.assistant",
+      "name": "Sweep AI",
+      "slug": "sweep-ai",
+      "downloads": 2
+    },
+    {
+      "id": 26279,
+      "key": "com.gitlab.jethril.poweredCursor",
+      "name": "Powered Cursor",
+      "slug": "powered-cursor",
+      "downloads": 1
+    },
+    {
+      "id": 26284,
+      "key": "org.logicboost.chat",
+      "name": "LogicBoost AI Assistant",
+      "slug": "logicboost-ai-assistant",
+      "downloads": 1
+    },
+    {
+      "id": 26285,
+      "key": "com.fornax.jet-brains-extension",
+      "name": "Eino Dev",
+      "slug": "eino-dev",
+      "downloads": 1
+    },
+    {
+      "id": 26287,
+      "key": "org.cc.cstc",
+      "name": "XTC",
+      "slug": "xtc",
+      "downloads": 0
+    },
+    {
+      "id": 26288,
+      "key": "org.openspg.schema-highlighter",
+      "name": "openspg-schema-highlighter",
+      "slug": "openspg-schema-highlighter",
+      "downloads": 0
+    },
+    {
+      "id": 26291,
+      "key": "aiquant.plugin",
+      "name": "CardanoPyC",
+      "slug": "cardanopyc",
+      "downloads": 1
+    },
+    {
+      "id": 26292,
+      "key": "com.github.continuedev.autosaildevintellijextension",
+      "name": "Autosail-dev",
+      "slug": "autosail-dev",
+      "downloads": 0
+    },
+    {
+      "id": 26293,
+      "key": "com.zoey.EasyCommit",
+      "name": "Easy Commit",
+      "slug": "easy-commit",
+      "downloads": 4
+    },
+    {
+      "id": 26295,
+      "key": "com.github.schmosbyy.mobtimer",
+      "name": "Mob Timer",
+      "slug": "mob-timer",
+      "downloads": 0
+    },
+    {
+      "id": 26296,
+      "key": "io.harness.ai.codeassistant",
+      "name": "Harness AI Code Assistant",
+      "slug": "harness-ai-code-assistant",
+      "downloads": 0
+    },
+    {
+      "id": 26297,
+      "key": "ai.lbai.plugin.LBAICopilot",
+      "name": "LBAI Copilot",
+      "slug": "lbai-copilot",
+      "downloads": 0
+    },
+    {
+      "id": 26298,
+      "key": "com.contrastsecurity.ide",
+      "name": "Contrast IDE",
+      "slug": "contrast-ide",
+      "downloads": 0
+    },
+    {
+      "id": 26299,
+      "key": "com.letmedevelop.copyplugin",
+      "name": "Pathwise Copy",
+      "slug": "pathwise-copy",
+      "downloads": 0
     }
   ]
 }
