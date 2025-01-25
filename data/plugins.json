@@ -84657,6 +84657,335 @@
       "name": "Clean Architecture Creator",
       "slug": "clean-architecture-creator",
       "downloads": 0
+    },
+    {
+      "id": 26352,
+      "key": "org.javamaster.HttpRequest",
+      "name": "HttpRequest",
+      "slug": "httprequest",
+      "downloads": 89
+    },
+    {
+      "id": 26353,
+      "key": "com.bytetube.BytetubePlugin",
+      "name": "BytetubeTools",
+      "slug": "bytetubetools",
+      "downloads": 0
+    },
+    {
+      "id": 26354,
+      "key": "com.alexkuz.composetemplates",
+      "name": "ComposeTemplates",
+      "slug": "composetemplates",
+      "downloads": 1
+    },
+    {
+      "id": 26355,
+      "key": "navicat-decrypt",
+      "name": "navicat-decrypt",
+      "slug": "navicat-decrypt",
+      "downloads": 13
+    },
+    {
+      "id": 26356,
+      "key": "io.neo.plugin.mf.BetterX_Tools",
+      "name": "BetterX Tools",
+      "slug": "betterx-tools",
+      "downloads": 3
+    },
+    {
+      "id": 26357,
+      "key": "com.github.skrcode.springxmlbeantoannotation",
+      "name": "spring-xml-bean-to-annotation",
+      "slug": "spring-xml-bean-to-annotation",
+      "downloads": 0
+    },
+    {
+      "id": 26358,
+      "key": "works.szabope.pylint",
+      "name": "Pylint",
+      "slug": "pylint",
+      "downloads": 42
+    },
+    {
+      "id": 26359,
+      "key": "com.turin.expModuleLocal",
+      "name": "Export Module Files",
+      "slug": "export-module-files",
+      "downloads": 0
+    },
+    {
+      "id": 26360,
+      "key": "Sqlighter",
+      "name": "Sqlighter",
+      "slug": "sqlighter",
+      "downloads": 1
+    },
+    {
+      "id": 26361,
+      "key": "com.weakviord.filetagger",
+      "name": "File Tagger",
+      "slug": "file-tagger",
+      "downloads": 45
+    },
+    {
+      "id": 26362,
+      "key": "com.work.plugin.jump-server",
+      "name": "Jump Server",
+      "slug": "jump-server",
+      "downloads": 0
+    },
+    {
+      "id": 26363,
+      "key": "com.tortoise.dsl-plugin",
+      "name": "Dsl",
+      "slug": "dsl",
+      "downloads": 0
+    },
+    {
+      "id": 26364,
+      "key": "Private Test Kotlin Course 20012024_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 20012024",
+      "slug": "private-test-kotlin-course-20012024",
+      "downloads": 1
+    },
+    {
+      "id": 26365,
+      "key": "io.revenate.actionate",
+      "name": "Actionate",
+      "slug": "actionate",
+      "downloads": 3
+    },
+    {
+      "id": 26366,
+      "key": "com.github.tanshion.mybatis-condition",
+      "name": "Mybatis Condition",
+      "slug": "mybatis-condition",
+      "downloads": 61
+    },
+    {
+      "id": 26367,
+      "key": "com.nothing.plugin.TranslateResMerger",
+      "name": "TranslateResMerger",
+      "slug": "translateresmerger",
+      "downloads": 0
+    },
+    {
+      "id": 26368,
+      "key": "Private Test Kotlin Course 21012025_Maria Ogneva_kotlin",
+      "name": "Private Test Kotlin Course 21012025",
+      "slug": "private-test-kotlin-course-21012025",
+      "downloads": 1
+    },
+    {
+      "id": 26369,
+      "key": "net.bluehill.commentRemover",
+      "name": "Comment Remover",
+      "slug": "comment-remover",
+      "downloads": 16
+    },
+    {
+      "id": 26371,
+      "key": "test course_Gleb Oborin_kotlin",
+      "name": "test course",
+      "slug": "test-course",
+      "downloads": 6
+    },
+    {
+      "id": 26372,
+      "key": "Java Course3_Daria Isachenkova_JAVA",
+      "name": "Java Course3",
+      "slug": "java-course3",
+      "downloads": 4
+    },
+    {
+      "id": 26373,
+      "key": "linqingying.cangjie-analyzer",
+      "name": "CangJie",
+      "slug": "cangjie",
+      "downloads": 0
+    },
+    {
+      "id": 26375,
+      "key": "com.loklok.confuse.confuse",
+      "name": "CodeConfuse",
+      "slug": "codeconfuse",
+      "downloads": 0
+    },
+    {
+      "id": 26376,
+      "key": "Private Test Python Course 22012025_Maria Ogneva_Python",
+      "name": "Private Test Python Course 22012025",
+      "slug": "private-test-python-course-22012025",
+      "downloads": 6
+    },
+    {
+      "id": 26378,
+      "key": "Private Test C++ (Catch 2.0) Course2 22012025_Maria Ogneva_ObjectiveC",
+      "name": "Private Test C++ (Catch 2.0) Course2 22012025",
+      "slug": "private-test-c++-(catch-2.0)-course2-22012025",
+      "downloads": 6
+    },
+    {
+      "id": 26379,
+      "key": "com.intellij.smartUpdate",
+      "name": "Smart Update",
+      "slug": "smart-update",
+      "downloads": 5
+    },
+    {
+      "id": 26380,
+      "key": "com.github.antonirokitnicki.gitassumeunchanged",
+      "name": "git--assume-unchanged",
+      "slug": "git--assume-unchanged",
+      "downloads": 0
+    },
+    {
+      "id": 26381,
+      "key": "it.casaricci.hass.plugin",
+      "name": "Home Assistant",
+      "slug": "home-assistant",
+      "downloads": 0
+    },
+    {
+      "id": 26382,
+      "key": "com.plugin.custompromptexporter",
+      "name": "Export AI Assistant Prompt",
+      "slug": "export-ai-assistant-prompt",
+      "downloads": 0
+    },
+    {
+      "id": 26383,
+      "key": "BaiLongCoder",
+      "name": "BaiLong Coder",
+      "slug": "bailong-coder",
+      "downloads": 0
+    },
+    {
+      "id": 26384,
+      "key": "com.henry.plugin.AdbCommandSender",
+      "name": "AdbCommandSender",
+      "slug": "adbcommandsender",
+      "downloads": 0
+    },
+    {
+      "id": 26386,
+      "key": "Private Test JavaScript Course 23012025_Maria Ogneva_JavaScript",
+      "name": "Private Test JavaScript Course 23012025",
+      "slug": "private-test-javascript-course-23012025",
+      "downloads": 6
+    },
+    {
+      "id": 26387,
+      "key": "io.mamad.astgrepjetbrains",
+      "name": "ast-grep",
+      "slug": "ast-grep",
+      "downloads": 0
+    },
+    {
+      "id": 26388,
+      "key": "fr.baretto.OllamAssist",
+      "name": "OllamAssist",
+      "slug": "ollamassist",
+      "downloads": 0
+    },
+    {
+      "id": 26389,
+      "key": "issuedepyt",
+      "name": "Issue Dependencies",
+      "slug": "issue-dependencies",
+      "downloads": 0
+    },
+    {
+      "id": 26390,
+      "key": "org.ifinalframework.plugins.jetbrains.aio",
+      "name": "Final AIO",
+      "slug": "final-aio",
+      "downloads": 0
+    },
+    {
+      "id": 26391,
+      "key": "com.github.yamlandprops",
+      "name": "Convert YAML and Properties File",
+      "slug": "convert-yaml-and-properties-file",
+      "downloads": 0
+    },
+    {
+      "id": 26393,
+      "key": "com.locobuilder.helper.lb-helper-ws",
+      "name": "Lb Helper",
+      "slug": "lb-helper",
+      "downloads": 0
+    },
+    {
+      "id": 26394,
+      "key": "com.locobuilder.helper.idea.lb-helper",
+      "name": "Lb Helper",
+      "slug": "lb-helper",
+      "downloads": 0
+    },
+    {
+      "id": 26395,
+      "key": "com.wenjunhuang.codeepiphany",
+      "name": "Code Epiphany",
+      "slug": "code-epiphany",
+      "downloads": 0
+    },
+    {
+      "id": 26396,
+      "key": "ReSharperPlugin.MvvmPlugin",
+      "name": "Mvvm Helper",
+      "slug": "mvvm-helper",
+      "downloads": 0
+    },
+    {
+      "id": 26397,
+      "key": "com.jetbrains.mvvmhelperrider",
+      "name": "Mvvm Helper",
+      "slug": "mvvm-helper",
+      "downloads": 0
+    },
+    {
+      "id": 26398,
+      "key": "net.bluehill.commentRemover.csvbcpp",
+      "name": "Comment Remover - C#/VB/C++",
+      "slug": "comment-remover---c#/vb/c++",
+      "downloads": 0
+    },
+    {
+      "id": 26399,
+      "key": "com.hsjry.lingxi.apidocgen",
+      "name": "ApiDocGen",
+      "slug": "apidocgen",
+      "downloads": 0
+    },
+    {
+      "id": 26400,
+      "key": "Private Test Rust Course 24012026_Maria Ogneva_Rust",
+      "name": "Private Test Rust Course 24012026",
+      "slug": "private-test-rust-course-24012026",
+      "downloads": 0
+    },
+    {
+      "id": 26401,
+      "key": "com.github.eatmoreapple.juice",
+      "name": "Juice",
+      "slug": "juice",
+      "downloads": 0
+    },
+    {
+      "id": 26402,
+      "key": "Private Test Go Course 24012025_Maria Ogneva_go",
+      "name": "Private Test Go Course 24012025 (with exception)",
+      "slug": "private-test-go-course-24012025-(with-exception)",
+      "downloads": 0
+    },
+    {
+      "id": 26403,
+      "key": "com.github.nearbygems.bergendarktheme",
+      "name": "bergen_dark_theme",
+      "slug": "bergen_dark_theme",
+      "downloads": 0
     }
   ]
 }
