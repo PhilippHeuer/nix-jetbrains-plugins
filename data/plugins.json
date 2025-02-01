@@ -84986,6 +84986,237 @@
       "name": "bergen_dark_theme",
       "slug": "bergen_dark_theme",
       "downloads": 0
+    },
+    {
+      "id": 26404,
+      "key": "lermitage.extratci.lifetime",
+      "name": "Extra ToolWindow Colorful Icons Lifetime",
+      "slug": "extra-toolwindow-colorful-icons-lifetime",
+      "downloads": 23
+    },
+    {
+      "id": 26405,
+      "key": "co.anbora.labs.jenkinsfile.linter",
+      "name": "Jenkinsfile Linter Offline",
+      "slug": "jenkinsfile-linter-offline",
+      "downloads": 18
+    },
+    {
+      "id": 26407,
+      "key": "in.vikasrathod.markdownview",
+      "name": "Markdown View",
+      "slug": "markdown-view",
+      "downloads": 29
+    },
+    {
+      "id": 26408,
+      "key": "fleet.licensing",
+      "name": "Licensing",
+      "slug": "licensing",
+      "downloads": 1
+    },
+    {
+      "id": 26410,
+      "key": "com.giabrend.copycode",
+      "name": "Copy All Code",
+      "slug": "copy-all-code",
+      "downloads": 0
+    },
+    {
+      "id": 26411,
+      "key": "JavaxPlugin",
+      "name": "Javax",
+      "slug": "javax",
+      "downloads": 0
+    },
+    {
+      "id": 26412,
+      "key": "com.github.xepozz.crontab",
+      "name": "Cron & Crontab Support",
+      "slug": "cron-&-crontab-support",
+      "downloads": 296
+    },
+    {
+      "id": 26413,
+      "key": "com.blackbox.intellijextension",
+      "name": "BlackBoxAI",
+      "slug": "blackboxai",
+      "downloads": 0
+    },
+    {
+      "id": 26415,
+      "key": "org.ifinalframework.plugins.aio",
+      "name": "Final AIO",
+      "slug": "final-aio",
+      "downloads": 0
+    },
+    {
+      "id": 26416,
+      "key": "Private Test Android Course 27012025_Maria Ogneva_kotlin",
+      "name": "Private Test Android Course 27012025",
+      "slug": "private-test-android-course-27012025",
+      "downloads": 2
+    },
+    {
+      "id": 26418,
+      "key": "HexagonalGenerator",
+      "name": "Hexagonal-Generator",
+      "slug": "hexagonal-generator",
+      "downloads": 3
+    },
+    {
+      "id": 26419,
+      "key": "Private Test Java Course 27012025_Maria Ogneva_JAVA",
+      "name": "Private Test Java Course 27012025",
+      "slug": "private-test-java-course-27012025",
+      "downloads": 3
+    },
+    {
+      "id": 26421,
+      "key": "com.modulith.handler-navigator",
+      "name": "Handler-Navigator",
+      "slug": "handler-navigator",
+      "downloads": 8
+    },
+    {
+      "id": 26422,
+      "key": "com.intellij.monorepo.devkit",
+      "name": "JetBrains Monorepo DevKit",
+      "slug": "jetbrains-monorepo-devkit",
+      "downloads": 97
+    },
+    {
+      "id": 26424,
+      "key": "intelliboom",
+      "name": "Code Exploder",
+      "slug": "code-exploder",
+      "downloads": 64
+    },
+    {
+      "id": 26425,
+      "key": "dev.flrp.fleet.atom",
+      "name": "Fleet Atom One",
+      "slug": "fleet-atom-one",
+      "downloads": 0
+    },
+    {
+      "id": 26426,
+      "key": "pl.atingo.bts",
+      "name": "BTS: Database Selector",
+      "slug": "bts:-database-selector",
+      "downloads": 0
+    },
+    {
+      "id": 26427,
+      "key": "Private Test Python Course 28012025_Maria Ogneva_Python",
+      "name": "Private Test Python Course 28012025",
+      "slug": "private-test-python-course-28012025",
+      "downloads": 3
+    },
+    {
+      "id": 26429,
+      "key": "com.intellij.invalidid",
+      "name": "Invalid ID for IDE",
+      "slug": "invalid-id-for-ide",
+      "downloads": 0
+    },
+    {
+      "id": 26430,
+      "key": "Private Test Rust Course 28012025_Maria Ogneva_Rust",
+      "name": "Private Test Rust Course 28012025",
+      "slug": "private-test-rust-course-28012025",
+      "downloads": 3
+    },
+    {
+      "id": 26431,
+      "key": "com.github.bukowa.twuiplug",
+      "name": "twuiplug",
+      "slug": "twuiplug",
+      "downloads": 2
+    },
+    {
+      "id": 26432,
+      "key": "com.quickmemo.plugin",
+      "name": "Quick Memo",
+      "slug": "quick-memo",
+      "downloads": 38
+    },
+    {
+      "id": 26433,
+      "key": "net.fedustria.reactcomponentcreator",
+      "name": "React Component Generator",
+      "slug": "react-component-generator",
+      "downloads": 12
+    },
+    {
+      "id": 26435,
+      "key": "rs.soph.kotwiser",
+      "name": "Kotwiser",
+      "slug": "kotwiser",
+      "downloads": 4
+    },
+    {
+      "id": 26436,
+      "key": "dev.honkanen.htmxpro-lifetime",
+      "name": "HTMX Pro (Lifetime)",
+      "slug": "htmx-pro-(lifetime)",
+      "downloads": 2
+    },
+    {
+      "id": 26437,
+      "key": "com.utility.json",
+      "name": "JSON Utility",
+      "slug": "json-utility",
+      "downloads": 3
+    },
+    {
+      "id": 26438,
+      "key": "com.myaos.xmind-to-excel",
+      "name": "xmind-to-excel",
+      "slug": "xmind-to-excel",
+      "downloads": 6
+    },
+    {
+      "id": 26439,
+      "key": "FunMode",
+      "name": "Fun Mode",
+      "slug": "fun-mode",
+      "downloads": 0
+    },
+    {
+      "id": 26440,
+      "key": "com.github.zarkob.code2prompt",
+      "name": "Code2Prompt",
+      "slug": "code2prompt",
+      "downloads": 0
+    },
+    {
+      "id": 26441,
+      "key": "color.scheme.SpacegrayCustom",
+      "name": "SpacegrayCustom Color Scheme",
+      "slug": "spacegraycustom-color-scheme",
+      "downloads": 0
+    },
+    {
+      "id": 26443,
+      "key": "fleet.webApp",
+      "name": "AI WebApp Preview",
+      "slug": "ai-webapp-preview",
+      "downloads": 0
+    },
+    {
+      "id": 26444,
+      "key": "cn.hylstudio.skykoma.plugin.idea",
+      "name": "Skykoma",
+      "slug": "skykoma",
+      "downloads": 0
+    },
+    {
+      "id": 26445,
+      "key": "gg.ninetyfive",
+      "name": "NinetyFive",
+      "slug": "ninetyfive",
+      "downloads": 0
     }
   ]
 }
