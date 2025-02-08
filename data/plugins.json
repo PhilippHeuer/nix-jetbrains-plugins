@@ -85217,6 +85217,307 @@
       "name": "NinetyFive",
       "slug": "ninetyfive",
       "downloads": 0
+    },
+    {
+      "id": 26449,
+      "key": "com.github.peterhoburg.filepopup",
+      "name": "file-popup",
+      "slug": "file-popup",
+      "downloads": 36
+    },
+    {
+      "id": 26450,
+      "key": "com.banshee.BetterCommit",
+      "name": "BetterCommit",
+      "slug": "bettercommit",
+      "downloads": 83
+    },
+    {
+      "id": 26451,
+      "key": "com.github.pcha.bloblang",
+      "name": "Bloblang Support",
+      "slug": "bloblang-support",
+      "downloads": 4
+    },
+    {
+      "id": 26453,
+      "key": "com.github.sisimomo.codegraph",
+      "name": "CodeGraph",
+      "slug": "codegraph",
+      "downloads": 17
+    },
+    {
+      "id": 26454,
+      "key": "com.murlodin.fca-plugin",
+      "name": "FCA",
+      "slug": "fca",
+      "downloads": 62
+    },
+    {
+      "id": 26455,
+      "key": "com.xhf.leetcode-runner",
+      "name": "Leetcode-Runner",
+      "slug": "leetcode-runner",
+      "downloads": 16
+    },
+    {
+      "id": 26456,
+      "key": "com.anritsu.mediation.plugin.dtl",
+      "name": "Dtl",
+      "slug": "dtl",
+      "downloads": 1
+    },
+    {
+      "id": 26457,
+      "key": "net.optionfactory.jetbrains.ansivault",
+      "name": "AnsiVault",
+      "slug": "ansivault",
+      "downloads": 14
+    },
+    {
+      "id": 26460,
+      "key": "com.kamel.rafiq_al_iman",
+      "name": "Rafiq Al-Iman",
+      "slug": "rafiq-al-iman",
+      "downloads": 87
+    },
+    {
+      "id": 26461,
+      "key": "com.github.seanwang2008.json2tablep",
+      "name": "json2tablep",
+      "slug": "json2tablep",
+      "downloads": 130
+    },
+    {
+      "id": 26462,
+      "key": "com.linecorp.cse.scavenger-viewer",
+      "name": "Scavenger Viewer",
+      "slug": "scavenger-viewer",
+      "downloads": 0
+    },
+    {
+      "id": 26463,
+      "key": "com.uublue.yimi.codegen",
+      "name": "Yimi CodeGen",
+      "slug": "yimi-codegen",
+      "downloads": 0
+    },
+    {
+      "id": 26464,
+      "key": "sh.arif.llmdog",
+      "name": "LLMDog",
+      "slug": "llmdog",
+      "downloads": 26
+    },
+    {
+      "id": 26465,
+      "key": "com.github.yorik56.gitmoji-commit-column",
+      "name": "Gitmoji Commit Column",
+      "slug": "gitmoji-commit-column",
+      "downloads": 4
+    },
+    {
+      "id": 26466,
+      "key": "com.tzengshinfu.advanced-java-folding-plus",
+      "name": "Advanced Java Folding Plus",
+      "slug": "advanced-java-folding-plus",
+      "downloads": 0
+    },
+    {
+      "id": 26467,
+      "key": "com.pawsql.jetbrain",
+      "name": "PawSQL Client, SQL Optim, Index Advice for MySQL/PostgreSQL/etc.",
+      "slug": "pawsql-client,-sql-optim,-index-advice-for-mysql/postgresql/etc.",
+      "downloads": 0
+    },
+    {
+      "id": 26468,
+      "key": "com.fina.valuetojson",
+      "name": "Value To JSON",
+      "slug": "value-to-json",
+      "downloads": 44
+    },
+    {
+      "id": 26469,
+      "key": "com.aruisi.bean-collapse",
+      "name": "Bean Collapse",
+      "slug": "bean-collapse",
+      "downloads": 0
+    },
+    {
+      "id": 26470,
+      "key": "com.github.xepozz.robots_txt",
+      "name": "Robots.txt",
+      "slug": "robots.txt",
+      "downloads": 3
+    },
+    {
+      "id": 26471,
+      "key": "com.hoho.cargo-helper",
+      "name": "Cargo-Helper",
+      "slug": "cargo-helper",
+      "downloads": 0
+    },
+    {
+      "id": 26472,
+      "key": "com.jetbrains.gerryThemesPro.lifetime",
+      "name": "Gerry Themes Pro (Lifetime)",
+      "slug": "gerry-themes-pro-(lifetime)",
+      "downloads": 34
+    },
+    {
+      "id": 26474,
+      "key": "com.github.xepozz.phplrt",
+      "name": "PHP Language Recognition Tool (phplrt)",
+      "slug": "php-language-recognition-tool-(phplrt)",
+      "downloads": 6
+    },
+    {
+      "id": 26475,
+      "key": "com.zhang.demo3",
+      "name": "Study",
+      "slug": "study",
+      "downloads": 0
+    },
+    {
+      "id": 26476,
+      "key": "com.tortoise.dsl-plugin",
+      "name": "Dsl",
+      "slug": "dsl",
+      "downloads": 2
+    },
+    {
+      "id": 26477,
+      "key": "com.github.xepozz.gitattributes",
+      "name": ".gitattributes support",
+      "slug": ".gitattributes-support",
+      "downloads": 29
+    },
+    {
+      "id": 26478,
+      "key": "com.anan.annote",
+      "name": "AnNote",
+      "slug": "annote",
+      "downloads": 0
+    },
+    {
+      "id": 26479,
+      "key": "com.gendtest.ai",
+      "name": "GenDTest AI",
+      "slug": "gendtest-ai",
+      "downloads": 0
+    },
+    {
+      "id": 26480,
+      "key": "com.github.mr3zee.kotlinPlugins",
+      "name": "Kotlin External FIR Support",
+      "slug": "kotlin-external-fir-support",
+      "downloads": 2
+    },
+    {
+      "id": 26481,
+      "key": "cc.xiaonuo.smart-flow-plugin",
+      "name": "smart-flow",
+      "slug": "smart-flow",
+      "downloads": 0
+    },
+    {
+      "id": 26482,
+      "key": "xyz.block.kotlin-formatter",
+      "name": "kotlin-formatter",
+      "slug": "kotlin-formatter",
+      "downloads": 5
+    },
+    {
+      "id": 26483,
+      "key": "com.clipcraft",
+      "name": "ClipCraft",
+      "slug": "clipcraft",
+      "downloads": 0
+    },
+    {
+      "id": 26484,
+      "key": "com.valantic.ide.plugin.mutation",
+      "name": "MutationTester2",
+      "slug": "mutationtester2",
+      "downloads": 0
+    },
+    {
+      "id": 26485,
+      "key": "com.guanpj.me.codereview",
+      "name": "Git Console Monitor",
+      "slug": "git-console-monitor",
+      "downloads": 0
+    },
+    {
+      "id": 26486,
+      "key": "com.acooly.plugin",
+      "name": "Acooly Coder",
+      "slug": "acooly-coder",
+      "downloads": 0
+    },
+    {
+      "id": 26487,
+      "key": "Advanced ML, NUP_Aleksandr Avdiushenko_Python",
+      "name": "Advanced ML, NUP",
+      "slug": "advanced-ml,-nup",
+      "downloads": 0
+    },
+    {
+      "id": 26488,
+      "key": "docs.gen.helper",
+      "name": "KDocGen",
+      "slug": "kdocgen",
+      "downloads": 0
+    },
+    {
+      "id": 26489,
+      "key": "org.faktorips",
+      "name": "Faktor-IPS Development Tools",
+      "slug": "faktor-ips-development-tools",
+      "downloads": 0
+    },
+    {
+      "id": 26491,
+      "key": "com.github.xepozz.gitcodeowners",
+      "name": "Git Codeowners",
+      "slug": "git-codeowners",
+      "downloads": 0
+    },
+    {
+      "id": 26492,
+      "key": "io.duhanmo.quicknote",
+      "name": "Quicknote",
+      "slug": "quicknote",
+      "downloads": 0
+    },
+    {
+      "id": 26493,
+      "key": "com.graceful.convert.GracefulConvert",
+      "name": "GracefulConvert",
+      "slug": "gracefulconvert",
+      "downloads": 0
+    },
+    {
+      "id": 26494,
+      "key": "com.github.wkkya.fusionpdf",
+      "name": "FusionPDF",
+      "slug": "fusionpdf",
+      "downloads": 0
+    },
+    {
+      "id": 26495,
+      "key": "org.localization4idea",
+      "name": "Russian Language Pack \u2013 \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u042f\u0437\u044b\u043a",
+      "slug": "russian-language-pack-\u2013-\u0440\u0443\u0441\u0441\u043a\u0438\u0439-\u044f\u0437\u044b\u043a",
+      "downloads": 0
+    },
+    {
+      "id": 26496,
+      "key": "com.aminnez.plugin.clean.CleanArchitecture",
+      "name": "Folder Structure Generator (Clean and Own)",
+      "slug": "folder-structure-generator-(clean-and-own)",
+      "downloads": 0
     }
   ]
 }
