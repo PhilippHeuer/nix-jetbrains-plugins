@@ -85518,6 +85518,20 @@
       "name": "Folder Structure Generator (Clean and Own)",
       "slug": "folder-structure-generator-(clean-and-own)",
       "downloads": 0
+    },
+    {
+      "id": 26497,
+      "key": "cai.ConvenientTools",
+      "name": "ConvenientTools",
+      "slug": "convenienttools",
+      "downloads": 16
+    },
+    {
+      "id": 26498,
+      "key": "com.stackfilesync.plugin",
+      "name": "Stack File Sync",
+      "slug": "stack-file-sync",
+      "downloads": 10
     }
   ]
 }
