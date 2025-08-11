@@ -19,14 +19,22 @@ in rec {
   mkPlugin = id: file: files."${file}";
 
   selectFile = id: ide: build:
+  let
+    plugin = pluginsJson.plugins."${id}";
+    availableBuilds = builtins.attrNames plugin.builds;
+    buildNo = if build == "latest" then
+      builtins.elemAt availableBuilds (builtins.length availableBuilds - 1)
+    else
+      build;
+  in
     if !builtins.elem ide pluginsJson.plugins."${id}".compatible then
       throw "Plugin with id ${id} does not support IDE ${ide}"
-    else if !pluginsJson.plugins."${id}".builds ? "${build}" then
-      throw "Plugin with id ${id} does not support build ${build}"
-    else if pluginsJson.plugins."${id}".builds."${build}" == null then
-      throw "Plugin with id ${id} does not support build ${build}"
+    else if !pluginsJson.plugins."${id}".builds ? "${buildNo}" then
+      throw "Plugin with id ${id} does not support build ${buildNo}"
+    else if pluginsJson.plugins."${id}".builds."${buildNo}" == null then
+      throw "Plugin with id ${id} does not support build ${buildNo}"
     else
-      pluginsJson.plugins."${id}".builds."${build}";
+      pluginsJson.plugins."${id}".builds."${buildNo}";
 
   byId = builtins.listToAttrs
     (map
@@ -35,7 +43,7 @@ in rec {
         value = ide: build: mkPlugin id (selectFile id ide build);
       })
       ids);
-  
+
   byKey = builtins.listToAttrs
     (map
       (id: {
@@ -44,14 +52,18 @@ in rec {
       })
       ids);
 
-  addPlugins = ide: unprocessedPlugins:
+  addPlugins = ide: ideBuild: unprocessedPlugins:
     let
+      buildNo = if ideBuild != null then ideBuild else ide.buildNumber;
       processPlugin = plugin:
-        if byId ? "${plugin}" then byId."${plugin}" ide.pname ide.buildNumber else
-        if byKey ? "${plugin}" then byKey."${plugin}" ide.pname ide.buildNumber else
+        if byId ? "${plugin}" then byId."${plugin}" ide.pname buildNo else
+        if byKey ? "${plugin}" then byKey."${plugin}" ide.pname buildNo else
         plugin;
 
       plugins = map processPlugin unprocessedPlugins;
+      idePkg = ide.overrideAttrs (_: {
+        disallowedReferences = []; # <- fix the impurity problem
+      });
 
-    in pkgs.jetbrains.plugins.addPlugins ide plugins;
+    in pkgs.jetbrains.plugins.addPlugins idePkg plugins;
 }
