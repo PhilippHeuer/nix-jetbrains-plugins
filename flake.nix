@@ -5,7 +5,7 @@
   ";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-25.05";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-25.11";
     nixos-unstable.url = "github:NixOS/nixpkgs/nixos-unstable";
     nixos-master.url = "github:NixOS/nixpkgs/master";
   };
