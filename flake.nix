@@ -5,12 +5,13 @@
   ";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-25.11";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-26.05";
     nixos-unstable.url = "github:NixOS/nixpkgs/nixos-unstable";
     nixos-master.url = "github:NixOS/nixpkgs/master";
   };
 
-  outputs = {self, ... }:
+  outputs =
+    { self, ... }:
     {
       import = pkgs: (import ./plugins.nix { inherit pkgs; });
     };
