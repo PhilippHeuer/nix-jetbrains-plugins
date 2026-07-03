@@ -1,0 +1,271 @@
+{
+  "164": {
+    "id": 164,
+    "key": "IdeaVIM",
+    "name": "IdeaVim",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "mps",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "2.42.0",
+    "url": "https://plugins.jetbrains.com/files/164/1094245/IdeaVIM-2.42.0.zip",
+    "hash": "sha256-kYrlgUyEdgIGXEsJm6Vugf/2kFzEB+GG1Jpi2zbuaj4="
+  },
+  "6317": {
+    "id": 6317,
+    "key": "Lombook Plugin",
+    "name": "Lombok",
+    "compatible": [
+      "idea",
+      "mps"
+    ],
+    "version": "262.8665.81",
+    "url": "https://plugins.jetbrains.com/files/6317/1097040/lombok-262.8665.81.zip",
+    "hash": "sha256-rwsNsBVQmMBGDLxxuEQtWsPqUQNF/fGaguEB9WwoUpU="
+  },
+  "7973": {
+    "id": 7973,
+    "key": "org.sonarlint.idea",
+    "name": "SonarQube for IDE",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "goland",
+      "idea",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "webstorm"
+    ],
+    "version": "12.4.0.84870",
+    "url": "https://plugins.jetbrains.com/files/7973/1084300/sonarlint-intellij-12.4.0.84870.zip",
+    "hash": "sha256-KabC9cN7alQjjuNU2D5dZ3B3bTEoF/klkTI1fKH8DD0="
+  },
+  "8607": {
+    "id": 8607,
+    "key": "nix-idea",
+    "name": "NixIDEA",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "mps",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "0.4.0.21",
+    "url": "https://plugins.jetbrains.com/files/8607/1071829/NixIDEA-0.4.0.21.zip",
+    "hash": "sha256-ADXeE8OOLbNf60893m+YEctGEVZZy+PjGLhOB1lVbQs="
+  },
+  "9792": {
+    "id": 9792,
+    "key": "Key Promoter X",
+    "name": "Key Promoter X",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "mps",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "2026.1.1",
+    "url": "https://plugins.jetbrains.com/files/9792/1087783/Key_Promoter_X-2026.1.1.zip",
+    "hash": "sha256-KJPkU6w0ufJ2R9hr5mYiUT0tbdZdgUDzbUNrrN2MSts="
+  },
+  "10321": {
+    "id": 10321,
+    "key": "com.arcticicestudio.nord.jetbrains",
+    "name": "Nord",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "mps",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "0.13.0",
+    "url": "https://plugins.jetbrains.com/files/10321/100456/nord-jetbrains.jar",
+    "hash": "sha256-w70YuRS3FLd+09yFxI8FO8ky9+qKgfPd5uHuvVwWBSU="
+  },
+  "17718": {
+    "id": 17718,
+    "key": "com.github.copilot",
+    "name": "GitHub Copilot - Your AI Pair Programmer",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "mps",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "1.12.1-251",
+    "url": "https://plugins.jetbrains.com/files/17718/1088134/github-copilot-intellij-1.12.1-251.zip",
+    "hash": "sha256-3inXX+1a7slCge9b72QIKyH+PXuURWanwdPddjc5X30="
+  },
+  "18141": {
+    "id": 18141,
+    "key": "com.github.jmorjsm.rosepineintellij",
+    "name": "Ros\u00e9 Pine",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "mps",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "0.1.0",
+    "url": "https://plugins.jetbrains.com/files/18141/454306/rose-pine-intellij-0.1.0.jar",
+    "hash": "sha256-RJYDg2sU1FSs3/WrSPy/tJdCnrcDsXvKuT3+sVvUeVo="
+  },
+  "18682": {
+    "id": 18682,
+    "key": "com.github.catppuccin.jetbrains",
+    "name": "Catppuccin Theme",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "mps",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "3.6.0",
+    "url": "https://plugins.jetbrains.com/files/18682/1009921/Catppuccin_Theme-3.6.0.zip",
+    "hash": "sha256-K7rxR9yfPLTfsFTg8zEfmBypq4ACs0O4cEK2He1F/iY="
+  },
+  "22282": {
+    "id": 22282,
+    "key": "com.intellij.ml.llm",
+    "name": "JetBrains AI Assistant",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "262.8665.97",
+    "url": "https://plugins.jetbrains.com/files/22282/1097615/ml-llm-262.8665.97.zip",
+    "hash": "sha256-q+oXzb8jEVgzX5Nr80d3jbvfu8r0f7GeMQz0NTZZhT4="
+  },
+  "23029": {
+    "id": 23029,
+    "key": "com.github.catppuccin.jetbrains_icons",
+    "name": "Catppuccin Icons",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "mps",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "1.13.1",
+    "url": "https://plugins.jetbrains.com/files/23029/950679/Catppuccin_Icons-1.13.1.zip",
+    "hash": "sha256-x/4vJKI+Y8LKWhYC7lx73zIAWwppT5Qma+GU/Pb9iYg="
+  },
+  "23451": {
+    "id": 23451,
+    "key": "com.mituuz.fuzzier",
+    "name": "Fuzzier",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "mps",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "2.4.1",
+    "url": "https://plugins.jetbrains.com/files/23451/1069056/fuzzier-2.4.1.zip",
+    "hash": "sha256-nvFVmIwyRFfd+UdZ4cSFdEd/DyGJ7t6NRJ3jKuzrl58="
+  },
+  "26104": {
+    "id": 26104,
+    "key": "org.jetbrains.junie",
+    "name": "Junie, the AI coding agent by JetBrains",
+    "compatible": [
+      "clion",
+      "goland",
+      "idea",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "261.2045.46",
+    "url": "https://plugins.jetbrains.com/files/26104/1087930/ej-release-261.2045.46.zip",
+    "hash": "sha256-Gs4gsPKwGWqGmpKIDwOUACM0bilCvtO2Odc6zKABuUw="
+  }
+}

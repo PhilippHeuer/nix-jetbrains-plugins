@@ -1,0 +1,6 @@
+.direnv/
+result
+tmp
+.vscode
+__pycache__/
+*.pyc

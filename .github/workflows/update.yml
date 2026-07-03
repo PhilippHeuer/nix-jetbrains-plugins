@@ -1,0 +1,73 @@
+name: Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '10 3 * * *'
+
+permissions:
+  actions: read
+  checks: none
+  contents: read
+  deployments: none
+  id-token: none
+  issues: none
+  packages: none
+  pages: none
+  pull-requests: none
+  repository-projects: none
+  security-events: none
+  statuses: none
+
+concurrency:
+  group: '${{ github.workflow }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'
+  cancel-in-progress: true
+
+jobs:
+  UpdatePlugins:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - name: Harden Runner
+        uses: step-security/harden-runner@0080882f6c36860b6ba35c610c98ce87d4e2f26f # v2.10.2
+        with:
+          disable-sudo: false
+          egress-policy: block
+          allowed-endpoints: >-
+            github.com:443
+            api.github.com:443
+            codeload.github.com:443
+            raw.githubusercontent.com:443
+            plugins.jetbrains.com:443
+            downloads.marketplace.jetbrains.com:443
+            cache.nixos.org:443
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@8cdf194da984e4f12b2f8c36d1fa107c1dd67f5c # v11
+        with:
+          kvm: false
+          diagnostic-endpoint: ""
+          source-url: "https://github.com/DeterminateSystems/nix-installer/releases/download/v0.19.0/nix-installer-x86_64-linux"
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+      - name: Setup Git Config
+        run: |
+          git config --global user.name "Nix JetBrains Plugin Update Bot"
+          git config --global user.email "bot.nix-jetbrains-plugins@philippheuer.me"
+      - name: Update Plugins
+        run: |
+          chmod +x scripts/*.sh scripts/*.py
+          ./scripts/update-plugins.py
+      - name: Commit and Push
+        run: |
+          set -e
+          if ! git diff --exit-code --quiet data/cache/plugins.json; then
+            git add data/cache/plugins.json
+            git commit -m "feat: update plugins - $(date +'%Y-%m-%dT%H:%M:%S%z')"
+            git push
+          else
+            echo "No changes. Exiting without committing."
+          fi
