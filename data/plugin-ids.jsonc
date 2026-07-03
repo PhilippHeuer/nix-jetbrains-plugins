@@ -11,6 +11,9 @@
   // sast
   7973,   // sonarlint
 
+  // jvm
+  15075, // jpa-buddy
+
   // themes
   18682,  // catppuccin-theme
   23029,  // catppuccin-icons
@@ -21,4 +24,8 @@
   17718,  // github copilot
   22282,  // jetbrains ai assistant
   26104,  // jetbrains junie
+
+  // misc
+  8575, // nyan-progress-bar
+  10080, // rainbow-brackets
 ]
