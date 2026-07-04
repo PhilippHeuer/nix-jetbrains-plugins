@@ -52,6 +52,28 @@
     "url": "https://plugins.jetbrains.com/files/7973/1084300/sonarlint-intellij-12.4.0.84870.zip",
     "hash": "sha256-KabC9cN7alQjjuNU2D5dZ3B3bTEoF/klkTI1fKH8DD0="
   },
+  "8575": {
+    "id": 8575,
+    "key": "some.awesome",
+    "name": "Nyan Progress Bar",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "mps",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "1.16",
+    "url": "https://plugins.jetbrains.com/files/8575/639875/NyanProgressBar.jar",
+    "hash": "sha256-62UFmSlQHuUHrjqVCpZxMWR/Ts8W4lHgRaq2oMwryX4="
+  },
   "8607": {
     "id": 8607,
     "key": "nix-idea",
@@ -96,6 +118,28 @@
     "url": "https://plugins.jetbrains.com/files/9792/1087783/Key_Promoter_X-2026.1.1.zip",
     "hash": "sha256-KJPkU6w0ufJ2R9hr5mYiUT0tbdZdgUDzbUNrrN2MSts="
   },
+  "10080": {
+    "id": 10080,
+    "key": "izhangzhihao.rainbow.brackets",
+    "name": "Rainbow Brackets",
+    "compatible": [
+      "clion",
+      "datagrip",
+      "dataspell",
+      "goland",
+      "idea",
+      "mps",
+      "phpstorm",
+      "pycharm",
+      "rider",
+      "ruby-mine",
+      "rust-rover",
+      "webstorm"
+    ],
+    "version": "2026.2.0",
+    "url": "https://plugins.jetbrains.com/files/10080/1089311/intellij-rainbow-brackets-2026.2.0.zip",
+    "hash": "sha256-XHCpM+lHckrCcTIR3EtpNPVCYDp+jA3dwD90PmhSvFE="
+  },
   "10321": {
     "id": 10321,
     "key": "com.arcticicestudio.nord.jetbrains",
@@ -117,6 +161,18 @@
     "version": "0.13.0",
     "url": "https://plugins.jetbrains.com/files/10321/100456/nord-jetbrains.jar",
     "hash": "sha256-w70YuRS3FLd+09yFxI8FO8ky9+qKgfPd5uHuvVwWBSU="
+  },
+  "15075": {
+    "id": 15075,
+    "key": "com.haulmont.jpab",
+    "name": "JPA Buddy",
+    "compatible": [
+      "idea",
+      "mps"
+    ],
+    "version": "262.8665.81",
+    "url": "https://plugins.jetbrains.com/files/15075/1096954/JPA_Buddy-262.8665.81.zip",
+    "hash": "sha256-Xz1ukOxfqXnAPeTutNffVhpvTiqvlXOW/aiTvdQl1wU="
   },
   "17718": {
     "id": 17718,
