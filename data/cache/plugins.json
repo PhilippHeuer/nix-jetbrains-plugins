@@ -92,9 +92,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "0.4.0.21",
-    "url": "https://plugins.jetbrains.com/files/8607/1071829/NixIDEA-0.4.0.21.zip",
-    "hash": "sha256-ADXeE8OOLbNf60893m+YEctGEVZZy+PjGLhOB1lVbQs="
+    "version": "0.4.0.22",
+    "url": "https://plugins.jetbrains.com/files/8607/1098881/NixIDEA-0.4.0.22.zip",
+    "hash": "sha256-0vzh9uUWfaP42z7WkySHbr8LDwDPCsf2l4Lhdg+kwNE="
   },
   "9792": {
     "id": 9792,
@@ -114,9 +114,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "2026.1.1",
-    "url": "https://plugins.jetbrains.com/files/9792/1087783/Key_Promoter_X-2026.1.1.zip",
-    "hash": "sha256-KJPkU6w0ufJ2R9hr5mYiUT0tbdZdgUDzbUNrrN2MSts="
+    "version": "2026.1.2",
+    "url": "https://plugins.jetbrains.com/files/9792/1098878/Key_Promoter_X-2026.1.2.zip",
+    "hash": "sha256-l/sWqQLg6iG/FSR1uPpM1vR6mMffHJPg3cCeExje/ek="
   },
   "10080": {
     "id": 10080,
