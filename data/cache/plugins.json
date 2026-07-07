@@ -48,9 +48,9 @@
       "ruby-mine",
       "webstorm"
     ],
-    "version": "12.4.0.84870",
-    "url": "https://plugins.jetbrains.com/files/7973/1084300/sonarlint-intellij-12.4.0.84870.zip",
-    "hash": "sha256-KabC9cN7alQjjuNU2D5dZ3B3bTEoF/klkTI1fKH8DD0="
+    "version": "12.5.0.84934",
+    "url": "https://plugins.jetbrains.com/files/7973/1099447/sonarlint-intellij-12.5.0.84934.zip",
+    "hash": "sha256-oDhuQyHDufBl/02uKw94RzPiyhEAhrDjbvrbPmCCKEg="
   },
   "8575": {
     "id": 8575,
