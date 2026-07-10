@@ -34,6 +34,35 @@ FRIENDLY_TO_PLUGIN = {
 PLUGIN_TO_FRIENDLY = {j: i for i, j in FRIENDLY_TO_PLUGIN.items()}
 
 
+def get_latest_stable_platform():
+    """Fetch the latest stable IDEA build and return its platform number."""
+    resp = get(
+        "https://data.services.jetbrains.com/products/releases",
+        params={"code": "IU", "latest": "true", "type": "release"},
+    )
+    if resp.status_code != 200:
+        logging.warning("Failed to fetch latest stable IDEA build, skipping platform check")
+        return None
+    data = resp.json()
+    releases = data.get("IIU", [])
+    if not releases:
+        logging.warning("No stable IDEA releases found, skipping platform check")
+        return None
+    build = releases[0].get("build", "")
+    platform = int(build.split(".")[0])
+    logging.info("Latest stable IDEA platform: %d (build %s)", platform, build)
+    return platform
+
+
+def is_compatible_with_stable(since_build: str, latest_platform: int) -> bool:
+    """Check if the plugin's minimum build is <= the latest stable platform."""
+    try:
+        since_platform = int(since_build.split(".")[0])
+    except (ValueError, IndexError):
+        return True
+    return since_platform <= latest_platform
+
+
 def read_plugin_ids() -> list[int]:
     with open(PLUGIN_IDS_FILE) as f:
         return json5.load(f)
@@ -58,7 +87,7 @@ def get_nix_hash(url: str) -> str:
     return hash_result.stdout.decode().strip()
 
 
-def process_plugin(pid: int, old_data: dict) -> tuple[int, dict | None]:
+def process_plugin(pid: int, old_data: dict, latest_platform: int | None) -> tuple[int, dict | None]:
     try:
         resp = get(f"https://plugins.jetbrains.com/api/plugins/{pid}")
         if resp.status_code != 200:
@@ -83,7 +112,18 @@ def process_plugin(pid: int, old_data: dict) -> tuple[int, dict | None]:
         logging.warning(f"Plugin {pid}: no updates found")
         return pid, None
 
-    latest = updates[0]
+    if latest_platform is not None:
+        for candidate in updates:
+            since_build = candidate.get("since", "")
+            if not since_build or is_compatible_with_stable(since_build, latest_platform):
+                latest = candidate
+                break
+        else:
+            logging.info(f"Plugin {pid}: no version compatible with platform {latest_platform}")
+            return pid, None
+    else:
+        latest = updates[0]
+
     file_path = latest.get("file")
     if not file_path:
         logging.warning(f"Plugin {pid}: no download file")
@@ -138,18 +178,29 @@ def main():
     plugin_ids = read_plugin_ids()
     logging.info("Processing %d plugins", len(plugin_ids))
 
+    latest_platform = get_latest_stable_platform()
+
     old_data = deserialize_from_file(PLUGINS_FILE) or {}
 
     result = {}
     with ThreadPoolExecutor(max_workers=CONCURRENCY) as executor:
-        futures = {executor.submit(process_plugin, pid, old_data): pid for pid in plugin_ids}
+        futures = {executor.submit(process_plugin, pid, old_data, latest_platform): pid for pid in plugin_ids}
         for future in as_completed(futures):
             pid, data = future.result()
             if data:
                 result[str(pid)] = data
 
     reused = sum(1 for pid in plugin_ids if old_data.get(str(pid), {}).get("url", "") ==
-                 result.get(str(pid), {}).get("url", "") and old_data.get(str(pid), {}).get("hash"))
+                  result.get(str(pid), {}).get("url", "") and old_data.get(str(pid), {}).get("hash"))
+
+    # Remove stale entries for plugins no longer in the curated list
+    plugin_id_set = {str(pid) for pid in plugin_ids}
+    stale_ids = [pid for pid in old_data if pid not in plugin_id_set]
+    if stale_ids:
+        logging.info("Removing %d stale plugin entries: %s", len(stale_ids), stale_ids)
+        for pid in stale_ids:
+            del old_data[pid]
+
     logging.info("Fetched %d/%d plugins (%d hashes reused)", len(result), len(plugin_ids), reused)
     sorted_result = dict(sorted(result.items(), key=lambda item: int(item[0])))
     serialize_to_file(sorted_result, PLUGINS_FILE)
