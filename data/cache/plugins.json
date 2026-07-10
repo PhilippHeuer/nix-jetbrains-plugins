@@ -17,9 +17,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "2.42.0",
-    "url": "https://plugins.jetbrains.com/files/164/1094245/IdeaVIM-2.42.0.zip",
-    "hash": "sha256-kYrlgUyEdgIGXEsJm6Vugf/2kFzEB+GG1Jpi2zbuaj4="
+    "version": "2.42.1",
+    "url": "https://plugins.jetbrains.com/files/164/1102294/IdeaVIM-2.42.1.zip",
+    "hash": "sha256-PRZZAbT3+eO8U1+tLv2nQLr3i+by5mcsA7YAfw6EsY0="
   },
   "6317": {
     "id": 6317,
@@ -29,9 +29,9 @@
       "idea",
       "mps"
     ],
-    "version": "262.8665.81",
-    "url": "https://plugins.jetbrains.com/files/6317/1097040/lombok-262.8665.81.zip",
-    "hash": "sha256-rwsNsBVQmMBGDLxxuEQtWsPqUQNF/fGaguEB9WwoUpU="
+    "version": "262.8665.176",
+    "url": "https://plugins.jetbrains.com/files/6317/1102650/lombok-262.8665.176.zip",
+    "hash": "sha256-3TVjLj3jYswRE5JN7wmHOEc11WOmg2+cKrP27L8qACU="
   },
   "7973": {
     "id": 7973,
@@ -170,9 +170,9 @@
       "idea",
       "mps"
     ],
-    "version": "262.8665.81",
-    "url": "https://plugins.jetbrains.com/files/15075/1096954/JPA_Buddy-262.8665.81.zip",
-    "hash": "sha256-Xz1ukOxfqXnAPeTutNffVhpvTiqvlXOW/aiTvdQl1wU="
+    "version": "262.8665.176",
+    "url": "https://plugins.jetbrains.com/files/15075/1102549/JPA_Buddy-262.8665.176.zip",
+    "hash": "sha256-jKKaz6PT9tco8T3pBhvklqN1s1uQDld5tucL1dV7J7Q="
   },
   "17718": {
     "id": 17718,
@@ -257,9 +257,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "262.8665.158",
-    "url": "https://plugins.jetbrains.com/files/22282/1101627/ml-llm-262.8665.158.zip",
-    "hash": "sha256-FT8+GKBAFvxeClg1IUWlOZQW2Xri4p14YbaEEJmq65k="
+    "version": "262.8665.186",
+    "url": "https://plugins.jetbrains.com/files/22282/1103371/ml-llm-262.8665.186.zip",
+    "hash": "sha256-HnGNTAZydCttTvPFIwrRnt0pEEF3rnmGH8BNWG/VaYs="
   },
   "23029": {
     "id": 23029,
@@ -320,8 +320,8 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "261.2144.20",
-    "url": "https://plugins.jetbrains.com/files/26104/1100915/ej-261.2144.20.zip",
-    "hash": "sha256-4mlS9eRZsYW55vkBiPmu/1TjkFRt2ES/lX7dP3V2XTg="
+    "version": "261.2144.50",
+    "url": "https://plugins.jetbrains.com/files/26104/1103386/ej-261.2144.50.zip",
+    "hash": "sha256-TB0MJjttA8xsBOMFklqTEs+if+CE5PQmOybcOZPVR8Y="
   }
 }
