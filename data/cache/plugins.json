@@ -17,9 +17,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "2.42.1",
-    "url": "https://plugins.jetbrains.com/files/164/1102294/IdeaVIM-2.42.1.zip",
-    "hash": "sha256-PRZZAbT3+eO8U1+tLv2nQLr3i+by5mcsA7YAfw6EsY0="
+    "version": "2.43.0",
+    "url": "https://plugins.jetbrains.com/files/164/1106676/IdeaVIM-2.43.0.zip",
+    "hash": "sha256-3nzfc3q1BtmY9VTXwKfjv8CJihDYe+lSpLa6qnYEfHA="
   },
   "6317": {
     "id": 6317,
