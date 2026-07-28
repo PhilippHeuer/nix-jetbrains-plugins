@@ -192,9 +192,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "1.13.1-251",
-    "url": "https://plugins.jetbrains.com/files/17718/1107620/github-copilot-intellij-1.13.1-251.zip",
-    "hash": "sha256-UpUTNPhWohQ/1213EpnFQcsjBetXYDTlrUIEwOcNtbo="
+    "version": "1.14.1-261-linux-arm64",
+    "url": "https://plugins.jetbrains.com/files/17718/1115903/github-copilot-intellij-1.14.1-261-linux-arm64.zip",
+    "hash": "sha256-iAB/kVQ63TpJHKKp4u6aWHqmk8MSBHCLc3kZAkO5ti0="
   },
   "18141": {
     "id": 18141,
@@ -257,9 +257,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "262.9437.28",
-    "url": "https://plugins.jetbrains.com/files/22282/1115937/ml-llm-262.9437.28.zip",
-    "hash": "sha256-EyR8obvNr3Ddjf1kgg9T8U/nAXD58wNiixVpoFJBGmI="
+    "version": "253.33813.51",
+    "url": "https://plugins.jetbrains.com/files/22282/1118004/ml-llm-253.33813.51.zip",
+    "hash": "sha256-7n0U5MadLlsysnqVX4uFq6hWk5es0DCCjcwHzEkWHnM="
   },
   "23029": {
     "id": 23029,
