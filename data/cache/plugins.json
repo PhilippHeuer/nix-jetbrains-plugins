@@ -192,9 +192,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "1.14.2-261-linux-arm64",
-    "url": "https://plugins.jetbrains.com/files/17718/1118438/github-copilot-intellij-1.14.2-261-linux-arm64.zip",
-    "hash": "sha256-KI6+ZSs1Sl/+inY6QRJ1AnhAsCBn2b4Wy1lR78e5qpM="
+    "version": "1.15.0-261-linux-arm64",
+    "url": "https://plugins.jetbrains.com/files/17718/1128717/github-copilot-intellij-1.15.0-261-linux-arm64.zip",
+    "hash": "sha256-naUutDQ6mQFX4cEfo1N26C/+hzQ9b42bNy4zJ44qA6I="
   },
   "18141": {
     "id": 18141,
