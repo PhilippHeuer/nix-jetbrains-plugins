@@ -257,9 +257,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "262.10315.182",
-    "url": "https://plugins.jetbrains.com/files/22282/1164842/ml-llm-262.10315.182.zip",
-    "hash": "sha256-uFd9DKBAHt/sDW14IscfXKpKKvs7s7wXWPNiDtia2xU="
+    "version": "261.27258.78",
+    "url": "https://plugins.jetbrains.com/files/22282/1165790/ml-llm-261.27258.78.zip",
+    "hash": "sha256-J6pl4FDzjdHYT1OepkTX+yM3cubfCpG844DClr4Wa5A="
   },
   "23029": {
     "id": 23029,
@@ -320,8 +320,8 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "262.2144.110",
-    "url": "https://plugins.jetbrains.com/files/26104/1160174/ej-262.2144.110.zip",
-    "hash": "sha256-1wpjLTfLgG6axrsML9D36nnAt1p4RQzZ03TA+pstSsU="
+    "version": "261.2144.120",
+    "url": "https://plugins.jetbrains.com/files/26104/1166093/ej-261.2144.120.zip",
+    "hash": "sha256-nR5nNDJf74q1Bn94zhG7fKK3bb1lTzwxPGbyaUBBSGc="
   }
 }
