@@ -136,9 +136,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "2026.2.0",
-    "url": "https://plugins.jetbrains.com/files/10080/1089311/intellij-rainbow-brackets-2026.2.0.zip",
-    "hash": "sha256-XHCpM+lHckrCcTIR3EtpNPVCYDp+jA3dwD90PmhSvFE="
+    "version": "2026.2.1",
+    "url": "https://plugins.jetbrains.com/files/10080/1165097/intellij-rainbow-brackets-2026.2.1.zip",
+    "hash": "sha256-r2lQvBGpD3ox2i07rpjpejwoMu/4m9RyfgTarv1SXnE="
   },
   "10321": {
     "id": 10321,
@@ -257,9 +257,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "261.27258.78",
-    "url": "https://plugins.jetbrains.com/files/22282/1165790/ml-llm-261.27258.78.zip",
-    "hash": "sha256-J6pl4FDzjdHYT1OepkTX+yM3cubfCpG844DClr4Wa5A="
+    "version": "261.27258.81",
+    "url": "https://plugins.jetbrains.com/files/22282/1166975/ml-llm-261.27258.81.zip",
+    "hash": "sha256-pYUEwYyY0nXgzpIVCcT9IWVg0i/hrXuBvNjS/lU4cao="
   },
   "23029": {
     "id": 23029,
