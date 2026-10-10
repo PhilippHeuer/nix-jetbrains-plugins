@@ -192,9 +192,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "1.18.0-261-linux-arm64",
-    "url": "https://plugins.jetbrains.com/files/17718/1173990/github-copilot-intellij-1.18.0-261-linux-arm64.zip",
-    "hash": "sha256-zxoIhr02jgBYWYEOEQPihLBzGcaIoZBQYmIdLrpNP7E="
+    "version": "1.19.0-261-linux-arm64",
+    "url": "https://plugins.jetbrains.com/files/17718/1190141/github-copilot-intellij-1.19.0-261-linux-arm64.zip",
+    "hash": "sha256-IEcUH4U5mRLCBo5D8mkdSrR8oqUrvjHcBC2Wpkp9aVc="
   },
   "18141": {
     "id": 18141,
@@ -257,9 +257,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "261.22158.426",
-    "url": "https://plugins.jetbrains.com/files/22282/1185929/ml-llm-261.22158.426.zip",
-    "hash": "sha256-cfiOHz06IvuMAd7mbloCtL9u9Wb5ZoHwumB8cSvYpRc="
+    "version": "262.10968.223",
+    "url": "https://plugins.jetbrains.com/files/22282/1190309/ml-llm-262.10968.223.zip",
+    "hash": "sha256-ugY3HbJwCSr8/9qqp5yeZWgDM+cQ3d19oOD9SOWXDmM="
   },
   "23029": {
     "id": 23029,
@@ -279,9 +279,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "1.13.2",
-    "url": "https://plugins.jetbrains.com/files/23029/1111275/Catppuccin_Icons-1.13.2.zip",
-    "hash": "sha256-/8C5KDxB7XIEfYCfKgAA4V7tQg//Picl1RkmBBBf7Fs="
+    "version": "1.13.3",
+    "url": "https://plugins.jetbrains.com/files/23029/1190329/Catppuccin_Icons-1.13.3.zip",
+    "hash": "sha256-X7LAs/LymY11HBuZX1YzoRysT9syunUdcnmqD61yJtg="
   },
   "23451": {
     "id": 23451,
