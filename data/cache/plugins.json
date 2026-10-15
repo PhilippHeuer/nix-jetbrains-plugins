@@ -48,9 +48,9 @@
       "ruby-mine",
       "webstorm"
     ],
-    "version": "12.9.0.85269",
-    "url": "https://plugins.jetbrains.com/files/7973/1170380/sonarlint-intellij-12.9.0.85269.zip",
-    "hash": "sha256-FYfiPgMyt3HeXrNQlUIXRPdy12+0WXtjArv14Fwe33w="
+    "version": "13.0.0.85671",
+    "url": "https://plugins.jetbrains.com/files/7973/1193767/sonarlint-intellij-13.0.0.85671.zip",
+    "hash": "sha256-R30Je+zfUYw7bZTHHuQGqQ12o8RgsYzUMZ2uAGB0Un4="
   },
   "8575": {
     "id": 8575,
@@ -173,28 +173,6 @@
     "version": "262.10968.63",
     "url": "https://plugins.jetbrains.com/files/15075/1171963/JPA_Buddy-262.10968.63.zip",
     "hash": "sha256-AkO+V6n42M5JZ391k1lPLzHpIATMEQH7ZcncBiqucew="
-  },
-  "17718": {
-    "id": 17718,
-    "key": "com.github.copilot",
-    "name": "GitHub Copilot - Your AI Pair Programmer",
-    "compatible": [
-      "clion",
-      "datagrip",
-      "dataspell",
-      "goland",
-      "idea",
-      "mps",
-      "phpstorm",
-      "pycharm",
-      "rider",
-      "ruby-mine",
-      "rust-rover",
-      "webstorm"
-    ],
-    "version": "1.19.0-261-linux-arm64",
-    "url": "https://plugins.jetbrains.com/files/17718/1190141/github-copilot-intellij-1.19.0-261-linux-arm64.zip",
-    "hash": "sha256-IEcUH4U5mRLCBo5D8mkdSrR8oqUrvjHcBC2Wpkp9aVc="
   },
   "18141": {
     "id": 18141,
