@@ -48,9 +48,9 @@
       "ruby-mine",
       "webstorm"
     ],
-    "version": "13.0.0.85671",
-    "url": "https://plugins.jetbrains.com/files/7973/1193767/sonarlint-intellij-13.0.0.85671.zip",
-    "hash": "sha256-R30Je+zfUYw7bZTHHuQGqQ12o8RgsYzUMZ2uAGB0Un4="
+    "version": "13.1.0.85964",
+    "url": "https://plugins.jetbrains.com/files/7973/1201597/sonarlint-intellij-13.1.0.85964.zip",
+    "hash": "sha256-PZ6/ll4UdkcaTh+Yi+qSLkkHtCTyHMg3/hob3woJlHw="
   },
   "8575": {
     "id": 8575,
@@ -257,9 +257,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "262.10968.238",
-    "url": "https://plugins.jetbrains.com/files/22282/1200535/ml-llm-262.10968.238.zip",
-    "hash": "sha256-oHJegNqtY24XIrSQ86SQvnDVXqavYoKFmHBgSTPQEFM="
+    "version": "262.11879.74",
+    "url": "https://plugins.jetbrains.com/files/22282/1200814/ml-llm-262.11879.74.zip",
+    "hash": "sha256-KmJavXhZ6v1f4MedNTsyDdjdQQqWmKP6jpeggYkkGUg="
   },
   "23029": {
     "id": 23029,
