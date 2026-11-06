@@ -29,9 +29,9 @@
       "idea",
       "mps"
     ],
-    "version": "252.28539.149",
-    "url": "https://plugins.jetbrains.com/files/6317/1207051/lombok-252.28539.149.zip",
-    "hash": "sha256-+UsfeaN6421iWPor1PtEZN3OSQTd3yzEpAfcFxKCP9w="
+    "version": "263.7307.112",
+    "url": "https://plugins.jetbrains.com/files/6317/1207414/lombok-263.7307.112.zip",
+    "hash": "sha256-5f8m9X+Hve+M8300mD0Z14CqTtiYDdZicpbUWEZc9R8="
   },
   "7973": {
     "id": 7973,
@@ -170,9 +170,9 @@
       "idea",
       "mps"
     ],
-    "version": "262.10968.63",
-    "url": "https://plugins.jetbrains.com/files/15075/1171963/JPA_Buddy-262.10968.63.zip",
-    "hash": "sha256-AkO+V6n42M5JZ391k1lPLzHpIATMEQH7ZcncBiqucew="
+    "version": "263.7307.112",
+    "url": "https://plugins.jetbrains.com/files/15075/1207368/JPA_Buddy-263.7307.112.zip",
+    "hash": "sha256-7xDhOIiNbrRBlnkx0CY2MQ663FlfDxs5Emw9/7PEO8k="
   },
   "17718": {
     "id": 17718,
@@ -257,9 +257,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "262.11879.126",
-    "url": "https://plugins.jetbrains.com/files/22282/1211765/ml-llm-262.11879.126.zip",
-    "hash": "sha256-sYK6abTCFsSD4THOT1zaXCuru34Ew3VkXMdfpNsZqBM="
+    "version": "263.7307.216",
+    "url": "https://plugins.jetbrains.com/files/22282/1213029/ml-llm-263.7307.216.zip",
+    "hash": "sha256-LWfCjTv45Ocb/LuugsOqjfeuO78YJoGb+i1lfEuoVOk="
   },
   "23029": {
     "id": 23029,
@@ -320,8 +320,8 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "262.2144.130",
-    "url": "https://plugins.jetbrains.com/files/26104/1198151/ej-262.2144.130.zip",
-    "hash": "sha256-u9XqtheuLjA/VgNv9fhQULN6N9SAy1g4TFAKTYJzu/4="
+    "version": "263.2144.10",
+    "url": "https://plugins.jetbrains.com/files/26104/1198153/ej-263.2144.10.zip",
+    "hash": "sha256-a1kaHp/RVHyR91dDI0z6qG2Ax9JQZY7tPy5+rGZJbo4="
   }
 }
