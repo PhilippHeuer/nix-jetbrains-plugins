@@ -29,9 +29,9 @@
       "idea",
       "mps"
     ],
-    "version": "263.7307.112",
-    "url": "https://plugins.jetbrains.com/files/6317/1207414/lombok-263.7307.112.zip",
-    "hash": "sha256-5f8m9X+Hve+M8300mD0Z14CqTtiYDdZicpbUWEZc9R8="
+    "version": "263.8311.30",
+    "url": "https://plugins.jetbrains.com/files/6317/1224753/lombok-263.8311.30.zip",
+    "hash": "sha256-DYftkP2i1qyLn1HTz3J6czz+DdPS7PijEVoOG36YmvI="
   },
   "7973": {
     "id": 7973,
@@ -257,9 +257,9 @@
       "rust-rover",
       "webstorm"
     ],
-    "version": "262.11879.149",
-    "url": "https://plugins.jetbrains.com/files/22282/1223804/ml-llm-262.11879.149.zip",
-    "hash": "sha256-lNmbaypMyWv3tTtOhCuC/rYe0WKQqmxlZkuuELRiOLs="
+    "version": "263.8311.30",
+    "url": "https://plugins.jetbrains.com/files/22282/1224609/ml-llm-263.8311.30.zip",
+    "hash": "sha256-C7ENgL+JmopDd/3qwAPwa47/0hEPiACAvtRC4ma4PIs="
   },
   "23029": {
     "id": 23029,
